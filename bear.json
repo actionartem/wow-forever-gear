@@ -1,0 +1,2233 @@
+{
+  "specs": [
+    {
+      "id": "feral-tank-druid",
+      "classId": "druid",
+      "label": "Медведь",
+      "role": "Танк",
+      "faction": "Horde",
+      "sourceUrl": "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/",
+      "checkedAt": "2026-11-13",
+      "build": null,
+      "note": "Кандидаты для медведя 60 уровня по каталогу Forever; порядок не является рейтингом. Номер билда каталога не указан. Добыча и рецепты сверены по страницам Forever; отсутствующие сведения отмечены отдельно.",
+      "slots": [
+        {
+          "id": "helmet",
+          "label": "Голова",
+          "items": [
+            {
+              "id": "252485",
+              "name": "Warbear Helm",
+              "nameEn": "Warbear Helm",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_helmet_31.webp",
+              "stats": [
+                "Становится персональным при надевании",
+                "Голова",
+                "Кожа",
+                "152 брони",
+                "+33 к выносливости",
+                "+14 к ловкости",
+                "+18 к силе",
+                "Требуется уровень 56",
+                "Уровень предмета 61"
+              ],
+              "source": "Кожевничество",
+              "location": "Изготовление",
+              "steps": [
+                "Кожевничество 300; изготовление у Sewing Machine. Предмет можно передать до надевания.",
+                "Материалы: Rugged Leather ×20, Warbear Leather ×20, Rune Thread ×4, Cured Rugged Hide ×2, Pristine Scale ×10, Fel Leather ×20.",
+                "Рецепт называется Pattern: Warbear Helm. Текущая открытая база не подтверждает, кто его продаёт или с кого он выпадает; место получения рецепта пока не установлено."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=252485"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#helmet"
+                ],
+                [
+                  "Рецепт и материалы",
+                  "https://www.wowhead.com/forever/spell=1255013/warbear-helm"
+                ],
+                [
+                  "Pattern: Warbear Helm",
+                  "https://bindonforever.com/item/252894"
+                ]
+              ],
+              "tooltipOriginal": "Warbear Helm\nBinds when equipped\nHead\nLeather\n152 Armor\n+33 Stamina\n+14 Agility\n+18 Strength\nRequires Level 56\nItem Level 61",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Кожевничество",
+                "skill": 300,
+                "recipeSourceVerified": false
+              },
+              "itemId": 252485,
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-1255013",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Rugged Leather",
+                  "quantity": 20,
+                  "url": "https://www.wowhead.com/forever/item=8170"
+                },
+                {
+                  "name": "Warbear Leather",
+                  "quantity": 20,
+                  "url": "https://www.wowhead.com/forever/item=15419"
+                },
+                {
+                  "name": "Fel Leather",
+                  "quantity": 20,
+                  "url": "https://www.wowhead.com/forever/item=248825"
+                },
+                {
+                  "name": "Pristine Scale",
+                  "quantity": 10,
+                  "url": "https://www.wowhead.com/forever/item=249429"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 4,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                },
+                {
+                  "name": "Cured Rugged Hide",
+                  "quantity": 2,
+                  "url": "https://www.wowhead.com/forever/item=15407"
+                }
+              ]
+            },
+            {
+              "id": "279253",
+              "name": "Outlaw's Collar",
+              "nameEn": "Outlaw's Collar",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_misc_bandana_03.webp",
+              "stats": [
+                "Становится персональным при надевании",
+                "Голова",
+                "Кожа",
+                "160 брони",
+                "+31 к выносливости",
+                "+21 к ловкости",
+                "Требуется уровень 60",
+                "Уровень предмета 65",
+                "Критический удар +1.5%."
+              ],
+              "source": "Кожевничество",
+              "location": "Изготовление",
+              "steps": [
+                "Нужен мастер: кожевничество, навык 300, рецепт Pattern: Outlaw's Collar.",
+                "В проверенной базе место получения выкройки не раскрыто; нужен мастер с уже изученным рецептом.",
+                "Материалы: Malleable Essence of Nature ×3; Fel Hide ×2; Fel Leather ×22.",
+                "Предмет привязывается при надевании: можно заказать изготовление или купить готовый у игроков.",
+                "Malleable Essence of Nature получается распылением предметов из Hyjal Summit и Barrow Deeps. Для подготовки без личного рейдового прогресса потребуется торговля готовой вещью или этими материалами."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=279253"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#helmet"
+                ],
+                [
+                  "Выкройка и материалы",
+                  "https://www.wowhead.com/forever/item=279302/pattern-outlaws-collar"
+                ],
+                [
+                  "Предмет и добыча · WOWTBC.GG",
+                  "https://wowtbc.gg/warcraftforever/bis-list/beast-mastery-hunter/#helmet"
+                ],
+                [
+                  "Рецепт · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=279302/pattern-outlaws-collar"
+                ],
+                [
+                  "Материалы · Wowhead Forever",
+                  "https://www.wowhead.com/forever/spell=1306527/outlaws-collar"
+                ],
+                [
+                  "Источник рейдового реагента",
+                  "https://www.wowhead.com/forever/item=274030/malleable-essence-of-nature"
+                ],
+                [
+                  "Pattern: Outlaw's Collar",
+                  "https://bindonforever.com/item/279302"
+                ]
+              ],
+              "tooltipOriginal": "Outlaw's Collar\nBinds when equipped\nHead\nLeather\n160 Armor\n+31 Stamina\n+21 Agility\nRequires Level 60\nItem Level 65\nEquip: Improves your chance to get a critical strike by 1.5%.",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Кожевничество",
+                "skill": 300,
+                "recipeSourceVerified": false
+              },
+              "itemId": 279253,
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-1306527",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Fel Leather",
+                  "quantity": 22,
+                  "url": "https://www.wowhead.com/forever/item=248825"
+                },
+                {
+                  "name": "Malleable Essence of Nature",
+                  "quantity": 3,
+                  "url": "https://www.wowhead.com/forever/item=274030"
+                },
+                {
+                  "name": "Fel Hide",
+                  "quantity": 2,
+                  "url": "https://www.wowhead.com/forever/item=248824"
+                }
+              ]
+            },
+            {
+              "id": "13404",
+              "name": "Mask of the Unforgiven",
+              "nameEn": "Mask of the Unforgiven",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_misc_bandana_01.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Голова",
+                "Кожа",
+                "132 брони",
+                "+13 к выносливости",
+                "Требуется уровень 52",
+                "Уровень предмета 57",
+                "Критический удар +1%.",
+                "Меткость +2%.",
+                "Защита +6."
+              ],
+              "source": "Непрощенный",
+              "location": "Стратхольм",
+              "steps": [
+                "Подземелье: Стратхольм.",
+                "Убить The Unforgiven; предмет указан в его добыче. Повторять прохождение при отсутствии нужного предмета."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=13404"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#helmet"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=13404"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/fury-warrior/"
+                ]
+              ],
+              "tooltipOriginal": "Mask of the Unforgiven\nBinds when picked up\nHead\nLeather\n132 Armor\n+13 Stamina\nRequires Level 52\nItem Level 57\nEquip: Improves your chance to get a critical strike by 1%.\nEquip: Increases your chance to hit by 2%.\nEquip: Increased Defense +6.",
+              "itemId": 13404
+            }
+          ]
+        },
+        {
+          "id": "neck",
+          "label": "Шея",
+          "items": [
+            {
+              "id": "19491",
+              "name": "Amulet of the Darkmoon",
+              "nameEn": "Amulet of the Darkmoon",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_jewelry_necklace_14.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Шея",
+                "+10 к выносливости",
+                "+19 к ловкости",
+                "+10 к силе",
+                "Требуется уровень 60",
+                "Уровень предмета 65"
+              ],
+              "source": "1200 Tickets - Amulet of the Darkmoon",
+              "location": "Задание",
+              "steps": [
+                "Цель — 1200 Darkmoon Prize Tickets. На 60-м уровне получать билеты через сдачи материалов NPC ярмарки: Yebb Neblegear, Kerri Hicks, Rinling или Chronos.",
+                "Выбрать подходящую сдачу по доступным материалам. Например, старший уровень включает Dense Grinding Stone, Thorium Widget, Rugged Armor Kit, Evil Bat Eye или Glowing Scorpid Blood. Количество билетов и доступность задания зависят от этапа репутации; проверить перед массовой закупкой.",
+                "При накопленных 1200 билетах найти Gelvas Grimegate на действующей Ярмарке Новолуния.",
+                "Завершить обмен «1200 Tickets — Amulet of the Darkmoon». Награда персональная при получении, для ношения требуется 60-й уровень.",
+                "Для Орды удобна ярмарка в Мулгоре, юго-западнее Громового Утёса. Когда она в Элвинне: дирижабль до Гром’гола → север через Тернистую долину и Сумеречный лес → переправа в Элвинн → ярмарка южнее Златоземья."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=19491"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#neck"
+                ],
+                [
+                  "Обмен 1200 билетов",
+                  "https://www.wowhead.com/forever/quest=7981/1200-tickets-amulet-of-the-darkmoon"
+                ],
+                [
+                  "Предмет и добыча · WOWTBC.GG",
+                  "https://wowtbc.gg/warcraftforever/bis-list/beast-mastery-hunter/#neck"
+                ],
+                [
+                  "Задание и сдача",
+                  "https://www.wowhead.com/forever/quest=7981/1200-tickets-amulet-of-the-darkmoon"
+                ],
+                [
+                  "Gelvas Grimegate · карта",
+                  "https://www.wowhead.com/forever/npc=14828/gelvas-grimegate"
+                ],
+                [
+                  "Обмен 1200 билетов",
+                  "https://www.wowhead.com/forever/quest=7981"
+                ],
+                [
+                  "Сдачи материалов и маршрут Орды",
+                  "https://www.wowhead.com/forever/guide/darkmoon-faire-event-overview-guide"
+                ]
+              ],
+              "tooltipOriginal": "Amulet of the Darkmoon\nBinds when picked up\nNeck\n+10 Stamina\n+19 Agility\n+10 Strength\nRequires Level 60\nItem Level 65",
+              "acquisition": {
+                "kind": "quest",
+                "checkedAt": "2026-11-13",
+                "questChainVerified": true
+              },
+              "itemId": 19491,
+              "note": "По руководству Wowhead Forever, обновлённому 09.11.2026. Перед фармом проверить календарь и доступные сдачи на сервере."
+            },
+            {
+              "id": "22150",
+              "name": "Beads of Ogre Might",
+              "nameEn": "Beads of Ogre Might",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_jewelry_amulet_05.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Шея",
+                "+7 к выносливости",
+                "Уровень предмета 63",
+                "Меткость +1%.",
+                "Сила атаки +24."
+              ],
+              "source": "Falrin's Vendetta",
+              "location": "Задание",
+              "steps": [
+                "Это награда Falrin’s Vendetta внутри длинной цепочки улучшения подземельного комплекта. У Орды начало — Mokvar в Оргриммаре (35, 38.3), An Earnest Proposition; начальные наручи и условия зависят от класса.",
+                "Общая последовательность подготовки: A Supernatural Device → The Ectoplasmic Distiller → Hunting for Ectoplasm → A Portable Power Source → A Shifty Merchant → возвращение к Mokvar → Just Compensation.",
+                "Далее In Search of Anthion → Dead Man’s Plea → Proof of Life → Anthion’s Strange Request → Anthion’s Old Friend. Затем обратиться к Falrin Treeshaper в библиотеке (Athenaeum) Забытого Города.",
+                "Взять Falrin’s Vendetta и собрать 25 Ogre Warbeads с огров внутри Забытого Города или Пика Чёрной горы.",
+                "Вернуться к Falrin Treeshaper и выбрать Beads of Ogre Might. Beads of Ogre Might и Beads of Ogre Mojo — взаимоисключающие награды."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=22150"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#neck"
+                ],
+                [
+                  "Цепочка и условия Falrin",
+                  "https://www.wowhead.com/forever/quest=8949/falrins-vendetta"
+                ],
+                [
+                  "Предыдущий этап",
+                  "https://www.wowhead.com/forever/quest=8948/anthions-old-friend"
+                ],
+                [
+                  "Задание и полная последовательность",
+                  "https://www.forever-xp.com/quests/8949/"
+                ],
+                [
+                  "Пример начала Орды у Mokvar",
+                  "https://www.forever-xp.com/quests/8913/"
+                ],
+                [
+                  "Цели и награды Forever",
+                  "https://www.wowhead.com/forever/quest=8949/falrins-vendetta"
+                ]
+              ],
+              "tooltipOriginal": "Beads of Ogre Might\nBinds when picked up\nNeck\n+7 Stamina\nItem Level 63\nEquip: Increases your chance to hit by 1%.\nEquip: +24 Attack Power.",
+              "acquisition": {
+                "kind": "quest",
+                "checkedAt": "2026-11-13",
+                "questChainVerified": false,
+                "missing": "Ранние классовые этапы Tier 0.5 до Just Compensation не расписаны."
+              },
+              "itemId": 22150,
+              "note": "Основной маршрут и 25 бусин проверены. Полная подготовка Tier 0.5 зависит от класса; её материалы, деньги и промежуточные цели здесь ещё не раскрыты. Это не короткое отдельное задание."
+            },
+            {
+              "id": "19095",
+              "name": "Frostwolf Legionnaire's Pendant",
+              "nameEn": "Frostwolf Legionnaire's Pendant",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_jewelry_necklace_16.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Шея",
+                "+15 к выносливости",
+                "Требуется уровень 55",
+                "Уровень предмета 60",
+                "Сила атаки +18."
+              ],
+              "source": "Грюнда Волчье Сердце",
+              "location": "Альтеракская долина",
+              "steps": [
+                "Место — Альтеракская долина.",
+                "Источник — Грюнда Волчье Сердце."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=19095"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#neck"
+                ]
+              ],
+              "tooltipOriginal": "Frostwolf Legionnaire's Pendant\nBinds when picked up\nNeck\n+15 Stamina\nRequires Level 55\nItem Level 60\nEquip: +18 Attack Power.",
+              "itemId": 19095
+            }
+          ]
+        },
+        {
+          "id": "shoulder",
+          "label": "Плечи",
+          "items": [
+            {
+              "id": "20194",
+              "name": "Defiler's Leather Shoulders",
+              "nameEn": "Defiler's Leather Shoulders",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_shoulder_24.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Уникальный",
+                "Плечи",
+                "Кожа",
+                "258 брони",
+                "+17 к выносливости",
+                "+18 к ловкости",
+                "Требуется уровень 60",
+                "Требуется превознесение с Осквернителями",
+                "Уровень предмета 65",
+                "Сила атаки +30.",
+                "The Defiler's Purpose (0/3)",
+                "Defiler's Leather Boots",
+                "Defiler's Leather Girdle",
+                "Defiler's Leather Shoulders",
+                "Комплект (2) — +5 к выносливости.",
+                "Комплект (3) — критический удар в ближнем бою +1.0%."
+              ],
+              "source": "Осквернители — превознесение",
+              "location": "Репутация",
+              "steps": [
+                "Достигни указанной репутации — Осквернители — превознесение.",
+                "Предмет продается у интенданта соответствующей фракции."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=20194"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#shoulder"
+                ]
+              ],
+              "tooltipOriginal": "Defiler's Leather Shoulders\nBinds when picked up\nUnique\nShoulder\nLeather\n258 Armor\n+17 Stamina\n+18 Agility\nRequires Level 60\nRequires The Defilers - Exalted\nItem Level 65\nEquip: +30 Attack Power.\nThe Defiler's Purpose (0/3)\nDefiler's Leather Boots\nDefiler's Leather Girdle\nDefiler's Leather Shoulders\n(2) Set: +5 Stamina.\n(3) Set: Improves your chance to get a critical strike with melee attacks by 1.0%.",
+              "itemId": 20194
+            },
+            {
+              "id": "19058",
+              "name": "Golden Mantle of the Dawn",
+              "nameEn": "Golden Mantle of the Dawn",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_shoulder_26.webp",
+              "stats": [
+                "Становится персональным при надевании",
+                "Плечи",
+                "Кожа",
+                "129 брони",
+                "+20 к выносливости",
+                "+11 к ловкости",
+                "+13 к силе",
+                "Требуется уровень 56",
+                "Уровень предмета 61"
+              ],
+              "source": "Кожевничество",
+              "location": "Изготовление",
+              "steps": [
+                "Кожевничество 300. Для изучения выкройки нужно Почтение Серебряного Рассвета.",
+                "Выкройка Pattern: Golden Mantle of the Dawn есть у Argent Quartermaster Hasana в Тирисфальских лесах.",
+                "Материалы: Enchanted Leather ×8, Living Essence ×4, Guardian Stone ×4, Cured Rugged Hide ×2, Rune Thread ×2.",
+                "Наплечники передаются до надевания: можно заказать у кожевника с изученной выкройкой."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=19058"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#shoulder"
+                ],
+                [
+                  "Выкройка",
+                  "https://www.wowhead.com/forever/item=19329/pattern-golden-mantle-of-the-dawn"
+                ],
+                [
+                  "Торговец Hasana",
+                  "https://www.wowhead.com/forever/npc=10856/argent-quartermaster-hasana"
+                ],
+                [
+                  "Материалы",
+                  "https://www.wowhead.com/forever/spell=23706/golden-mantle-of-the-dawn"
+                ],
+                [
+                  "Pattern: Golden Mantle of the Dawn",
+                  "https://bindonforever.com/item/19329"
+                ],
+                [
+                  "Pattern: Golden Mantle of the Dawn",
+                  "https://bindonforever.com/item/227895"
+                ]
+              ],
+              "tooltipOriginal": "Golden Mantle of the Dawn\nBinds when equipped\nShoulder\nLeather\n129 Armor\n+20 Stamina\n+11 Agility\n+13 Strength\nRequires Level 56\nItem Level 61",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Кожевничество",
+                "skill": 300,
+                "recipeSourceVerified": true
+              },
+              "itemId": 19058,
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-23706",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Enchanted Leather",
+                  "quantity": 8,
+                  "url": "https://www.wowhead.com/forever/item=12810"
+                },
+                {
+                  "name": "Living Essence",
+                  "quantity": 4,
+                  "url": "https://www.wowhead.com/forever/item=12803"
+                },
+                {
+                  "name": "Guardian Stone",
+                  "quantity": 4,
+                  "url": "https://www.wowhead.com/forever/item=12809"
+                },
+                {
+                  "name": "Cured Rugged Hide",
+                  "quantity": 2,
+                  "url": "https://www.wowhead.com/forever/item=15407"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 2,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                }
+              ]
+            },
+            {
+              "id": "272105",
+              "name": "Наплечье Черного Копья",
+              "nameEn": "Darkspear Pauldrons",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_shoulder_06.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Плечи",
+                "Кожа",
+                "148 брони",
+                "+12 к выносливости",
+                "+27 к ловкости",
+                "Требуется уровень 60",
+                "Требуется превознесение с Налетчиками Черного Копья",
+                "Уровень предмета 65",
+                "Критический удар +1%."
+              ],
+              "source": "Налетчики Черного Копья — превознесение",
+              "location": "Репутация",
+              "steps": [
+                "Играй на поле боя Острова Черного Копья. Проверь разовый квест на победу и сдачу знаков по три штуки.",
+                "На «Превознесении» ищи Крига Ботмяса в Степях, около 65, 34.6."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=272105"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#shoulder"
+                ],
+                [
+                  "Налетчики Черного Копья",
+                  "https://www.wowhead.com/forever/ru/faction=2798"
+                ],
+                [
+                  "Сдача знаков на 60-м уровне",
+                  "https://www.wowhead.com/forever/ru/quest=98893"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/272105?lang=ru"
+                ]
+              ],
+              "tooltipOriginal": "Darkspear Pauldrons\nBinds when picked up\nShoulder\nLeather\n148 Armor\n+12 Stamina\n+27 Agility\nRequires Level 60\nRequires Darkspear Raiders - Exalted\nItem Level 65\nEquip: Improves your chance to get a critical strike by 1%.",
+              "itemId": 272105
+            }
+          ]
+        },
+        {
+          "id": "back",
+          "label": "Спина",
+          "items": [
+            {
+              "id": "272415",
+              "name": "Stalwart Cloak",
+              "nameEn": "Stalwart Cloak",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_misc_cape_16.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Спина",
+                "Ткань",
+                "126 брони",
+                "+14 к выносливости",
+                "Требуется уровень 60",
+                "Уровень предмета 65",
+                "Меткость +1%."
+              ],
+              "source": "Пикс Ксиззикс",
+              "location": "Тернистая долина",
+              "steps": [
+                "Найти торговца Pix Xizzix — Тернистая долина.",
+                "Проверить доступный ассортимент и требования предмета."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=272415"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#back"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=272415"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/protection-warrior/"
+                ]
+              ],
+              "tooltipOriginal": "Stalwart Cloak\nBinds when picked up\nBack\nCloth\n126 Armor\n+14 Stamina\nRequires Level 60\nItem Level 65\nEquip: Increases your chance to hit by 1%.",
+              "itemId": 272415
+            },
+            {
+              "id": "18413",
+              "name": "Cloak of Warding",
+              "nameEn": "Cloak of Warding",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_misc_cape_06.webp",
+              "stats": [
+                "Становится персональным при надевании",
+                "Спина",
+                "Ткань",
+                "214 брони",
+                "Требуется уровень 57",
+                "Уровень предмета 62",
+                "Защита +5."
+              ],
+              "source": "Портняжное дело",
+              "location": "Изготовление",
+              "steps": [
+                "Портняжное дело 280. Персональная выкройка находится в Knot Thimblejack's Cache в северном крыле Забытого Города.",
+                "В северном крыле добудьте Gordok Shackle Key с огров. Выполните Free Knot! у пленника Knot Thimblejack рядом с маршрутом Guard Slip'kik.",
+                "После освобождения пленник оставляет ящик с материалами и возможными рецептами. Нужна Pattern: Cloak of Warding.",
+                "Материалы плаща: Bolt of Runecloth ×12, Guardian Stone ×4, Arcanite Bar ×1, Rune Thread ×2. Готовый плащ передаётся до надевания."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=18413"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#back"
+                ],
+                [
+                  "Выкройка",
+                  "https://www.wowhead.com/forever/item=18418/pattern-cloak-of-warding"
+                ],
+                [
+                  "Материалы",
+                  "https://www.wowhead.com/forever/spell=22870/cloak-of-warding"
+                ],
+                [
+                  "Освобождение Knot",
+                  "https://www.wowhead.com/forever/guide/dire-maul-gordoks-commons-north-dungeon-overview-location-rewards"
+                ],
+                [
+                  "Pattern: Cloak of Warding",
+                  "https://bindonforever.com/item/18418"
+                ]
+              ],
+              "tooltipOriginal": "Cloak of Warding\nBinds when equipped\nBack\nCloth\n214 Armor\nRequires Level 57\nItem Level 62\nEquip: Increased Defense +5.",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Портняжное дело",
+                "skill": 280,
+                "recipeSourceVerified": true
+              },
+              "itemId": 18413,
+              "recipeSourceUrl": "https://bindonforever.com/professions/tailoring#r-22870",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Bolt of Runecloth",
+                  "quantity": 12,
+                  "url": "https://www.wowhead.com/forever/item=14048"
+                },
+                {
+                  "name": "Guardian Stone",
+                  "quantity": 4,
+                  "url": "https://www.wowhead.com/forever/item=12809"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 2,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                },
+                {
+                  "name": "Arcanite Bar",
+                  "quantity": 1,
+                  "url": "https://www.wowhead.com/forever/item=12360"
+                }
+              ]
+            },
+            {
+              "id": "stoneskin-gargoyle-cape",
+              "name": "Stoneskin Gargoyle Cape",
+              "nameEn": "Stoneskin Gargoyle Cape",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_misc_cape_19.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Спина",
+                "Ткань",
+                "94 брони",
+                "+14 к выносливости",
+                "+8 к ловкости",
+                "+7 к силе",
+                "Требуется уровень 57",
+                "Уровень предмета 62"
+              ],
+              "source": "Каменный Гребень",
+              "location": "Стратхольм",
+              "steps": [
+                "Подземелье: Стратхольм.",
+                "Убить Stonespine; предмет указан в его добыче. Повторять прохождение при отсутствии нужного предмета."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Stoneskin%20Gargoyle%20Cape"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#back"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=13397"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=13397"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/protection-warrior/"
+                ]
+              ],
+              "tooltipOriginal": "Stoneskin Gargoyle Cape\nBinds when picked up\nBack\nCloth\n94 Armor\n+14 Stamina\n+8 Agility\n+7 Strength\nRequires Level 57\nItem Level 62"
+            }
+          ]
+        },
+        {
+          "id": "chest",
+          "label": "Грудь",
+          "items": [
+            {
+              "id": "227803",
+              "name": "Dire Warbear Harness",
+              "nameEn": "Dire Warbear Harness",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_chest_leather_04.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Грудь",
+                "Кожа",
+                "307 брони",
+                "+30 к выносливости",
+                "+10 к ловкости",
+                "Требуется уровень 60",
+                "Требуется кожевничество (290)",
+                "Уровень предмета 65",
+                "Меткость +1%.",
+                "Защита +14."
+              ],
+              "source": "Мейлош",
+              "location": "Оскверненный лес",
+              "steps": [
+                "Мейлош в Оскверненном лесу.",
+                "Условия профессии указаны в характеристиках предмета."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=227803"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#chest"
+                ]
+              ],
+              "tooltipOriginal": "Dire Warbear Harness\nBinds when picked up\nChest\nLeather\n307 Armor\n+30 Stamina\n+10 Agility\nRequires Level 60\nRequires Leatherworking (290)\nItem Level 65\nEquip: Increases your chance to hit by 1%.\nEquip: Increased Defense +14.",
+              "itemId": 227803
+            },
+            {
+              "id": "songbird-blouse",
+              "name": "Songbird Blouse",
+              "nameEn": "Songbird Blouse",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_chest_cloth_38.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Грудь",
+                "Кожа",
+                "165 брони",
+                "+22 к выносливости",
+                "+10 к ловкости",
+                "+14 к силе",
+                "Требуется уровень 53",
+                "Уровень предмета 58",
+                "Защита +7."
+              ],
+              "source": "Певчий Форрестен",
+              "location": "Стратхольм",
+              "steps": [
+                "Место — Стратхольм.",
+                "Источник — Певчий Форрестен."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Songbird%20Blouse"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#chest"
+                ]
+              ],
+              "tooltipOriginal": "Songbird Blouse\nBinds when picked up\nChest\nLeather\n165 Armor\n+22 Stamina\n+10 Agility\n+14 Strength\nRequires Level 53\nItem Level 58\nEquip: Increased Defense +7."
+            },
+            {
+              "id": "15064",
+              "name": "Портупея боевого медведя",
+              "nameEn": "Warbear Harness",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_chest_leather_04.webp",
+              "stats": [
+                "Становится персональным при надевании",
+                "Грудь",
+                "Кожа",
+                "158 брони",
+                "+27 к выносливости",
+                "+18 к ловкости",
+                "+11 к силе",
+                "Требуется уровень 50",
+                "Уровень предмета 55"
+              ],
+              "source": "Кожевничество",
+              "location": "Изготовление",
+              "steps": [
+                "Выкройка Pattern: Warbear Harness требует Кожевничество 250 и Tribal Leatherworking — специализацию «Племена».",
+                "Материалы: Rugged Leather ×28, Warbear Leather ×12, Rune Thread ×1.",
+                "Готовая броня передаётся до надевания. Источник именно текущей выкройки Forever не подтверждён; старые комментарии о торговце не использованы как проверенная добыча."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=15064"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#chest"
+                ],
+                [
+                  "Выкройка и требования",
+                  "https://www.wowhead.com/forever/item=15742/pattern-warbear-harness"
+                ],
+                [
+                  "Материалы",
+                  "https://www.wowhead.com/forever/spell=19068/warbear-harness"
+                ],
+                [
+                  "Pattern: Warbear Harness",
+                  "https://bindonforever.com/item/15742"
+                ],
+                [
+                  "Pattern: Warbear Harness",
+                  "https://bindonforever.com/item/20253"
+                ]
+              ],
+              "tooltipOriginal": "Warbear Harness\nBinds when equipped\nChest\nLeather\n158 Armor\n+27 Stamina\n+18 Agility\n+11 Strength\nRequires Level 50\nItem Level 55",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Кожевничество",
+                "skill": 250,
+                "recipeSourceVerified": false
+              },
+              "itemId": 15064,
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-19068",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Rugged Leather",
+                  "quantity": 28,
+                  "url": "https://www.wowhead.com/forever/item=8170"
+                },
+                {
+                  "name": "Warbear Leather",
+                  "quantity": 12,
+                  "url": "https://www.wowhead.com/forever/item=15419"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 1,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "wrist",
+          "label": "Запястья",
+          "items": [
+            {
+              "id": "blackmist-armguards",
+              "name": "Blackmist Armguards",
+              "nameEn": "Blackmist Armguards",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_bracer_07.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Запястья",
+                "Кожа",
+                "77 брони",
+                "+13 к выносливости",
+                "+5 к силе",
+                "+7 к сопротивлению темной магии",
+                "Требуется уровень 58",
+                "Уровень предмета 63",
+                "Меткость +1%."
+              ],
+              "source": "Зверь",
+              "location": "Верхняя часть Пика Черной горы",
+              "steps": [
+                "Место — Верхняя часть Пика Черной горы.",
+                "Источник — Зверь."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Blackmist%20Armguards"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#wrist"
+                ]
+              ],
+              "tooltipOriginal": "Blackmist Armguards\nBinds when picked up\nWrist\nLeather\n77 Armor\n+13 Stamina\n+5 Strength\n+7 Shadow Resistance\nRequires Level 58\nItem Level 63\nEquip: Increases your chance to hit by 1%."
+            },
+            {
+              "id": "19587",
+              "name": "Наручи лесного следопыта",
+              "nameEn": "Forest Stalker's Bracers",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_bracer_12.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Запястья",
+                "Кожа",
+                "86 брони",
+                "+8 к выносливости",
+                "+19 к ловкости",
+                "+11 к силе",
+                "Требуется уровень 60",
+                "Требуется превознесение со Всадниками Песни Войны",
+                "Уровень предмета 65"
+              ],
+              "source": "Всадники Песни Войны — превознесение",
+              "location": "Репутация",
+              "steps": [
+                "Играй в Ущелье Песни Войны. Захваты флагов и сдача знаков повышают репутацию.",
+                "На уровне «Превознесение» ищи Кельма Харгюнта у входа в Ущелье со стороны Степей, около 46.6, 8.4. Сверь уровень версии у торговца."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=19587"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#wrist"
+                ],
+                [
+                  "Предмет и добыча · WOWTBC.GG",
+                  "https://wowtbc.gg/warcraftforever/bis-list/beast-mastery-hunter/#wrist"
+                ],
+                [
+                  "Kelm Hargunth · карта и ассортимент",
+                  "https://azeroth.wiki/forever/map/the-barrens/kelm-hargunth"
+                ],
+                [
+                  "Кельм Харгюнт",
+                  "https://www.wowhead.com/forever/ru/npc=14754"
+                ],
+                [
+                  "Всадники Песни Войны",
+                  "https://www.wowhead.com/forever/ru/faction=889"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19587?lang=ru"
+                ]
+              ],
+              "tooltipOriginal": "Forest Stalker's Bracers\nBinds when picked up\nWrist\nLeather\n86 Armor\n+8 Stamina\n+19 Agility\n+11 Strength\nRequires Level 60\nRequires Silverwing Sentinels / Warsong Outriders - Exalted\nItem Level 65",
+              "itemId": 19587
+            },
+            {
+              "id": "magistrate-s-cuffs",
+              "name": "Magistrate's Cuffs",
+              "nameEn": "Magistrate's Cuffs",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_bracer_11.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Запястья",
+                "Кожа",
+                "73 брони",
+                "+15 к выносливости",
+                "Требуется уровень 54",
+                "Уровень предмета 59",
+                "Защита +7."
+              ],
+              "source": "Мировой судья Бартилас",
+              "location": "Стратхольм",
+              "steps": [
+                "Место — Стратхольм.",
+                "Источник — Мировой судья Бартилас."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Magistrate%27s%20Cuffs"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#wrist"
+                ]
+              ],
+              "tooltipOriginal": "Magistrate's Cuffs\nBinds when picked up\nWrist\nLeather\n73 Armor\n+15 Stamina\nRequires Level 54\nItem Level 59\nEquip: Increased Defense +7."
+            }
+          ]
+        },
+        {
+          "id": "hands",
+          "label": "Кисти рук",
+          "items": [
+            {
+              "id": "272099",
+              "name": "Перчатки налетчика",
+              "nameEn": "Raider Gloves",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_gauntlets_27.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Кисти рук",
+                "Кожа",
+                "123 брони",
+                "+15 к выносливости",
+                "+27 к ловкости",
+                "+11 к силе",
+                "Требуется уровень 60",
+                "Требуется превознесение с Налетчиками Черного Копья",
+                "Уровень предмета 65"
+              ],
+              "source": "Налетчики Черного Копья — превознесение",
+              "location": "Репутация",
+              "steps": [
+                "Подними репутацию Darkspear Raiders до превознесения, участвуя в боях на островах Чёрного Копья.",
+                "Отправляйся к Creeg Bothunk в Степях, к северу от Кабестана (65.0,34.6), и купи нужную вещь. Требуется60 уровень."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=272099"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#hands"
+                ],
+                [
+                  "Предмет и добыча · WOWTBC.GG",
+                  "https://wowtbc.gg/warcraftforever/bis-list/beast-mastery-hunter/#hands"
+                ],
+                [
+                  "PvP и интенданты Forever",
+                  "https://www.wowhead.com/forever/guide/pvp-overview-ranking-rewards"
+                ],
+                [
+                  "Darkspear Epaulets · продавец",
+                  "https://www.wowhead.com/forever/item=272106/darkspear-epaulets"
+                ]
+              ],
+              "tooltipOriginal": "Raider Gloves\nBinds when picked up\nHands\nLeather\n123 Armor\n+15 Stamina\n+27 Agility\n+11 Strength\nRequires Level 60\nRequires Darkspear Raiders - Exalted\nItem Level 65",
+              "itemId": 272099
+            },
+            {
+              "id": "227809",
+              "name": "Studded Timbermaw Brawlers",
+              "nameEn": "Studded Timbermaw Brawlers",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_gauntlets_26.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Кисти рук",
+                "Кожа",
+                "123 брони",
+                "+14 к выносливости",
+                "+10 к ловкости",
+                "+20 к силе",
+                "Требуется уровень 60",
+                "Требуется кожевничество (290)",
+                "Уровень предмета 65"
+              ],
+              "source": "Мейлош",
+              "location": "Оскверненный лес",
+              "steps": [
+                "Мейлош в Оскверненном лесу.",
+                "Условия профессии указаны в характеристиках предмета."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=227809"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#hands"
+                ]
+              ],
+              "tooltipOriginal": "Studded Timbermaw Brawlers\nBinds when picked up\nHands\nLeather\n123 Armor\n+14 Stamina\n+10 Agility\n+20 Strength\nRequires Level 60\nRequires Leatherworking (290)\nItem Level 65",
+              "itemId": 227809
+            },
+            {
+              "id": "252549",
+              "name": "Warden's Leather Gauntlets",
+              "nameEn": "Warden's Leather Gauntlets",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_gauntlets_21.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Кисти рук",
+                "Кожа",
+                "161 брони",
+                "+14 к выносливости",
+                "+9 к ловкости",
+                "+9 к силе",
+                "Требуется уровень 50",
+                "Уровень предмета 55"
+              ],
+              "source": "Кожевничество",
+              "location": "Изготовление",
+              "steps": [
+                "Кожевничество 250; нужна Pattern: Warden's Leather Gauntlets.",
+                "Материалы: Thick Leather ×16, Cured Thick Hide ×2, Elemental Earth ×4.",
+                "Готовые перчатки персональные: изготовить их должен сам персонаж. Добыча этой выкройки в текущей базе не подтверждена; это отдельный рецепт, не Warden's Leather Gloves."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=252549"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#hands"
+                ],
+                [
+                  "Выкройка и материалы",
+                  "https://www.wowhead.com/forever/item=252869/pattern-wardens-leather-gauntlets"
+                ],
+                [
+                  "Изготовление",
+                  "https://www.wowhead.com/forever/spell=1255038/wardens-leather-gauntlets"
+                ]
+              ],
+              "tooltipOriginal": "Warden's Leather Gauntlets\nBinds when picked up\nHands\nLeather\n161 Armor\n+14 Stamina\n+9 Agility\n+9 Strength\nRequires Level 50\nItem Level 55",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Кожевничество",
+                "skill": 250,
+                "recipeSourceVerified": false
+              },
+              "itemId": 252549
+            }
+          ]
+        },
+        {
+          "id": "waist",
+          "label": "Пояс",
+          "items": [
+            {
+              "id": "252475",
+              "name": "Warden's Leather Waistguard",
+              "nameEn": "Warden's Leather Waistguard",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_belt_04.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Пояс",
+                "Кожа",
+                "191 брони",
+                "+14 к выносливости",
+                "+12 к силе",
+                "Требуется уровень 50",
+                "Уровень предмета 55"
+              ],
+              "source": "Кожевничество",
+              "location": "Изготовление",
+              "steps": [
+                "Кожевничество 250; для выкройки требуется Уважение Durotar Supply and Logistics.",
+                "Набирайте репутацию у ордынской торговой фракции; заполненные Waylaid Supply Crates дают Merchant's Favor. В лагере профессий в Степях возле Перекрёстка (/way 42 34 — координаты лагеря) выкройка стоит 90 Merchant's Favor.",
+                "Материалы: Rugged Leather ×12, Cured Thick Hide ×4, Pristine Hide ×10, Heavy Silken Thread ×2, Elemental Earth ×8, Pristine Leather ×5.",
+                "Готовый предмет персональный: изготовить его должен сам персонаж."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=252475"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#waist"
+                ],
+                [
+                  "Выкройка и материалы",
+                  "https://www.wowhead.com/forever/item=252874/pattern-wardens-leather-waistguard"
+                ],
+                [
+                  "Ордынская репутация и магазин",
+                  "https://www.wowhead.com/forever/guide/durotar-supply-and-logistics-reputation-professions"
+                ]
+              ],
+              "tooltipOriginal": "Warden's Leather Waistguard\nBinds when picked up\nWaist\nLeather\n191 Armor\n+14 Stamina\n+12 Strength\nRequires Level 50\nItem Level 55",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Кожевничество",
+                "skill": 250,
+                "recipeSourceVerified": true
+              },
+              "itemId": 252475
+            },
+            {
+              "id": "227805",
+              "name": "Ferocity of the Timbermaw",
+              "nameEn": "Ferocity of the Timbermaw",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_belt_09.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Пояс",
+                "Кожа",
+                "111 брони",
+                "+9 к выносливости",
+                "+17 к ловкости",
+                "+26 к силе",
+                "Требуется уровень 60",
+                "Требуется кожевничество (290)",
+                "Уровень предмета 65"
+              ],
+              "source": "Мейлош",
+              "location": "Оскверненный лес",
+              "steps": [
+                "Найти торговца Meilosh — Осквернённый лес.",
+                "Проверить доступный ассортимент и требования предмета."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=227805"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#waist"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=227805"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/fury-warrior/"
+                ]
+              ],
+              "tooltipOriginal": "Ferocity of the Timbermaw\nBinds when picked up\nWaist\nLeather\n111 Armor\n+9 Stamina\n+17 Agility\n+26 Strength\nRequires Level 60\nRequires Leatherworking (290)\nItem Level 65",
+              "itemId": 227805
+            },
+            {
+              "id": "cloudrunner-girdle",
+              "name": "Cloudrunner Girdle",
+              "nameEn": "Cloudrunner Girdle",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_belt_10.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Пояс",
+                "Кожа",
+                "215 брони",
+                "+14 к ловкости",
+                "+13 к силе",
+                "Требуется уровень 55",
+                "Уровень предмета 60"
+              ],
+              "source": "Интендант Зигрис",
+              "location": "Нижняя часть Пика Черной горы",
+              "steps": [
+                "Место — Нижняя часть Пика Черной горы.",
+                "Источник — Интендант Зигрис."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Cloudrunner%20Girdle"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#waist"
+                ]
+              ],
+              "tooltipOriginal": "Cloudrunner Girdle\nBinds when picked up\nWaist\nLeather\n215 Armor\n+14 Agility\n+13 Strength\nRequires Level 55\nItem Level 60"
+            }
+          ]
+        },
+        {
+          "id": "legs",
+          "label": "Ноги",
+          "items": [
+            {
+              "id": "227804",
+              "name": "Dire Warbear Woolies",
+              "nameEn": "Dire Warbear Woolies",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_pants_wolf.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Ноги",
+                "Кожа",
+                "273 брони",
+                "+33 к выносливости",
+                "+10 к ловкости",
+                "Требуется уровень 60",
+                "Требуется кожевничество (290)",
+                "Уровень предмета 65",
+                "Меткость +1%.",
+                "Защита +12."
+              ],
+              "source": "Мейлош",
+              "location": "Оскверненный лес",
+              "steps": [
+                "Мейлош в Оскверненном лесу.",
+                "Условия профессии указаны в характеристиках предмета."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=227804"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#legs"
+                ]
+              ],
+              "tooltipOriginal": "Dire Warbear Woolies\nBinds when picked up\nLegs\nLeather\n273 Armor\n+33 Stamina\n+10 Agility\nRequires Level 60\nRequires Leatherworking (290)\nItem Level 65\nEquip: Increases your chance to hit by 1%.\nEquip: Increased Defense +12.",
+              "itemId": 227804
+            },
+            {
+              "id": "11821",
+              "name": "Warstrife Leggings",
+              "nameEn": "Warstrife Leggings",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_pants_09.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Ноги",
+                "Кожа",
+                "144 брони",
+                "+22 к выносливости",
+                "+7 к ловкости",
+                "+8 к силе",
+                "Требуется уровень 53",
+                "Уровень предмета 58",
+                "Защита +7.",
+                "Уклонение +1%."
+              ],
+              "source": "Генерал Кузня Гнева",
+              "location": "Глубины Черной горы",
+              "steps": [
+                "Место — Глубины Черной горы.",
+                "Источник — Генерал Кузня Гнева."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=11821"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#legs"
+                ]
+              ],
+              "tooltipOriginal": "Warstrife Leggings\nBinds when picked up\nLegs\nLeather\n144 Armor\n+22 Stamina\n+7 Agility\n+8 Strength\nRequires Level 53\nItem Level 58\nEquip: Increased Defense +7.\nEquip: Increases your chance to dodge an attack by 1%.",
+              "itemId": 11821
+            },
+            {
+              "id": "cadaverous-leggings",
+              "name": "Cadaverous Leggings",
+              "nameEn": "Cadaverous Leggings",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_pants_07.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Ноги",
+                "Кожа",
+                "150 брони",
+                "+18 к выносливости",
+                "Требуется уровень 56",
+                "Уровень предмета 61",
+                "Сила атаки +52.",
+                "Уклонение +0.5%.",
+                "Cadaverous Garb (0/5)",
+                "Cadaverous Armor",
+                "Cadaverous Belt",
+                "Cadaverous Gloves",
+                "Cadaverous Leggings",
+                "Cadaverous Walkers",
+                "Комплект (3) — +10 к силе атаки.",
+                "Комплект (3) — длительность эффектов замедления движения снижена на 10%.",
+                "Комплект (4) — +5 ко всем сопротивлениям.",
+                "Комплект (5) — меткость +2.0%."
+              ],
+              "source": "Рядовые противники",
+              "location": "Некроситет",
+              "steps": [
+                "Место — Некроситет.",
+                "Источник — Рядовые противники."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Cadaverous%20Leggings"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#legs"
+                ]
+              ],
+              "tooltipOriginal": "Cadaverous Leggings\nBinds when picked up\nLegs\nLeather\n150 Armor\n+18 Stamina\nRequires Level 56\nItem Level 61\nEquip: +52 Attack Power.\nEquip: Increases your chance to dodge an attack by 0.5%.\nCadaverous Garb (0/5)\nCadaverous Armor\nCadaverous Belt\nCadaverous Gloves\nCadaverous Leggings\nCadaverous Walkers\n(3) Set: +10 Attack Power.\n(3) Set: Reduces the duration of all movement impairing effects on you by 10%.\n(4) Set: +5 All Resistances.\n(5) Set: Improves your chance to hit by 2.0%."
+            }
+          ]
+        },
+        {
+          "id": "feet",
+          "label": "Ступни",
+          "items": [
+            {
+              "id": "20186",
+              "name": "Defiler's Leather Boots",
+              "nameEn": "Defiler's Leather Boots",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_boots_cloth_05.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Уникальный",
+                "Ступни",
+                "Кожа",
+                "181 брони",
+                "+16 к выносливости",
+                "+12 к ловкости",
+                "Требуется уровень 58",
+                "Требуется почтение с Осквернителями",
+                "Уровень предмета 63",
+                "Сила атаки +16.",
+                "Немного повышает скорость бега.",
+                "The Defiler's Purpose (0/3)",
+                "Defiler's Leather Boots",
+                "Defiler's Leather Girdle",
+                "Defiler's Leather Shoulders",
+                "Комплект (2) — +5 к выносливости.",
+                "Комплект (3) — критический удар в ближнем бою +1.0%."
+              ],
+              "source": "Осквернители — почтение",
+              "location": "Репутация",
+              "steps": [
+                "Достигни указанной репутации — Осквернители — почтение.",
+                "Предмет продается у интенданта соответствующей фракции."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=20186"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#feet"
+                ]
+              ],
+              "tooltipOriginal": "Defiler's Leather Boots\nBinds when picked up\nUnique\nFeet\nLeather\n181 Armor\n+16 Stamina\n+12 Agility\nRequires Level 58\nRequires The Defilers - Revered\nItem Level 63\nEquip: +16 Attack Power.\nEquip: Run speed increased slightly.\nThe Defiler's Purpose (0/3)\nDefiler's Leather Boots\nDefiler's Leather Girdle\nDefiler's Leather Shoulders\n(2) Set: +5 Stamina.\n(3) Set: Improves your chance to get a critical strike with melee attacks by 1.0%.",
+              "itemId": 20186
+            },
+            {
+              "id": "cadaverous-walkers",
+              "name": "Cadaverous Walkers",
+              "nameEn": "Cadaverous Walkers",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_boots_05.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Ступни",
+                "Кожа",
+                "158 брони",
+                "+20 к выносливости",
+                "Требуется уровень 56",
+                "Уровень предмета 61",
+                "Сила атаки +24.",
+                "Cadaverous Garb (0/5)",
+                "Cadaverous Armor",
+                "Cadaverous Belt",
+                "Cadaverous Gloves",
+                "Cadaverous Leggings",
+                "Cadaverous Walkers",
+                "Комплект (3) — +10 к силе атаки.",
+                "Комплект (3) — длительность эффектов замедления движения снижена на 10%.",
+                "Комплект (4) — +5 ко всем сопротивлениям.",
+                "Комплект (5) — меткость +2.0%."
+              ],
+              "source": "Рядовые противники",
+              "location": "Некроситет",
+              "steps": [
+                "Место — Некроситет.",
+                "Источник — Рядовые противники."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Cadaverous%20Walkers"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#feet"
+                ]
+              ],
+              "tooltipOriginal": "Cadaverous Walkers\nBinds when picked up\nFeet\nLeather\n158 Armor\n+20 Stamina\nRequires Level 56\nItem Level 61\nEquip: +24 Attack Power.\nCadaverous Garb (0/5)\nCadaverous Armor\nCadaverous Belt\nCadaverous Gloves\nCadaverous Leggings\nCadaverous Walkers\n(3) Set: +10 Attack Power.\n(3) Set: Reduces the duration of all movement impairing effects on you by 10%.\n(4) Set: +5 All Resistances.\n(5) Set: Improves your chance to hit by 2.0%."
+            },
+            {
+              "id": "252470",
+              "name": "Warden's Leather Boots",
+              "nameEn": "Warden's Leather Boots",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_boots_04.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Ступни",
+                "Кожа",
+                "197 брони",
+                "+13 к выносливости",
+                "+11 к силе",
+                "Требуется уровень 47",
+                "Уровень предмета 52"
+              ],
+              "source": "Кожевничество",
+              "location": "Изготовление",
+              "steps": [
+                "Кожевничество 235; для выкройки требуется Уважение Durotar Supply and Logistics.",
+                "Набирайте репутацию у ордынской торговой фракции; заполненные Waylaid Supply Crates дают Merchant's Favor. В лагере профессий в Степях возле Перекрёстка (/way 42 34 — координаты лагеря) выкройка стоит 90 Merchant's Favor.",
+                "Материалы: Thick Leather ×16, Cured Thick Hide ×2, Pristine Hide ×8, Heavy Silken Thread ×2, Elemental Earth ×6, Pristine Leather ×4.",
+                "Готовый предмет персональный: изготовить его должен сам персонаж."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=252470"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#feet"
+                ],
+                [
+                  "Выкройка и материалы",
+                  "https://www.wowhead.com/forever/item=252862/pattern-wardens-leather-boots"
+                ],
+                [
+                  "Ордынская репутация и магазин",
+                  "https://www.wowhead.com/forever/guide/durotar-supply-and-logistics-reputation-professions"
+                ]
+              ],
+              "tooltipOriginal": "Warden's Leather Boots\nBinds when picked up\nFeet\nLeather\n197 Armor\n+13 Stamina\n+11 Strength\nRequires Level 47\nItem Level 52",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Кожевничество",
+                "skill": 235,
+                "recipeSourceVerified": true
+              },
+              "itemId": 252470
+            }
+          ]
+        },
+        {
+          "id": "ring",
+          "label": "Кольца",
+          "items": [
+            {
+              "id": "thrall-s-resolve",
+              "name": "Thrall's Resolve",
+              "nameEn": "Thrall's Resolve",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_jewelry_ring_05.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Палец",
+                "150 брони",
+                "+7 к выносливости",
+                "+6 к силе",
+                "Уровень предмета 60"
+              ],
+              "source": "Спасенная принцесса?",
+              "location": "Задание Орды",
+              "steps": [
+                "Начало: Galamav the Marksman в Каргате, Бесплодные земли (/way 5.8 47.6), задание Commander Gor'shak.",
+                "В Глубинах Чёрной горы убить High Interrogator Gerstahn, взять Prison Cell Key и открыть камеру Commander Gor'shak.",
+                "Первое What Is Going On? — защитить Гор'шака от стражи. Следующий этап — поговорить с Kharan Mighthammer в соседней камере и доложить Траллу в Оргриммаре.",
+                "У Тралла пройти разговор The Eastern Kingdoms и взять The Royal Rescue.",
+                "В Глубинах Чёрной горы убить Emperor Dagran Thaurissan, сохранив Princess Moira Bronzebeard живой. Поговорить с Мойрой и взять The Princess Saved?.",
+                "Вернуться к Траллу в Оргриммар и выбрать Thrall's Resolve в награду."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Thrall%27s%20Resolve"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#ring"
+                ],
+                [
+                  "Полная ордынская цепочка",
+                  "https://www.wowhead.com/forever/guide/blackrock-depths-dungeon-overview-location-rewards"
+                ],
+                [
+                  "Финальный квест",
+                  "https://www.wowhead.com/forever/quest=4004/the-princess-saved"
+                ]
+              ],
+              "tooltipOriginal": "Thrall's Resolve\nBinds when picked up\nFinger\n150 Armor\n+7 Stamina\n+6 Strength\nItem Level 60",
+              "acquisition": {
+                "kind": "quest",
+                "checkedAt": "2026-11-13",
+                "questChainVerified": true
+              }
+            },
+            {
+              "id": "15855",
+              "name": "Ring of Protection",
+              "nameEn": "Ring of Protection",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_jewelry_ring_26.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Палец",
+                "150 брони",
+                "+9 к выносливости",
+                "Уровень предмета 60"
+              ],
+              "source": "Спрятанные сокровища",
+              "location": "Задание",
+              "steps": [
+                "Начало истории: Pamela Redpath в Дарроушире, Восточные Чумные земли. К ней ведут Little Pamela или Sister Pamela; взять Pamela's Doll, собрать голову и обе половины куклы в Дарроушире, соединить и вернуть Памеле.",
+                "Auntie Marlene: найти Marlene Redpath в доме южнее Андорала в Западных Чумных землях. A Strange Historian: взять Joseph's Wedding Ring под его надгробием поблизости и отнести Хроми в разрушенную гостиницу на северо-западе Андорала.",
+                "The Annals of Darrowshire: принести Хроми книгу из городской ратуши Андорала. Brother Carlin: отнести дополненную книгу Carlin Redpath в Часовню Последней Надежды.",
+                "Heroes of Darrowshire: добыть Davil's Libram в ратуше Дольного Очага и Redpath's Shield возле амбара на пустоши Гаррона; вернуть Карлину.",
+                "Villains of Darrowshire: Skull of Horgus лежит в озере северо-западнее Перекрёстка Корина, Shattered Sword of Marduk — на дне ущелья западнее Перекрёстка; оба предмета отнести Карлину.",
+                "Marauders of Darrowshire: с Scourge Champion добывать Fetid Skull и применять выданный Mystic Crystal, пока не получится 5 Resonating Skulls. Вернуть черепа и кристалл Карлину, затем выполнить Return to Chromie.",
+                "The Battle of Darrowshire: положить Relic Bundle на площади Дарроушира. Сохранить Davil Lightfire живым до смерти Horgus, а Captain Redpath — до появления Redpath the Corrupted. Победить осквернённого Редпата.",
+                "Поговорить с духом Joseph Redpath на площади, затем с Памелой. Получить Hidden Treasures и Joseph's Key. Открыть Joseph's Chest позади её дома — кольцо входит в награду."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=15855"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#ring"
+                ],
+                [
+                  "Кукла Памелы",
+                  "https://www.wowhead.com/forever/quest=5149/pamelas-doll"
+                ],
+                [
+                  "Марлен",
+                  "https://www.wowhead.com/forever/quest=5152/auntie-marlene"
+                ],
+                [
+                  "Кольцо для Хроми",
+                  "https://www.wowhead.com/forever/quest=5153/a-strange-historian"
+                ],
+                [
+                  "Анналы Дарроушира",
+                  "https://www.wowhead.com/forever/quest=5154/the-annals-of-darrowshire"
+                ],
+                [
+                  "Карлин",
+                  "https://www.wowhead.com/forever/quest=5210/brother-carlin"
+                ],
+                [
+                  "Реликвии героев",
+                  "https://www.wowhead.com/forever/quest=5168/heroes-of-darrowshire"
+                ],
+                [
+                  "Реликвии злодеев",
+                  "https://www.wowhead.com/forever/quest=5181/villains-of-darrowshire"
+                ],
+                [
+                  "Черепа",
+                  "https://www.wowhead.com/forever/quest=5206/marauders-of-darrowshire"
+                ],
+                [
+                  "Возвращение к Хроми",
+                  "https://www.wowhead.com/forever/quest=5941/return-to-chromie"
+                ],
+                [
+                  "Битва",
+                  "https://www.wowhead.com/forever/quest=5721/the-battle-of-darrowshire"
+                ],
+                [
+                  "Сундук и награды",
+                  "https://www.wowhead.com/forever/quest=5942/hidden-treasures"
+                ]
+              ],
+              "tooltipOriginal": "Ring of Protection\nBinds when picked up\nFinger\n150 Armor\n+9 Stamina\nItem Level 60",
+              "acquisition": {
+                "kind": "quest",
+                "checkedAt": "2026-11-13",
+                "questChainVerified": true
+              },
+              "itemId": 15855
+            },
+            {
+              "id": "19325",
+              "name": "Кольцо дона Хулио",
+              "nameEn": "Don Julio's Band",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_jewelry_ring_35.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Уникальный",
+                "Палец",
+                "+10 к выносливости",
+                "Требуется уровень 55",
+                "Уровень предмета 60",
+                "Критический удар +1%.",
+                "Меткость +1%.",
+                "Сила атаки +14."
+              ],
+              "source": "Грюнда Волчье Сердце",
+              "location": "Альтеракская долина",
+              "steps": [
+                "Вставай в очередь в Альтеракскую долину. Репутацию дают цели поля боя и доступные сдачи.",
+                "На «Превознесении» купи предмет у интенданта клана. Джеккилл Фландринг стоит у входа Орды в Альтеракских горах, около 62.9, 59.3."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=19325"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#ring"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=19325"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/fury-warrior/"
+                ],
+                [
+                  "Джеккилл Фландринг",
+                  "https://www.wowhead.com/forever/ru/npc=13219"
+                ],
+                [
+                  "Клан Северного Волка",
+                  "https://www.wowhead.com/forever/ru/faction=729"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19325?lang=ru"
+                ]
+              ],
+              "tooltipOriginal": "Don Julio's Band\nBinds when picked up\nUnique\nFinger\n+10 Stamina\nRequires Level 55\nItem Level 60\nEquip: Improves your chance to get a critical strike by 1%.\nEquip: Increases your chance to hit by 1%.\nEquip: +14 Attack Power.",
+              "itemId": 19325
+            }
+          ]
+        },
+        {
+          "id": "trinket",
+          "label": "Аксессуары",
+          "items": [
+            {
+              "id": "272437",
+              "name": "Адаптивный боевой помощник",
+              "nameEn": "Adaptive Combat Assistant",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_engineering_90_lightningbox.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Аксессуар",
+                "Требуется уровень 60",
+                "Уровень предмета 65",
+                "Рейтинг мастерства +11.",
+                "Использование — щит поглощает 450 урона на 15 сек. Если исчезнет раньше, наносит 100 урона от сил природы всем противникам в ближнем бою."
+              ],
+              "source": "Пикс Ксиззикс",
+              "location": "Тернистая долина",
+              "steps": [
+                "Копи валюту «Потускневший реал Нижней Шахты».",
+                "В Пиратской бухте найди Пикс Ксиззикс. Ориентир на карте — 28.5, 75.8.",
+                "Цена предмета — 125 реалов."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=272437"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#trinket"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=272437"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/enhancement-shaman/"
+                ],
+                [
+                  "Пикс Ксиззикс на карте",
+                  "https://azeroth.wiki/forever/map/stranglethorn-vale/pix-xizzix"
+                ],
+                [
+                  "Где брать реалы",
+                  "https://www.wowhead.com/forever/guide/currency/tarnished-undermine-real-overview"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/272437?lang=ru"
+                ]
+              ],
+              "tooltipOriginal": "Adaptive Combat Assistant\nBinds when picked up\nTrinket\nRequires Level 60\nItem Level 65\nEquip: Increases your expertise rating by 11.\nUse: Absorbs 450 damage for 15 sec. If this shield expires before 15 sec, 100 Nature damage will be dealt to all enemies in melee range.",
+              "itemId": 272437
+            },
+            {
+              "id": "13966",
+              "name": "Mark of Tyranny",
+              "nameEn": "Mark of Tyranny",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_jewelry_talisman_09.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Аксессуар",
+                "Уровень предмета 63",
+                "Уклонение +1%.",
+                "Использование — максимальное здоровье +620 на 15 сек. В крепостях и городах эффект удвоен."
+              ],
+              "source": "За Орду!",
+              "location": "Задание",
+              "steps": [
+                "Начальная цепочка: Warlord's Command → Eitrigg's Wisdom → For The Horde!. Первый этап связан с Warlord Goretooth в Каргате, Бесплодные земли.",
+                "Warlord's Command: в нижней части Пика Чёрной горы убить Highlord Omokk, War Master Voone и Overlord Wyrmthalak; забрать Important Blackrock Documents и вернуться к Goretooth.",
+                "Eitrigg's Wisdom: поговорить с Эйтриггом в зале Тралла, затем с самим Траллом в Оргриммаре.",
+                "For The Horde!: в верхней части Пика Чёрной горы убить Warchief Rend Blackhand, забрать его голову и принести Траллу.",
+                "Выбрать Mark of Tyranny среди трёх наград. Завершать дальнейший допуск к Ониксии ради этого аксессуара не требуется."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=13966"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#trinket"
+                ],
+                [
+                  "Начальный квест",
+                  "https://www.wowhead.com/forever/quest=4903/warlords-command"
+                ],
+                [
+                  "Разговор с Эйтриггом",
+                  "https://www.wowhead.com/forever/quest=4941/eitriggs-wisdom"
+                ],
+                [
+                  "Награда за голову Ренда",
+                  "https://www.wowhead.com/forever/quest=4974/for-the-horde"
+                ]
+              ],
+              "tooltipOriginal": "Mark of Tyranny\nBinds when picked up\nTrinket\nItem Level 63\nEquip: Increases your chance to dodge an attack by 1%.\nUse: Increases maximum health by 620 for 15 sec. This effect is doubled in Strongholds and Cities.",
+              "acquisition": {
+                "kind": "quest",
+                "checkedAt": "2026-11-13",
+                "questChainVerified": true
+              },
+              "itemId": 13966
+            },
+            {
+              "id": "vigilance-charm",
+              "name": "Vigilance Charm",
+              "nameEn": "Vigilance Charm",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_misc_stonetablet_04.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Аксессуар",
+                "+10 к силе",
+                "Требуется уровень 57",
+                "Уровень предмета 62",
+                "Использование — уклонение +20% на 20 сек. или до уклонения от 3 атак."
+              ],
+              "source": "Бессмер’тер",
+              "location": "Забытый город — Запад",
+              "steps": [
+                "Подземелье: Забытый Город — западное крыло.",
+                "Убить Immol'thar; предмет указан в его добыче. Повторять прохождение при отсутствии нужного предмета."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Vigilance%20Charm"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#trinket"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/protection-warrior/"
+                ]
+              ],
+              "tooltipOriginal": "Vigilance Charm\nBinds when picked up\nTrinket\n+10 Strength\nRequires Level 57\nItem Level 62\nUse: Increases your chance to Dodge by 20% for 20 sec or until you Dodge 3 attacks."
+            }
+          ]
+        },
+        {
+          "id": "weapon",
+          "label": "Оружие",
+          "items": [
+            {
+              "id": "unyielding-maul",
+              "name": "Unyielding Maul",
+              "nameEn": "Unyielding Maul",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_hammer_22.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Двуручное",
+                "Дробящее",
+                "240 брони",
+                "Урон 135–204",
+                "Скорость 3.20",
+                "53.0 урона в секунду",
+                "+15 к выносливости",
+                "Требуется уровень 57",
+                "Уровень предмета 62",
+                "Защита +11."
+              ],
+              "source": "Миззл Умелец",
+              "location": "Забытый город",
+              "steps": [
+                "Место — Забытый город.",
+                "Источник — Миззл Умелец."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Unyielding%20Maul"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#weapon"
+                ]
+              ],
+              "tooltipOriginal": "Unyielding Maul\nBinds when picked up\nTwo-Hand\nMace\n240 Armor\n135 - 204 Damage\nSpeed 3.20\n(53.0 damage per second)\n+15 Stamina\nRequires Level 57\nItem Level 62\nEquip: Increased Defense +11."
+            },
+            {
+              "id": "tuskblade-halberd",
+              "name": "Tuskblade Halberd",
+              "nameEn": "Tuskblade Halberd",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_spear_08.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Двуручное",
+                "Древковое",
+                "Урон 148–222",
+                "Скорость 3.60",
+                "51.4 урона в секунду",
+                "+18 к выносливости",
+                "+14 к ловкости",
+                "Требуется уровень 55",
+                "Уровень предмета 60",
+                "Рейтинг мастерства +20."
+              ],
+              "source": "Bonesnout the Unbroken",
+              "location": "Blackmaw Hold",
+              "steps": [
+                "Место — Blackmaw Hold.",
+                "Источник — Bonesnout the Unbroken."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Tuskblade%20Halberd"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#weapon"
+                ]
+              ],
+              "tooltipOriginal": "Tuskblade Halberd\nBinds when picked up\nTwo-Hand\nPolearm\n148 - 222 Damage\nSpeed 3.60\n(51.4 damage per second)\n+18 Stamina\n+14 Agility\nRequires Level 55\nItem Level 60\nEquip: Increases your expertise rating by 20."
+            },
+            {
+              "id": "19323",
+              "name": "Непреодолимая сила",
+              "nameEn": "The Unstoppable Force",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_hammer_13.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Уникальный",
+                "Двуручное",
+                "Дробящее",
+                "Урон 152–255",
+                "Скорость 3.60",
+                "56.5 урона в секунду",
+                "+17 к выносливости",
+                "+18 к силе",
+                "Требуется уровень 55",
+                "Уровень предмета 60",
+                "Критический удар +2%.",
+                "При попадании — шанс оглушить цель на 1 сек."
+              ],
+              "source": "Грюнда Волчье Сердце",
+              "location": "Альтеракская долина",
+              "steps": [
+                "Вставай в очередь в Альтеракскую долину. Репутацию дают цели поля боя и доступные сдачи.",
+                "На «Превознесении» купи предмет у интенданта клана. Джеккилл Фландринг стоит у входа Орды в Альтеракских горах, около 62.9, 59.3."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=19323"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#weapon"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=19323"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/retribution-paladin/"
+                ],
+                [
+                  "Джеккилл Фландринг",
+                  "https://www.wowhead.com/forever/ru/npc=13219"
+                ],
+                [
+                  "Клан Северного Волка",
+                  "https://www.wowhead.com/forever/ru/faction=729"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19323?lang=ru"
+                ]
+              ],
+              "tooltipOriginal": "The Unstoppable Force\nBinds when picked up\nUnique\nTwo-Hand\nMace\n152 - 255 Damage\nSpeed 3.60\n(56.5 damage per second)\n+17 Stamina\n+18 Strength\nRequires Level 55\nItem Level 60\nEquip: Improves your chance to get a critical strike by 2%.\nChance on hit: Stuns target for 1 sec.",
+              "itemId": 19323
+            }
+          ]
+        },
+        {
+          "id": "relic",
+          "label": "Идол",
+          "items": [
+            {
+              "id": "279251",
+              "name": "Idol of the Ursine Twins",
+              "nameEn": "Idol of the Ursine Twins",
+              "quality": 4,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_misc_idol_04.webp",
+              "stats": [
+                "Становится персональным при надевании",
+                "Реликвия",
+                "Идол",
+                "Требуется уровень 60",
+                "Уровень предмета 65",
+                "Попадания Lacerate с вероятностью 10% сбрасывают время восстановления Primal Bite."
+              ],
+              "source": "Наложение чар",
+              "location": "Изготовление",
+              "steps": [
+                "Наложение чар 300. Изучить Formula: Idol of the Ursine Twins; формула персональная.",
+                "Материалы: Malleable Essence of Nature ×1, Nexus Crystal ×1, Greater Eternal Essence ×2, Illusion Dust ×12.",
+                "Идол передаётся до надевания, поэтому его можно заказать у зачарователя. Источник получения самой формулы в текущей базе Forever не указан."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=279251"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#relic"
+                ],
+                [
+                  "Формула и материалы",
+                  "https://www.wowhead.com/forever/item=279300/formula-idol-of-the-ursine-twins"
+                ]
+              ],
+              "tooltipOriginal": "Idol of the Ursine Twins\nBinds when equipped\nRelic\nIdol\nRequires Level 60\nItem Level 65\nEquip: Your Lacerate hits have a 10% chance to reset the cooldown on Primal Bite.",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Наложение чар",
+                "skill": 300,
+                "recipeSourceVerified": false
+              },
+              "itemId": 279251
+            },
+            {
+              "id": "idol-of-brutality",
+              "name": "Idol of Brutality",
+              "nameEn": "Idol of Brutality",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/inv_relics_idolofferocity.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Реликвия",
+                "Идол",
+                "Требуется уровень 60",
+                "Уровень предмета 65",
+                "Затраты ярости на Maul и Swipe снижены на 2."
+              ],
+              "source": "Мировой судья Бартилас",
+              "location": "Стратхольм",
+              "steps": [
+                "Место — Стратхольм.",
+                "Источник — Мировой судья Бартилас."
+              ],
+              "links": [
+                [
+                  "Поиск предмета · Wowhead Forever",
+                  "https://www.wowhead.com/forever/search?q=Idol%20of%20Brutality"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#relic"
+                ]
+              ],
+              "tooltipOriginal": "Idol of Brutality\nBinds when picked up\nRelic\nIdol\nRequires Level 60\nItem Level 65\nEquip: Reduces the Rage cost of Maul and Swipe by 2."
+            },
+            {
+              "id": "272428",
+              "name": "Enraged Idol",
+              "nameEn": "Enraged Idol",
+              "quality": 3,
+              "icon": "https://sunderarmor.com/WOWFOREVER/icons-cdn/talentspec_druid_feral_bear.webp",
+              "stats": [
+                "Становится персональным при получении",
+                "Реликвия",
+                "Идол",
+                "Требуется уровень 60",
+                "Уровень предмета 65",
+                "Enrage дает дополнительно 10 ед. ярости за время действия."
+              ],
+              "source": "Пикс Ксиззикс",
+              "location": "Тернистая долина",
+              "steps": [
+                "Торговец Пикс Ксиззикс в Тернистой долине.",
+                "Стоимость этого предмета в каталоге не указана."
+              ],
+              "links": [
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=272428"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#relic"
+                ]
+              ],
+              "tooltipOriginal": "Enraged Idol\nBinds when picked up\nRelic\nIdol\nRequires Level 60\nItem Level 65\nEquip: Your Enrage ability generates an additional 10 Rage over its duration.",
+              "itemId": 272428
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

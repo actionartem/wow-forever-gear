@@ -1,0 +1,2135 @@
+{
+  "specs": [
+    {
+      "id": "feral-druid",
+      "classId": "druid",
+      "label": "Ферал-кот",
+      "role": "Боец",
+      "sourceUrl": "https://wowtbc.gg/warcraftforever/bis-list/feral-dps-druid/",
+      "checkedAt": "2026-11-12",
+      "note": "Исходная подборка кота Орды от 12 ноября. Ценность меткости и бонусов комплектов зависит от остальной экипировки. У оружия указан урон самого предмета в секунду.",
+      "slots": [
+        {
+          "id": "weapon",
+          "label": "Оружие",
+          "items": [
+            {
+              "id": "19323",
+              "itemId": 19323,
+              "name": "Непреодолимая сила",
+              "quality": 4,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "56,53 ед. урона оружия в секунду",
+                "+18 сила",
+                "+17 выносливость",
+                "+2% к криту",
+                "Эффект оружия при попадании: оглушение на 1 сек.",
+                "Требуемый уровень: 55"
+              ],
+              "source": "Репутация",
+              "location": "Клан Северного Волка · Альтерак",
+              "steps": [
+                "Вставай в очередь в Альтеракскую долину. Репутацию дают цели поля боя и доступные сдачи.",
+                "На «Превознесении» купи предмет у интенданта клана. Джеккилл Фландринг стоит у входа Орды в Альтеракских горах, около 62.9, 59.3."
+              ],
+              "links": [
+                [
+                  "Джеккилл Фландринг",
+                  "https://www.wowhead.com/forever/ru/npc=13219"
+                ],
+                [
+                  "Клан Северного Волка",
+                  "https://www.wowhead.com/forever/ru/faction=729"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19323?lang=ru"
+                ]
+              ],
+              "nameEn": "The Unstoppable Force"
+            },
+            {
+              "id": "18420",
+              "itemId": 18420,
+              "name": "Костекрушитель",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAgEBgcDBQL/xAAvEAABAwMDAwMDAwUBAAAAAAABAgMEAAURBhIhMUFRBxNhInGRFSQyCBQjQoEz/8QAGgEAAgMBAQAAAAAAAAAAAAAAAwQBAgUGAP/EACARAAICAgMBAAMAAAAAAAAAAAABAgMEERIhMSIFQZH/2gAMAwEAAhEDEQA/APSf09GurzjSVezOJK1MyOVknqpKj/IffxWc669LLXKCvdgew+OrkZG1fjIT0OO9a5GLEuKoSMrioA2qSMuw+DylQ5U34PUdKiXX9XbithbTd8gEfRLZI95IHnHCsZ8D5zXP1Wzi+mdhZVCa1JbFI1T6e3a0MrlRFC4REZK1tjCm+n8k/wDfv8VTKZ68zmod4DQYkJQ9gb1NEbCexB6iqXrTQ0C7rccjtpt1zQNy9qP8TvzgefI5+9a1d/nIxL/x69q/hitFTLpbZttkKZmMLbIOArB2q+Qe9Q6aMtpp6Z1iyH4kpqVFfcYkMrDjTraylaFA5CkkcggjIIorlRXiBufT/WTF4srNziuGO4lJznn2jnCgR0Ug9x9j4q2R3rRdAfYlLslyIyUNLIaeOM7k44IPPHWlF9PtQv2C6DMlbcZw8kchJ7Ejx2PwTWtOXkKSG/bST/6KZC8Dn/dtXbPXPSsm/G4v5OkxMxWRW/TQ7vKv8Q5ckMPgD+auCR+Kp06z3N+Qi7XVL7LzuVMR2sblbsDkjscdOtXT0ShQbo9I1JqR+WuyRh+3jPK3KkvbscBJGQn6cZ6mr1rW3LtcOTqOaxslOpyyzx+3Qen3Vwc/fHFUx24Np+gs/JUvmBgN40+pDJbntNFSk/S1xhvPckdxUDSXoxH1xKuLFvC7c9EZLgWk5QtfQIweOf8AmOte69JXcL63b3ZUcOSFJ9pvdkkqPAURwkk8VcNJKvUOM6bLKfhuJcw60jg5Hn5BGDmtCjJhcnxfZlZGNZRrmtb8Fg1joq9aaUp2Swt2EHChMlCSE5HZQ/1PI4PnqaKaXVX6ZbdMyzqTbMeuC1kh1OVLWrqrPXwTRTGxZRbE5ZdKDkjNWnS+o1lyNZJjYehuvJQhanChUfcQNwV45yR0qo0VEoqS0yYTcHtDd+nV5ixb9GZuKfatNl2LW0votYOEp5Pn6vxnPWmHu920xr7Sz8QyENvPtKb3A/WFkcFPkA9unFIX6Z36ZMsdzszry3pCAJDRWrKnEgbSkk+BjH3+KaX00senIGinrjb7lDuN3da3vHP1MkYOxKTgjAJye/2pG6rfSDwl+2SPTO0Wj0/v10k3K2zbjKmBGz247bjR2lWFblnKOTyB08nFT3G0QzdNQXRpmN77y5TqEZKU71ZPyTjA7ZNWjTb6bpFDoSHHvcwdyuRxk1R/UedG1LqdjSsZxwwYzvuTl9Pc29QD2T05pfExljttDWTk2ZUk7Ht+GCeqV5nXy0XW/vtLjQW2AzAZB/iFEIyPznt2xRX3/U5e9OxrenTVpuaZcpTqVuttJCkMoHRJWDjPTgcjvRWnS21tiVvFPSF9oooooEm2S5y7PdI9ygr2SGF7kHt4IPwQSD8GmA0Xq62XqOlcJXsSUpHuRVKwps99vlOc4P5x0oooc4JrZeD0ahH1PI09oaTJaeV/eScxYxBwUk8qWPkAfkilm1Z6hXQIftdqmOtJW4TJkpX9bvGNoUOieTRRUKCcnstyaj0Z4pSlKKlEqUTkknkmiiiigj//2Q==",
+              "stats": [
+                "53,83 ед. урона оружия в секунду",
+                "129–194 урона · скорость 3,00",
+                "+26 сила",
+                "+1% к криту",
+                "+30 к силе атаки против нежити",
+                "Квест доступен с 56-го уровня"
+              ],
+              "source": "Квест",
+              "location": "Забытый Город · Запад",
+              "steps": [
+                "Цепочка доступна с 56-го уровня. В западное крыло нужен «Серповидный ключ» из восточного крыла или участник группы, который откроет дверь.",
+                "Возьми у прародительницы Шен’дралар задание «Древнее безумие». Убей Бессмер’тера и принца Тортелдрина.",
+                "Затем выполни «Сокровище Шен’дралар». Сундук стоит в Читальне под лестницей. Выбери «Костекрушитель»."
+              ],
+              "links": [
+                [
+                  "Древнее безумие",
+                  "https://wow-pilot.cc/quest/7461?lang=ru"
+                ],
+                [
+                  "Сокровище Шен'дралар",
+                  "https://wow-pilot.cc/quest/7462?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/18420?lang=ru"
+                ],
+                [
+                  "Источник характеристик",
+                  "https://foreverdb.net/de/item/18420"
+                ]
+              ]
+            },
+            {
+              "id": "250619",
+              "itemId": 250619,
+              "name": "Легионитовая глефа",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAHAABAAIDAQEBAAAAAAAAAAAAAAYHAwQIAQIF/8QALxAAAgEEAQEHAwIHAAAAAAAAAQIDAAQFEQYhBxITIjFBUSMyYTNCCBQWQ1JTgf/EABgBAQADAQAAAAAAAAAAAAAAAAACBAUD/8QAJBEAAgICAAUFAQAAAAAAAAAAAAECAwQREiExQaETMmGx0fD/2gAMAwEAAhEDEQA/AON7u4uLu6lu7ueW4uJnaSWWVyzyOTssxPUkk7JNYqUoBSleorO4RFLMx0ABsk0B5Vs9nnZKJrD+pe0C4uMJhI41nSzVNXt7Gx0rKp/TjJ/uN93ogYkVNOx/seuMTHFm8xjIMjyF08W0xd4FW3x0Wtm6uy3TajREZ9NrvzeUanIrtshm2trLKXeZmluC891N0F7dN0D9z9qKAddegG+npUJTSfD3JKLa2R3lj20lqLnCY2LjdhiVE0KW7nxvF6+G7ynzNIT3da1oKenwqK9pefhuHj4/jJ2ltLN2a5nBIF3OdAtr/Fdd1fwN+9KmRITSlS/s67OuS86NzLh47ODH2bxre5C+ukgtrXvnSl2Y76n2UMfxQEThjkmmSGGN5JHYKiINsxPQAAeprqfsJ7Hm47La5XIx295y6bvNDaOVMWGQAEyzn0EoB3o/YPXroVudh3Zxj7RpX4N4eVvIVLX/ADfJQNDYYwKpLLZxP98o/wBrb7ug2gDVlm1iyuGn4/xCW6g4w0rnK5u4/Uy8ykl/qbH0V926b2QPcmrk5KojvudaqnY9EK59ya1g49Na42WY4mWRvEupBuTN3KsfMevS3X1HXzE7O6ormGZk4/hgySd3MZNPpd0+a2tz6uD7M/2j3C7+RVj5ia1zOUuMpkS8OExdu87BQVH8unRVA190jEAe4HzoVznybL3Gdzl1lLno0zkom+kaeioPwBof8qGHTKMfUs9z8fBO+xN8MeiPzaUpV0riuk+JcKl49PBwu3vJ7vKWtwb/ACAtl0ZC8Sdy3TZ0QAAzMQANn4FUPwjBJyTk1piZcpZ4qGVmaW8u37sUMaqXdiffSqdD3Oh712N2iYTM8cx+b5FxjOWOSss/As9/dWsHdmRBoeHHJvRhPuV83Qht6rhkylGtuPU61RTlzIhzvkl0nHJsNZ3VxOtrItvKqzBLSPvHXhRoBp33stId+h1rezmtu0+bH8Zt+I3eWnhxJiS2uUjhDqsYBJXQ1ouV1sHemJ+ageSGSy1ja2GGsRLFbO9xdXCr9ISkdF36EoPjfU1oc75FhMPwOHH2NvEOQF/AmdnDMVYs0k4PySqoN9VBPodGsrExpTlxvkvsu32xjHS5s3f4kM5Da8Zw+Exs0TLmVGTuWiGgYB5beP5HQFiOhBPpVC1luZ57mUy3Eryuf3O2zWKtwzRSlKAszshh4xikvszyKOR8nBIEx8DxB4lYBu94sewSD9v46++qkvGOYw49MpaG+gtLG+hZxB3i0cAPeDqi/J2NAfNKVRrhu5zb6/hr3SUMVQS/t+SuuVc95Dm9WoyEltjotpBbWw8FAn5C9TvWzsnrUTpSrxkClKUB9Ro8kixxqzuxAVVGySfYUpSgP//Z",
+              "stats": [
+                "53,91 ед. урона оружия в секунду",
+                "+16 ловкость",
+                "+1% к меткости",
+                "+54 к силе атаки",
+                "Требуемый уровень: 58"
+              ],
+              "source": "Крафт",
+              "location": "Кузнечное дело 300 · Степи",
+              "steps": [
+                "Чертёж ищи у Гор’мака (49.8, 29.7), за 120 ед. валюты «Торговое обязательство». Нужно «Уважение» с фракцией «Дуротарские снабжение и логистика». Предмет персональный, нужно своё кузнечное дело.",
+                "Материалы: 15× Слиток легионита, 8× Тяжелый ториевый слиток, 10× Слиток азеротия, 4× Торбернит, 1× Лотос смерти."
+              ],
+              "links": [
+                [
+                  "Чертеж: легионитовая глефа",
+                  "https://wow-pilot.cc/item/251471?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/250619?lang=ru"
+                ]
+              ],
+              "nameEn": "Legionite Glaive"
+            }
+          ]
+        },
+        {
+          "id": "head",
+          "label": "Голова",
+          "items": [
+            {
+              "id": "252482",
+              "itemId": 252482,
+              "name": "Синяя замшевая шляпа",
+              "quality": 2,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQIAHAAcAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAYDBQcCBAj/xAAzEAACAQQBAwMBBgQHAAAAAAABAgMABAURIQYSMRNBUYEUIiMyYXEHCFKxM2JjkaHR8P/EABkBAAMBAQEAAAAAAAAAAAAAAAADBAUBAv/EACYRAAICAgECBgMBAAAAAAAAAAABAgMEERMSMQUhIkGB8CMyYdH/2gAMAwEAAhEDEQA/APja5mluZ5J55HllkYvJI7FmdidkknySfeo6tMnhLqyskvVZLi2Y6MkfIVvg/HOx9PbdV0EUs8yQwxvLLIwVERSWZidAADyTXWnHucTT7HFT3dneWgjN1az24lXvj9WMr3r42N+RTb0/iXxUbTXKg5CVNLEV2bcEeW/zn49h55Og3dP5LKY63ls4ZornH3B7p7C+X1rac732kNynOiGUjRA+lFeNKaJrcno7LZjtFaTk+iMHkMqj4u/kwkN4WSO2u1MqW1wDtoncHuVO3ZDFWOgAd77ildU4LJdNZ26wuXg9G9tm7ZFBBBBAZWBHBVlIYEcEEGlWVSrepDKr4W/qzwWs81rcR3FvLJDNE4eOSNirIwOwQRyCD70VFRSxuhsweXFlkjJNp8dkR+PGeVGxpj9DsH5H0q3tLO26dmvGsrUz3ky9kUkjDcEZ2G9P5J3rfBAHHk0jWdysamCdTJbsdlR5U/1L+v8Af/Yhzwl2GtYMZeTAp4sbteVP+m36+2jrfjg6qqCjdHjn8E83OmfJD5OsRHausnpP2P4cOCNEb8+48+9NFmk8UAlSMXDcAL+Uts6HaRsck8Dg1Xrj47t1k00c8f5ZEOmQ/IYeRz/2K92E+2WvUmMTM3tvFi/tBaS6kjCiNu09pcj27tcgCl2V5WJF2VvaR7hbi5b47VpsvZxiL6S6s2yV7DfWMapdzw2RuLP1e0t6SshLlUO12ykgjjQ4pT/mHtbdpelchispJmscuDhtGv8AuDL66SSlozrhCARpdDj55NNervFxR3GQyct56ULQWVzaosltJb7HZ2yp+b7oH+J2sD3fVby2Dt8h/DlHlv8AGWWQyuTN5HNeTGNZI4kdSgcKV33TKu3KgEeeeMyvNuuklOW/b2/xffIsng00rrgta+/0yKirHqDCZTAX4sstaNbzMgkQ9yukiHYDo6kq67BG1JGwR7GirRKe+xXVLBcTQBxG+lcaZSAVb9weDrfHweRUVFAD50f1SGaKzvCDICFQux/E+vs39602xNld27GF17iNMre2x7j/AMDXztTF0/1Xf41limlllgGgDv76D9N+f2PHA8VqYfiPF6bFtGVm+Gq71QemajLio7WV58fPcWEp5Y20pRS3yVHB/Y8VW5uXJZG7W5yl493Ig7V0gHHx7a9yeOTyajw/V9vexgSOs3HBjGpB8hozz7+V2K6ucrYSbdZlAHyCCf8AiqZV4lj5YJbJq55df47NtFbd4/7b0/k8SlhG4S2kvbVmftFpJEA8hQD+uJZAV8EqhI2AaKjyHVNjj7C+e3DS3NxaS2kCOugPVXsd2HniMuByPvMDogGisy3j62a1HV0eaM4dGR2R1Ksp0ykaIPwa5ooqUoCiiigAooooA6jR5HWONWd2ICqo2ST7CiiiupbA/9k=",
+              "stats": [
+                "127 броня",
+                "+17 сила",
+                "+16 ловкость",
+                "+7 выносливость",
+                "Требуемый уровень: 56"
+              ],
+              "source": "Крафт",
+              "location": "Кожевничество 280",
+              "steps": [
+                "Выкройку ищи на аукционе. Шляпу можно заказать кожевнику. Точный источник выпадения выкройки пока не подтверждён.",
+                "Материалы: 16× грубая кожа, 4× синяя краска, 1× руническая нить."
+              ],
+              "links": [
+                [
+                  "Выкройка: синяя замшевая шляпа",
+                  "https://wow-pilot.cc/item/252890?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/252482?lang=ru"
+                ]
+              ],
+              "nameEn": "Blue Suede Hat"
+            },
+            {
+              "id": "16707",
+              "itemId": 16707,
+              "name": "Шапка Незаметности",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "141 броня",
+                "+6 сила",
+                "+20 ловкость",
+                "+20 выносливость",
+                "+13 дух",
+                "Требуемый уровень: 57"
+              ],
+              "source": "Добыча",
+              "location": "Некроситет",
+              "steps": [
+                "Убей Тёмного магистра Гандлинга в финале Некроситета. Он появляется после зачистки комнат финального крыла."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=1853"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/16707?lang=ru"
+                ]
+              ],
+              "nameEn": "Shadowcraft Cap"
+            },
+            {
+              "id": "8348",
+              "itemId": 8348,
+              "name": "Шлем огня",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "118 броня",
+                "+17 ловкость",
+                "+10 выносливость",
+                "Использование: 286–376 урона от огня и ещё 132 за 8 сек. · КД 5 мин.",
+                "Требуемый уровень: 45"
+              ],
+              "source": "Крафт",
+              "location": "Кожевничество 250",
+              "steps": [
+                "Проверь изучение у тренера кожевничества. Для изготовления нужна «Рама для дубления кож».",
+                "Материалы: 40× плотная кожа, 8× сердце огня, 4× ядро земли, 2× обработанная плотная шкура, 4× Толстая шелковая нить."
+              ],
+              "links": [
+                [
+                  "Шлем огня · рецепт",
+                  "https://www.wowhead.com/forever/ru/spell=10632"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/8348?lang=ru"
+                ]
+              ],
+              "nameEn": "Helm of Fire"
+            }
+          ]
+        },
+        {
+          "id": "neck",
+          "label": "Шея",
+          "items": [
+            {
+              "id": "22659",
+              "itemId": 22659,
+              "name": "Рассветный медальон",
+              "quality": 4,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+12 выносливость",
+                "+1% к криту",
+                "+24 к силе атаки"
+              ],
+              "source": "Квест",
+              "location": "Серебряный Рассвет · Часовня Последней Надежды",
+              "steps": [
+                "Ищи Миранду Стальклинок в Часовне Последней Надежды. Нужны «Значок Серебряного Рассвета» и «Значок Алого ордена», количество падает с ростом репутации.",
+                "Для репутации возьми жетон Серебряного Рассвета у интенданта в Бастионе и собирай камни Плети в Чумных землях. Посмотри текущие требования в квесте перед покупкой реагентов."
+              ],
+              "links": [
+                [
+                  "Легендарное боевое снаряжение – Друг Рассвета",
+                  "https://wow-pilot.cc/quest/9222?lang=ru"
+                ],
+                [
+                  "Дикие ростки",
+                  "https://wow-pilot.cc/quest/9137?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/22659?lang=ru"
+                ]
+              ],
+              "nameEn": "Medallion of the Dawn"
+            },
+            {
+              "id": "17044",
+              "itemId": 17044,
+              "name": "Воля Мученика",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+10 выносливость",
+                "+30 к силе атаки",
+                "Квест доступен с 55-го уровня"
+              ],
+              "source": "Квест",
+              "location": "Стратхольм · Живая часть и Нежить",
+              "steps": [
+                "В живой части забери «Медальон Веры» из сейфа Малора.",
+                "Отнеси медальон Аурию в часовню в крыле Нежити. Затем убей барона Ривендера и поговори с Аурием. Выбери ожерелье в награду."
+              ],
+              "links": [
+                [
+                  "Медальон Веры",
+                  "https://wow-pilot.cc/quest/5122?lang=ru"
+                ],
+                [
+                  "Слова Аурия",
+                  "https://wow-pilot.cc/quest/5125?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/17044?lang=ru"
+                ],
+                [
+                  "Источник характеристик",
+                  "https://endgametools.com/en/wow-forever/items/17044"
+                ]
+              ]
+            },
+            {
+              "id": "13212",
+              "itemId": 13212,
+              "name": "Шипастый ошейник Халикон",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+7 выносливость",
+                "+20 к силе атаки",
+                "Требуемый уровень: 55"
+              ],
+              "source": "Добыча",
+              "location": "Нижняя часть Пика Чёрной горы",
+              "steps": [
+                "Ожерелье падает с волчицы Халикон в Нижнем Пике. Ищи волчий загон после гоблинского участка."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=10220"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/13212?lang=ru"
+                ],
+                [
+                  "Источник характеристик",
+                  "https://bindonforever.com/item/13212"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "shoulder",
+          "label": "Плечи",
+          "items": [
+            {
+              "id": "272105",
+              "itemId": 272105,
+              "name": "Наплечье Черного Копья",
+              "quality": 4,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "148 броня",
+                "+27 ловкость",
+                "+12 выносливость",
+                "+1% к криту",
+                "Требуемый уровень: 60"
+              ],
+              "source": "Репутация",
+              "location": "Налетчики Черного Копья · Степи",
+              "steps": [
+                "Играй на поле боя Острова Черного Копья. Проверь разовый квест на победу и сдачу знаков по три штуки.",
+                "На «Превознесении» ищи Крига Ботмяса в Степях, около 65, 34.6."
+              ],
+              "links": [
+                [
+                  "Налетчики Черного Копья",
+                  "https://www.wowhead.com/forever/ru/faction=2798"
+                ],
+                [
+                  "Сдача знаков на 60-м уровне",
+                  "https://www.wowhead.com/forever/ru/quest=98893"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/272105?lang=ru"
+                ]
+              ],
+              "nameEn": "Darkspear Pauldrons"
+            },
+            {
+              "id": "16708",
+              "itemId": 16708,
+              "name": "Наплеч Незаметности",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "127 броня",
+                "+22 ловкость",
+                "+9 выносливость",
+                "+0,2% к меткости",
+                "Требуемый уровень: 55"
+              ],
+              "source": "Добыча",
+              "location": "Стратхольм · Живая часть",
+              "steps": [
+                "Зайди в Бастион Алого ордена и убей пушкаря Вилли."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=10997"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/16708?lang=ru"
+                ]
+              ],
+              "nameEn": "Shadowcraft Spaulders"
+            },
+            {
+              "id": "22241",
+              "itemId": 22241,
+              "name": "Наплечье Темностража",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "122 броня",
+                "+11 сила",
+                "+17 ловкость",
+                "+7 выносливость",
+                "Требуемый уровень: 52"
+              ],
+              "source": "Добыча",
+              "location": "Глубины Чёрной горы · Хранилище",
+              "steps": [
+                "Смотритель Стилгисс стоит с псом Вереком в хранилище. Иди в сторону Зала Ремесла."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=9041"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/22241?lang=ru"
+                ]
+              ],
+              "nameEn": "Dark Warder's Pauldrons"
+            }
+          ]
+        },
+        {
+          "id": "back",
+          "label": "Спина",
+          "items": [
+            {
+              "id": "13340",
+              "itemId": 13340,
+              "name": "Накидка Черного барона",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "45 броня",
+                "+15 ловкость",
+                "+20 к силе атаки",
+                "Требуемый уровень: 58"
+              ],
+              "source": "Добыча",
+              "location": "Стратхольм · Нежить",
+              "steps": [
+                "Подземелье: Стратхольм.",
+                "Убить Baron Rivendare; предмет указан в его добыче. Повторять прохождение при отсутствии нужного предмета."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=10440"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/13340?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=13340"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=13340"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/fury-warrior/"
+                ]
+              ],
+              "nameEn": "Cape of the Black Baron"
+            },
+            {
+              "id": "272414",
+              "itemId": 272414,
+              "name": "Мех ревуна",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "46 броня",
+                "+8 выносливость",
+                "+1% к меткости",
+                "+28 к силе атаки",
+                "Требуемый уровень: 60"
+              ],
+              "source": "Валюта",
+              "location": "Пикс Ксиззикс · Пиратская бухта",
+              "steps": [
+                "Копи валюту «Потускневший реал Нижней Шахты».",
+                "В Пиратской бухте найди Пикс Ксиззикс. Ориентир на карте — 28.5, 75.8.",
+                "Цена предмета — 75 реалов."
+              ],
+              "links": [
+                [
+                  "Пикс Ксиззикс на карте",
+                  "https://azeroth.wiki/forever/map/stranglethorn-vale/pix-xizzix"
+                ],
+                [
+                  "Где брать реалы",
+                  "https://www.wowhead.com/forever/guide/currency/tarnished-undermine-real-overview"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/272414?lang=ru"
+                ]
+              ],
+              "nameEn": "Howler's Furs"
+            },
+            {
+              "id": "11626",
+              "itemId": 11626,
+              "name": "Накидка черной пелены",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUEBgcIAwH/xAA1EAACAQMDAwIFAgILAAAAAAABAgMEBREAEiEGMUETUQcUMnGBImGh0QgVIzNSgpGxweHw/8QAGAEAAwEBAAAAAAAAAAAAAAAAAAIDAQT/xAAeEQACAgMBAAMAAAAAAAAAAAAAAQIRAyExEjJBYf/aAAwDAQACEQMRAD8A5ItlJdb/AHho6aOruFfUyFn2o88jsxyWIUFmOTknk66KsHQHRnQtjlvHU0VNX3OWEQvZagw1wOWA9WOZQqxn9LnBBbHGeN2mfUN/tXSdqitfT6QU9Ssfpj5GMIHJJY88kgFsgkk9gOBxQ6qSsr4xcK9xMxbZTR5xvfzgf7nue2pp+y/nxosV8+Id/udALHY2qrBYFGFooZiI0TjjIGcZycZOSwzk6V9NUNNTVbALIQxySxySwyRnS+AFpEj3BhCcMQchnHBwfIHIH5I76sXT6gTop2je2CT401JLRlv7FHXw9HrWglO70aajppDtPIBdmOPySdYp1BaprP1BW2uoAV4JSoK9mXurD3BUgg+xGul+tum6q5tRXS2RRy1CwCllh3AM4XOGAPB+o589tUuo6crC0K3imzFTpiH5tI5tijsgJBbaPAzjWrgsomUdNUNTPdaY0lYaGSOVXFWu/wDsGHIbKAkEEcY5zo1118MOhKS3WVOp6+0U6TQlqilhqMEPHncr7BgKRxge/wBwNGpyypOh44rRjNloJ7hXPU1THLfqYnvzppSUz1lxuFdBGFgtdPIlKF5G9VPOPPP5yR7anU0X9X2iWpVQWjQuAR3J4UffJGrN0JQx0NraN2iKrCYn9ReHJ5bnvyf/AB1RmIzOw7BQxBMY9Nf9fP8AHVjoZhA6scZHY/8AGmtd0DT01eZrVdXjpJGMny0sGfRBOcI27le/BHGO/c6kw2q20pyIpKmTPDTNhR/lHf8AJI/bRYJHw3GeopmlB9CNBy7twPfaByT37fnGkMcb3a+0Nvhq5KcVM6R+s2NwJYcgDzzwPfzqd1BMWkEQbAUDKqoAH2A02+FkVretqKm506vJBIrI+PpUjAx+Sf8ArSydKxlt0Xv4pXSz9LdOvc55JJYKYKUY4lKEBURWxywYshJPPJP6jxo1k39J+Y1fTcCUk8VNRwz7pF2OwmZs7VyAQCMMRnAxkZzgE0mOClG2NObi6Q1vUEdLZoWOSaiVQAyYBCsWIHv9Iz99SaC4ClpmiQDDKd+UHOeP4eDwedenxAFNFZqRIMssFWct55QgnSRXO1WAPI1QQcy1ysoI3DAx+NQp6sop2kZP51CeUKCWO0ffUUGSqlEcQPflgOANAHjWOzxSSK392Mknk6tfQVsgobTW3SsrInnqI0MUXIULnIyT3JJB/Yaq18UCWC1Uoy0jBSPJ7cnH8vGrvdpUpunmoRErLDEERlIyFAGBkDn3OpZXxFMa6zB/j1eKm4X6k9arcg04LUwBCLtZtrex+tgDyRg++jVU+JdRLP1hWK9X8ykR2Rncp2DuU4/wsWHPPGjVoajRCcrkzom7SU956YaehlWaOQCSJhxypwQQeQe4IOCDwedVunq2WJeTjzo0aGP+nvRU9TcqjCcRKcNIRwP5nTpjDQ0/oQj9XbPuffRo0RVswR2JxV9RPUY3RU6Bi/t4H3JOdOeprlLFTKkX0zZB47j76NGufJ86OnHqFnPHX4efre4hE3O8wCqp3EnaMDjz+2jRo10R4cMus//Z",
+              "stats": [
+                "38 броня",
+                "+6 сила",
+                "+14 ловкость",
+                "+4 дух",
+                "Требуемый уровень: 48"
+              ],
+              "source": "Добыча",
+              "location": "Глубины Чёрной горы · Тюрьма",
+              "steps": [
+                "Убей верховного дознавателя Герштана. Она стоит в тюремном крыле рядом с началом подземелья."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=9018"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/11626?lang=ru"
+                ],
+                [
+                  "Источник характеристик",
+                  "https://bindonforever.com/item/11626"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "chest",
+          "label": "Грудь",
+          "items": [
+            {
+              "id": "252484",
+              "itemId": 252484,
+              "name": "Мундир Древобрюхов",
+              "quality": 4,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "187 броня",
+                "+33 сила",
+                "+18 ловкость",
+                "+1% к криту",
+                "Требуемый уровень: 56"
+              ],
+              "source": "Крафт",
+              "location": "Кожевничество 300 · Азшара",
+              "steps": [
+                "Нужен мастер: кожевничество, навык 300, рецепт Pattern: Timbermaw Tunic.",
+                "Источник выкройки в Wowhead Forever — Blackmaw Druid. Точная точка появления в проверенной карточке не указана; шанс по малой выборке не принимается за надёжный.",
+                "Материалы: Enchanted Leather ×6; Powerful Mojo ×20; Living Essence ×20; Pristine Scale ×10; Cured Rugged Hide ×4; Rune Thread ×10; Fel Leather ×20.",
+                "Предмет привязывается при надевании: можно заказать изготовление или купить готовый у игроков."
+              ],
+              "links": [
+                [
+                  "Выкройка: мундир Древобрюхов",
+                  "https://wow-pilot.cc/item/252893?lang=ru"
+                ],
+                [
+                  "Друид Черночревов",
+                  "https://www.wowhead.com/forever/ru/search?q=Blackmaw+Druid"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/252484?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=252484"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=252484"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/fury-warrior/"
+                ],
+                [
+                  "Рецепт и материалы Forever",
+                  "https://bindonforever.com/professions/leatherworking#r-1255014"
+                ],
+                [
+                  "Pattern: Timbermaw Tunic",
+                  "https://bindonforever.com/item/252893"
+                ],
+                [
+                  "Предмет и добыча · WOWTBC.GG",
+                  "https://wowtbc.gg/warcraftforever/bis-list/beast-mastery-hunter/#chest"
+                ],
+                [
+                  "Рецепт · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=252893/pattern-timbermaw-tunic"
+                ],
+                [
+                  "Материалы · Wowhead Forever",
+                  "https://www.wowhead.com/forever/spell=1255014/timbermaw-tunic"
+                ]
+              ],
+              "nameEn": "Timbermaw Tunic",
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-1255014",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Powerful Mojo",
+                  "quantity": 20,
+                  "url": "https://www.wowhead.com/forever/item=12804"
+                },
+                {
+                  "name": "Living Essence",
+                  "quantity": 20,
+                  "url": "https://www.wowhead.com/forever/item=12803"
+                },
+                {
+                  "name": "Fel Leather",
+                  "quantity": 20,
+                  "url": "https://www.wowhead.com/forever/item=248825"
+                },
+                {
+                  "name": "Pristine Scale",
+                  "quantity": 10,
+                  "url": "https://www.wowhead.com/forever/item=249429"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 10,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                },
+                {
+                  "name": "Enchanted Leather",
+                  "quantity": 6,
+                  "url": "https://www.wowhead.com/forever/item=12810"
+                },
+                {
+                  "name": "Cured Rugged Hide",
+                  "quantity": 4,
+                  "url": "https://www.wowhead.com/forever/item=15407"
+                }
+              ]
+            },
+            {
+              "id": "16721",
+              "itemId": 16721,
+              "name": "Мундир Незаметности",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "176 броня",
+                "+26 ловкость",
+                "+13 выносливость",
+                "+12 дух",
+                "+0,8% к меткости",
+                "Требуемый уровень: 58"
+              ],
+              "source": "Добыча",
+              "location": "Верхняя часть Пика Чёрной горы",
+              "steps": [
+                "Подземелье: Пик Чёрной горы — верхняя часть.",
+                "Убить General Drakkisath; предмет указан в его добыче. Повторять прохождение при отсутствии нужного предмета."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=10363"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/16721?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=16721"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=16721"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/assassination-rogue/"
+                ]
+              ],
+              "nameEn": "Shadowcraft Tunic"
+            },
+            {
+              "id": "15064",
+              "itemId": 15064,
+              "name": "Портупея боевого медведя",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "158 броня",
+                "+11 сила",
+                "+18 ловкость",
+                "+27 выносливость",
+                "Требуемый уровень: 50"
+              ],
+              "source": "Крафт",
+              "location": "Кожевничество · Крепость Древобрюхов",
+              "steps": [
+                "Выкройка Pattern: Warbear Harness требует Кожевничество 250 и Tribal Leatherworking — специализацию «Племена».",
+                "Материалы: Rugged Leather ×28, Warbear Leather ×12, Rune Thread ×1.",
+                "Готовая броня передаётся до надевания. Источник именно текущей выкройки Forever не подтверждён; старые комментарии о торговце не использованы как проверенная добыча."
+              ],
+              "links": [
+                [
+                  "Мейлош",
+                  "https://www.wowhead.com/forever/ru/npc=11557"
+                ],
+                [
+                  "Выкройка: портупея боевого медведя",
+                  "https://wow-pilot.cc/item/15742?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/15064?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=15064"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#chest"
+                ],
+                [
+                  "Выкройка и требования",
+                  "https://www.wowhead.com/forever/item=15742/pattern-warbear-harness"
+                ],
+                [
+                  "Материалы",
+                  "https://www.wowhead.com/forever/spell=19068/warbear-harness"
+                ],
+                [
+                  "Pattern: Warbear Harness",
+                  "https://bindonforever.com/item/15742"
+                ],
+                [
+                  "Pattern: Warbear Harness",
+                  "https://bindonforever.com/item/20253"
+                ]
+              ],
+              "nameEn": "Warbear Harness",
+              "acquisition": {
+                "kind": "craft",
+                "checkedAt": "2026-11-13",
+                "profession": "Кожевничество",
+                "skill": 250,
+                "recipeSourceVerified": false
+              },
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-19068",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Rugged Leather",
+                  "quantity": 28,
+                  "url": "https://www.wowhead.com/forever/item=8170"
+                },
+                {
+                  "name": "Warbear Leather",
+                  "quantity": 12,
+                  "url": "https://www.wowhead.com/forever/item=15419"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 1,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "wrist",
+          "label": "Запястья",
+          "items": [
+            {
+              "id": "19587",
+              "itemId": 19587,
+              "name": "Наручи лесного следопыта",
+              "quality": 4,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "86 броня",
+                "+11 сила",
+                "+19 ловкость",
+                "+8 выносливость",
+                "Требуемый уровень: 60"
+              ],
+              "source": "Репутация",
+              "location": "Всадники Песни Войны · Степи",
+              "steps": [
+                "Играй в Ущелье Песни Войны. Захваты флагов и сдача знаков повышают репутацию.",
+                "На уровне «Превознесение» ищи Кельма Харгюнта у входа в Ущелье со стороны Степей, около 46.6, 8.4. Сверь уровень версии у торговца."
+              ],
+              "links": [
+                [
+                  "Кельм Харгюнт",
+                  "https://www.wowhead.com/forever/ru/npc=14754"
+                ],
+                [
+                  "Всадники Песни Войны",
+                  "https://www.wowhead.com/forever/ru/faction=889"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19587?lang=ru"
+                ]
+              ],
+              "nameEn": "Forest Stalker's Bracers"
+            },
+            {
+              "id": "16710",
+              "itemId": 16710,
+              "name": "Наручи Незаметности",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAYFBwIECAMB/8QANBAAAQMDAgMFBgUFAAAAAAAAAQIDBAAFEQYhEjFBBxMiUWEUFUJxgZEII1KhwUNiorHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EAB0RAAMBAQACAwAAAAAAAAAAAAABEQIDITFBUVL/2gAMAwEAAhEDEQA/AON5cmRLlPSpT7r8h9anHXXVlS3FqOSpRO5JJJJNeVbUG3zZyymJGcdIGTwjYfWsxarh7UYy4rjTqVcJDieHB+tAGlRTnYdFOuuh2co92NwhPXyyT0pvhaKYeQFewIbwfhAP3PWrWaKiXpvRD90koalXSDCKseBbgK8YPT6V6a07Or9pxpyZ3PtttR4vamd0pSTgFXln/lWGnQBJK0sFJSclXUfWmHS92e066iBf2fedlWtIK1pHeRcf1ASMKSCcny574o1hoS0c4QpL8GcxLjrW0/HdS42tC1IUlSTkEFJBBBHMEEUV1l+KnsZsaez6NrvSAjqdioLk32VvhblMkjLvDxEJUnmcc988qKgo59XqQ2O6C1sxG5VujoSlTavCV5SCpWRvkk9cirq0NC01rHC4hEmMg8T8NwBDqQQQcY+IemfnXPtzSHp7D53DsZtQPmcYNTejb9ddHX9m+Wt1xCkD8xCThLg32I6iqWXKK/BeNy0HI0ZfocS4OiXbbknit8/GeJQAy0vGwcScj1/an236aQzH72UEMoHwqHiUf4p8uV3tHat2LI7p6OzKWwl6MW2SA1NQAsbcgMlPPoonrgUFD17Jn2pn3g4tUlB7txpIIwU+fr+/2rTn5UFrwWF7ytiCphtLawjIOBkD7UgaynRlqnLWWm0+BhCFb/DlWB15j/VQ121RJVlJeDCDvwp50kXq7OydmirHmrerjJpYWmNWon6ca01NllaInEykE442iCB08JHH88AUVVunJSWEXW5Lcw0w3guc8qxyFFYP2aIgbGwi4WRp4Ed7CWW3BjcoVuD99qY0wm22lJURwYISrHPFJGkrki23dJkZMSQksyBn4FdfmNj9KZ78ZNtlqjrdLjR8TDoOzrZ3SoY8wR96vnqKMnSLh7BdWLt1qmadKvy3FKKSVYCVj4vqD/iKru/y3Yuq7sxG4kJXILmAcnKhk/uax7L5SYq505ecIWUg+vAc/wAUu6k1AyzdpTqUF19xWccWQk+ppc2k6w0TTqghBflqykbkKNLV51TspiE2g9OLoB6UvXO5TLi6XJTpV5JGyR8hWnV67fkSz9khNu0uUx7OSltk44m0DAUfM+ZzRUfRWLdLMnG3GllDiFIUCQUqGCCDg0w2nUaBaPc95YdlRGzxRXG1AOxlf2k9PSiikBvu6qhQYLUWzx18CFFQS8Ns+Z/Uf42pRkvOSJDj7qipxxRUo+poooA86+8Kv0nr08udFFAGaWXlKSlLTiipQSAEnJJ5D5miiigD/9k=",
+              "stats": [
+                "71 броня",
+                "+15 ловкость",
+                "+7 выносливость",
+                "Требуемый уровень: 52"
+              ],
+              "source": "Добыча",
+              "location": "Некроситет · Аукцион",
+              "steps": [
+                "Наручи выпадают в Некроситете с противников и боссов, включая инструктора Малисию. Предмет можно искать на аукционе."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=10505"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/16710?lang=ru"
+                ]
+              ],
+              "nameEn": "Shadowcraft Bracers"
+            },
+            {
+              "id": "18375",
+              "itemId": 18375,
+              "name": "Наручи Затмения",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAYFBwIECAMB/8QANBAAAQMDAgMFBgUFAAAAAAAAAQIDBAAFEQYhEjFBBxMiUWEUFUJxgZEII1KhwUNiorHR/8QAFwEAAwEAAAAAAAAAAAAAAAAAAAECA//EAB0RAAMBAQACAwAAAAAAAAAAAAABEQIDITFBUVL/2gAMAwEAAhEDEQA/AON5cmRLlPSpT7r8h9anHXXVlS3FqOSpRO5JJJJNeVbUG3zZyymJGcdIGTwjYfWsxarh7UYy4rjTqVcJDieHB+tAGlRTnYdFOuuh2co92NwhPXyyT0pvhaKYeQFewIbwfhAP3PWrWaKiXpvRD90koalXSDCKseBbgK8YPT6V6a07Or9pxpyZ3PtttR4vamd0pSTgFXln/lWGnQBJK0sFJSclXUfWmHS92e066iBf2fedlWtIK1pHeRcf1ASMKSCcny574o1hoS0c4QpL8GcxLjrW0/HdS42tC1IUlSTkEFJBBBHMEEUV1l+KnsZsaez6NrvSAjqdioLk32VvhblMkjLvDxEJUnmcc988qKgo59XqQ2O6C1sxG5VujoSlTavCV5SCpWRvkk9cirq0NC01rHC4hEmMg8T8NwBDqQQQcY+IemfnXPtzSHp7D53DsZtQPmcYNTejb9ddHX9m+Wt1xCkD8xCThLg32I6iqWXKK/BeNy0HI0ZfocS4OiXbbknit8/GeJQAy0vGwcScj1/an236aQzH72UEMoHwqHiUf4p8uV3tHat2LI7p6OzKWwl6MW2SA1NQAsbcgMlPPoonrgUFD17Jn2pn3g4tUlB7txpIIwU+fr+/2rTn5UFrwWF7ytiCphtLawjIOBkD7UgaynRlqnLWWm0+BhCFb/DlWB15j/VQ121RJVlJeDCDvwp50kXq7OydmirHmrerjJpYWmNWon6ca01NllaInEykE442iCB08JHH88AUVVunJSWEXW5Lcw0w3guc8qxyFFYP2aIgbGwi4WRp4Ed7CWW3BjcoVuD99qY0wm22lJURwYISrHPFJGkrki23dJkZMSQksyBn4FdfmNj9KZ78ZNtlqjrdLjR8TDoOzrZ3SoY8wR96vnqKMnSLh7BdWLt1qmadKvy3FKKSVYCVj4vqD/iKru/y3Yuq7sxG4kJXILmAcnKhk/uax7L5SYq505ecIWUg+vAc/wAUu6k1AyzdpTqUF19xWccWQk+ppc2k6w0TTqghBflqykbkKNLV51TspiE2g9OLoB6UvXO5TLi6XJTpV5JGyR8hWnV67fkSz9khNu0uUx7OSltk44m0DAUfM+ZzRUfRWLdLMnG3GllDiFIUCQUqGCCDg0w2nUaBaPc95YdlRGzxRXG1AOxlf2k9PSiikBvu6qhQYLUWzx18CFFQS8Ns+Z/Uf42pRkvOSJDj7qipxxRUo+poooA86+8Kv0nr08udFFAGaWXlKSlLTiipQSAEnJJ5D5miiigD/9k=",
+              "stats": [
+                "76 броня",
+                "+10 ловкость",
+                "+9 выносливость",
+                "+24 к силе атаки",
+                "Требуемый уровень: 57"
+              ],
+              "source": "Добыча",
+              "location": "Забытый Город · Запад",
+              "steps": [
+                "Убей принца Тортелдрина в библиотеке. По маршруту сними барьеры у пилонов и убей Бессмер’тера."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=11486"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/18375?lang=ru"
+                ],
+                [
+                  "Источник характеристик",
+                  "https://www.wowhead.com/forever/item=18375/bracers-of-the-eclipse"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "hands",
+          "label": "Кисти",
+          "items": [
+            {
+              "id": "272099",
+              "itemId": 272099,
+              "name": "Перчатки налетчика",
+              "quality": 4,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "123 броня",
+                "+11 сила",
+                "+27 ловкость",
+                "+15 выносливость",
+                "Требуемый уровень: 60"
+              ],
+              "source": "Репутация",
+              "location": "Налетчики Черного Копья · Степи",
+              "steps": [
+                "Подними репутацию Darkspear Raiders до превознесения, участвуя в боях на островах Чёрного Копья.",
+                "Отправляйся к Creeg Bothunk в Степях, к северу от Кабестана (65.0,34.6), и купи нужную вещь. Требуется60 уровень."
+              ],
+              "links": [
+                [
+                  "Налетчики Черного Копья",
+                  "https://www.wowhead.com/forever/ru/faction=2798"
+                ],
+                [
+                  "Сдача знаков на 60-м уровне",
+                  "https://www.wowhead.com/forever/ru/quest=98893"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/272099?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=272099"
+                ],
+                [
+                  "Каталог Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/feral-tank-druid/#hands"
+                ],
+                [
+                  "Предмет и добыча · WOWTBC.GG",
+                  "https://wowtbc.gg/warcraftforever/bis-list/beast-mastery-hunter/#hands"
+                ],
+                [
+                  "PvP и интенданты Forever",
+                  "https://www.wowhead.com/forever/guide/pvp-overview-ranking-rewards"
+                ],
+                [
+                  "Darkspear Epaulets · продавец",
+                  "https://www.wowhead.com/forever/item=272106/darkspear-epaulets"
+                ]
+              ],
+              "nameEn": "Raider Gloves"
+            },
+            {
+              "id": "19049",
+              "itemId": 19049,
+              "name": "Боевые перчатки Древобрюхов",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "107 броня",
+                "+21 сила",
+                "+14 ловкость",
+                "+9 выносливость",
+                "Требуемый уровень: 56"
+              ],
+              "source": "Крафт",
+              "location": "Кожевничество 295 · Крепость Древобрюхов",
+              "steps": [
+                "Купи выкройку у Мейлоша на «Почтении». Чтобы прокачать репутацию, сдавай перья Мёртвого Леса или бусы Зимней Спячки.",
+                "Материалы: 8× зачарованная кожа, 6× мощный амулет, 6× Субстанция Жизни, 2× обработанная грубая шкура, 2× Железношелковая паутина."
+              ],
+              "links": [
+                [
+                  "Мейлош",
+                  "https://www.wowhead.com/forever/ru/npc=11557"
+                ],
+                [
+                  "Выкройка: боевые перчатки Древобрюхов",
+                  "https://wow-pilot.cc/item/19327?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19049?lang=ru"
+                ]
+              ],
+              "nameEn": "Timbermaw Brawlers"
+            },
+            {
+              "id": "15063",
+              "itemId": 15063,
+              "name": "Рукавицы девизавра",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAUGBwMECAEC/8QALRAAAQMDAwIFBAIDAAAAAAAAAQIDBAUGEQASITFRBxMiQWEUMnGBFUJSkdH/xAAaAQACAwEBAAAAAAAAAAAAAAADBAACBQYB/8QALBEAAQQAAwUJAAMAAAAAAAAAAQACAxEEMUEFEiFRYRMUInGBkbHB8CMz4f/aAAwDAQACEQMRAD8A5WCJEuU5IkOuPvPLK3HFkqUtROSSTySSeuntIpbHnJVMUptgJK3FJAJAHYE8nJAA7n969jpaiUN+YXWw9lKGkEZ3k5yf0AT/AK76eW9HcbFPbmj+Xn1I+bGpSnNrKUpB2OyMYyOSUt5GeCTg4Oa5zn+LRdfJJDghuAW+gegvn56ABY6JTalVo6pcKAiLALnl/XTnQllHPUnA4HOcZ1OaRQvDsx0xIdxuVmoMpBdapVvvSVunoSkvKSnA6/bjAyDk4Ht00GdTqfEr92rauJmoNoTQZCMopoCgEpbLaQPKUMkKCwMbeuRnVu+Htl2bOajWfWoEabFlxUmnVFlWHYr7Y9SWns7wDgKAzjcDkHdjS8krIwHc+XTz/wAWdLicTiG+J17v7SvtU83bliv1CTClN3xGmrUkNJFNjpQgkFWNocO7gdAQfydVb4iW09Q6m5EdCFFOFIW2cocQoApWk+4I/wCatl2mu06mLqM16XIiy1K/kJKfU/BeSvCH07cbkDaMp6pxkdtYvH+TDuCsUOstMtIkT6Ew9LW19jj3mOoWoDA/sg8+4x017bo5LGSbwsxxI7CZ13leh098lz4wZEWS1KiPOMPsLDjbrailaFA5CkkcggjORo0zqcPyXD86NaTX2LCypcIWPLSE5qLZdejRN2AEkkjudNrbqyIlwU6vuNEtKkYlIBGUPJQpO0fBByB+tYkwlGqvtKUN62w5HO37+OE/BxkfkDvrTLcanzo76lD6CpAofBz6FpVjfg9FJJCvwT30JjQ6MDp8om0JHd8eXCuNe1Afuq6FkV2lXB4VVahOykPwlz4k2nIBIUlxT4Q+hXvylRUBxypRHQaS063atbM8TrSr8iA427v+ncbLrCjnI9POMYI5B9uRqt6VGcarLaVrDbzEhBfQDhLuDuStPwoZI/erDr150qFEkONVBhxWdgUQoIbUQepHKuh4TkjtpdkQYC0cQUIvs3VJ3byZFMgiNXw2ySFl1ZWFIVlRO4H9+/fVc3U/aEdyZEgVmI7FKfNipZQtWxR+9rIBG0k5HYk8+wdRq1HARV5Fts1dxKFbqvdisRkHPqDMNJ24G3jcTnJyPbW1Trgu+alCaPU6i3EKUllmi2ihDDSVdBkt/b7gk99R0m6FGgk8lV11Udcd4IK2nkLaQ8y60fS4hYyCM9PcEHkEEe2jU88Q4l9T1sVa6odULKEeUmTJoyYmNylHaSgAddxAJzyT75JpdmI3BVrtYMH3+MTkUTn79FX7YXOpgLaQXo6gpvnBHcZ+dZ6u7MnWq8mqoQ29EfQ5HWraXHAvhYJ6kcJOlFFlFlYPtqRSG41ViFhatpPKVY5SdGExhcGnJLzbJj2lE6Vh/krLQkc/Th7LPaz1OrNrrZqU2SmsU51qHTocNgF6pNL3K2FZPoCMEb8HaCMDJ524MBxy5afbVDgsVu5lK8iPHbJESAFH5+4gnJUrnPJ54K5qRFtKhty4TocuCpbmIq1JGIyN2FLAwcE9P30wDmQXBDl2VRYNtW08lNSqoKpVQSCHMDG5QV1SCSenQDjk51ZzrdTdcvv0+fJcm6J0RIfmM03uhq17Cq6Y9QqB8QbxQD5gQAY0FwKIKAOUo2qAycbs+yOmrg8KqpePidZj89/xScgSoRLLtOp9Hjt/Sjq2sqKSohQSftwOMcYOudIFOj0qEIsYkknLzh+51Xc/HxqU+FV4m0L1bkLWpFPno+jqSR/ZlXRXPGUk5B/I6E6nYN3ePE/tMgqOeTkrYv8Aauaj2lUUPXGq6KI4wU1Cnzqe2zI8gYCnW3msJK0khQBGcAnnBwaa3HLkTJD9IDbjD0V5BW8EhaFoIJScHqhQG0/CvnRqjYowMvpGZjcRGKY6lxNHcUhxTa0lKknBB4IOnVMlKbcGDo0aLOwLf2ZM8bpBWC9Wg47GkoSE7wUKPftqdVOo/wApaFq3IgkGCTBlDHQgAZ6e4BPH+QGjRobf62Hka+UltoAY+WtQD60Cvh/1ZAP4Pf51pSULKEr2Apx606NGm1iKdOV5NesRqdKkJan0KOmO+rJSp5oHDJ4PqUThHHqzt650aNGvGsCjjS//2Q==",
+              "stats": [
+                "103 броня",
+                "+9 выносливость",
+                "+1% к криту",
+                "+28 к силе атаки",
+                "Комплект из двух предметов: +2% к меткости",
+                "Требуемый уровень: 53"
+              ],
+              "source": "Крафт",
+              "location": "Традиции предков · Кожевничество 265",
+              "steps": [
+                "Изготовление: Кожевничество. Можно изготовить у мастера с рецептом или приобрести готовый предмет.",
+                "Материалы на одно создание: 30 × Rugged Leather, 8 × Devilsaur Leather, 1 × Rune Thread.",
+                "Рецепт изучается из: Pattern: Devilsaur Gauntlets.",
+                "Условия рецепта: Taught by Pattern: Devilsaur Gauntlets (Leatherworking 265, Tribal Leatherworking)"
+              ],
+              "links": [
+                [
+                  "Выкройка: рукавицы девизавра",
+                  "https://wow-pilot.cc/item/15758?lang=ru"
+                ],
+                [
+                  "Нергала",
+                  "https://www.wowhead.com/forever/ru/npc=12959"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/15063?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=15063"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=15063"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/assassination-rogue/"
+                ],
+                [
+                  "Рецепт и материалы Forever",
+                  "https://bindonforever.com/professions/leatherworking#r-19084"
+                ],
+                [
+                  "Pattern: Devilsaur Gauntlets",
+                  "https://bindonforever.com/item/15758"
+                ]
+              ],
+              "nameEn": "Devilsaur Gauntlets",
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-19084",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Rugged Leather",
+                  "quantity": 30,
+                  "url": "https://www.wowhead.com/forever/item=8170"
+                },
+                {
+                  "name": "Devilsaur Leather",
+                  "quantity": 8,
+                  "url": "https://www.wowhead.com/forever/item=15417"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 1,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "id": "waist",
+          "label": "Пояс",
+          "items": [
+            {
+              "id": "272396",
+              "itemId": 272396,
+              "name": "Пояс оборотня",
+              "quality": 4,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "104 броня",
+                "+14 сила",
+                "+24 ловкость",
+                "+11 выносливость",
+                "Требуемый уровень: 60"
+              ],
+              "source": "Валюта",
+              "location": "Пикс Ксиззикс · Пиратская бухта",
+              "steps": [
+                "Копи валюту «Потускневший реал Нижней Шахты».",
+                "В Пиратской бухте найди Пикс Ксиззикс. Ориентир на карте — 28.5, 75.8.",
+                "Цена предмета — 100 реалов."
+              ],
+              "links": [
+                [
+                  "Пикс Ксиззикс на карте",
+                  "https://azeroth.wiki/forever/map/stranglethorn-vale/pix-xizzix"
+                ],
+                [
+                  "Где брать реалы",
+                  "https://www.wowhead.com/forever/guide/currency/tarnished-undermine-real-overview"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/272396?lang=ru"
+                ]
+              ],
+              "nameEn": "Shifter's Belt"
+            },
+            {
+              "id": "19044",
+              "itemId": 19044,
+              "name": "Мощь Древобрюхов",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAGwAAAgMBAQEAAAAAAAAAAAAAAAUDBgcECAH/xAAzEAABAwMCAwUGBgMAAAAAAAABAgMEAAURITEGBxITQVFxgRQVIjJCYSNikaHR8HKxwf/EABkBAAIDAQAAAAAAAAAAAAAAAAMFAAEEAv/EACERAAICAgICAwEAAAAAAAAAAAECAAMRIQQxEiITMkFh/9oADAMBAAIRAxEAPwDxvLkSJcp2XLfdkSHlqcdddWVLcWTkqUTqSSckmoqKKkkKKK7rDBcud5iQGklSnnUpOBnCc6nyAyfSp1LAycTfX221WloE7wh1HH5P4xVP4amLtk5uSiOHyfoUM59Ku9zx7ruMjRLaGuzSPEqwkD9KT8ESrbbriXLm2pxtSQEjAwD1AnJ7tMj11wM0vqb27jp011Fb91uFzu0h4qUy+tlbTfZANqbwCU9JA0UFAEHfIop1eLtYZN4b93W5QdQQkPJ6UJOdMkJJBOD/AHFFFJwe4IICJ5/r7TC02y43N0t2+C9KXsShvITnxOw9at1h5az5DiV3WSiKz9TbZ6nD9s/KPPXyrWzKnZixK3f6iUiBClz5jMOGwt+Q+rpbbQMlRrb+VvLyVAmKabWH70+jpJTjoiI3VlW2QM9SthsCe97wjYoNrjeyWOApxa09LrgILjn+ThGANNhp9qbzeGOYd1je64wttriaYjom4LuNck9OVEYzS2/lZPiDgf2M6OIE9m2Yp4okRVdNqtziXGI6z2khO0he3UPy+HnVjRwLbG7c0u4y2mStKT2jjnSSSgK07gn4gPQ+VVO4cueZ1vSVNWRclGTkw3Uud+Acb6+XjVduHE989nas96acZXGGEJeQptzGflO2g7tNKvj+G95hbXOgNTu4hgIs94ZjNSIryVuZSplwKyBrrjyopK+8xbLZKvrwB7NJSyk/WsnT9/8Apooy1F9qINr1TTnctNhtF5nJQxCghlrZKEtBCRjOuAAB+lXg8urizbC9Pew4QSlo7HB1B9P91wSOZcxtRZ4fgsxU5x2riQtahnw7qTPcZcXQrm1cpMpycyD+O2rHxpwBoMDb7V0LaVbEhqtIzFUu93W13L3Q0ERWGgnocU3lSxjUa6aHIplFuvW6lEy7PNqWNMvhGtMuI4UDjeyovNrARISSohKviCt1aeO1ZzJtLd6fUxKc7B0EBxKh8SFDTI+xoN3HVWz+QlVxZcdmbJChTY7Ak26/T47ih8xdyP7/ADUPEF5nTI6YXFUVu+QinpDjgw6g5+ZKhqCBnUeOudahtLyIVjZjreQotoCQSrUjxP3pddbrG0AeQtONcHNL1yWmsoANzIueVvdt0q2piPh60PM9bCkgaL2IUBsQNu7ByCdcFPeY7bT/AAW626Q2Pa0qjBQ1zrnHpminvGUvWDEPLHjaY+sHDEx1hDk6W3aI2QS88nKiD4J3764b2q0uTksWXt5RacHVKcKlOLSMjASNAMZ0Axj9iiuXoWpcLNSWtY+TJOGLp7mux9ndKYUpZGSn5F9419KYcZQ4cl5N5jNrW4MFxAURkenfRRU4/tWVM6u9XDCZ/c+YcVgLYh2pwrSopUH1YSCD4ZNI3+YV9Xo0iIwM/Q2SSPA9RNFFX8SLoCYn5NrHZiS6X+7XRzrnzFvnGADgJT5AYA/TWiiiihiBgQB2cmf/2Q==",
+              "stats": [
+                "93 броня",
+                "+21 сила",
+                "+14 ловкость",
+                "+9 выносливость",
+                "Требуемый уровень: 53"
+              ],
+              "source": "Крафт",
+              "location": "Кожевничество 265 · Крепость Древобрюхов",
+              "steps": [
+                "Купи выкройку у Мейлоша на «Уважении». Репутация общая для тоннеля и квестов фурболгов в двух прилегающих зонах.",
+                "Материалы: 30× грубая кожа, 2× мощный амулет, 4× Субстанция Жизни, 2× обработанная грубая шкура, 2× руническая нить."
+              ],
+              "links": [
+                [
+                  "Мейлош",
+                  "https://www.wowhead.com/forever/ru/npc=11557"
+                ],
+                [
+                  "Выкройка: мощь Древобрюхов",
+                  "https://wow-pilot.cc/item/19326?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19044?lang=ru"
+                ]
+              ],
+              "nameEn": "Might of the Timbermaw"
+            },
+            {
+              "id": "20190",
+              "itemId": 20190,
+              "name": "Кожаный ремень Осквернителя",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAHAAAAgIDAQEAAAAAAAAAAAAAAAcEBQMGCAEC/8QANRAAAgEDAwMCBAMGBwAAAAAAAQIDBAURAAYhBxIxIkETMlFhCBSBFRYjcZGxFyQlQlLR8P/EABkBAQEAAwEAAAAAAAAAAAAAAAIDAAQFAf/EACoRAAIBAwIDBwUAAAAAAAAAAAECAAMRIRIxEyKRBBRBYYHB8FFxsdHh/9oADAMBAAIRAxEAPwDkaepqaiplqJp5ZJpnLyyO5LOxOSzE8kk5OTqZYbZd79eaSzWiGerr6yURQQo3LMfuTgD3JOAACSQBqBwo+g10t+GXZ+5Ni7g3Rc7/AGOShu0G1WuNBTVSZdkZ2x3ID3IS0JUqcN58Z5nVcohYQO2lbiatc9h9MOnqtR9Rd5XW9bgTBktW3lVlgb/hJNIO3PkEDDDzjxqsa99BKqY9+y94UcZIP8G5xyFcA8ANjycZyT9seDpu0qelu+5Kd7/XyCKrdpaiV5R3ytnJBdj8zE+T9c6z7so7N+8EgsUaw0scMausMhdBKBhu1m5I8H+Z0eGbXLSJbNiTNoaw9HrsOyx74v1jlyE/1SGNlYnwxKdmF+vkjnVfdeke7EgSssFbQ7lo3AZZaCqAYKfBKsf7E/31rEFEKmVYEp3lnkYJHGFyzsc8D/2B541nkpLpt2sUU9VWWytwshRGKgjPBDKcMMjyMjjR0uMq3XP6maiNjKKZbpabkolFZRV1LIrL3d0csLjkHnBVvBHvo0xYeoT3G3paN+WqK80b8GpX+HOo59QI8nJz5H8tGveKfFT6ZnvFtuJRdGFij6hUFxloFuJtoashpGziWdcCENjkqJTGSPdQR766D6M7rnfrBRncdZLVUd7tYs6yTzd7TuvxHUv9FkLy9oGFGAMDjSs6eWi57Ke3XJLs9C94sUtXWiFEMv5KSUoqK5DdhYRFu9PWuccE6cexdpdHhtWFb7FLft4VknwGip6iSNrYrEhViC4RfhKuc4Zi+fYgDHHeAUX19vxJVH1Na851vnT7c1l3TX7QqoYlqqFiV7z2iojJIWVO75lIGftnBwQRqKmzt3JxFFSykLkJHVx+B9tO1BtfrjYIdt3m7fsrflpVobfW1CrGlyVWKklcnv7uzJVTlGLFe4dwPPe7tu3faW4KmyXmkejradiuCCFkXJAdDx3IccHU6VQudLYYfLjyjUs+L5+0sDDunb1ZFcpbVUUrwE9spi7kwRggnBGCDj+uo8lwW51b1NROZKmQ4aV8nj2UAEAAfYawWvdW4rcwNNdqjAPySN8RT+jZ1cLftuX1Fgv1qS31TEf56iAUE/Vhj/v9NVIYCxHSIqw3HSfMVLNK6R02J3kYIqE5P9foPc/TRoq7FXUUUdfQzrcKIDuFXR+mWPjyQCfqfH640aKqtpLTfaOCoK3zpH033RTtGkUFDPtqvk7Sfy0okzAzDkBSQMnjHev1wLKxbdvFNbpauiNxiuE8BikNTHGkNIxHazFo3ZpSDn4fCAnDNnHadG/C7uywUs976d72nC7b3NCqBnYBIaoEdjZPyE8erwGRM8chgRruLZ25JtnXyV3mXvaiq5JCqXWnGQvAODIAQGB+UnIzkE6tWrUoFgvwfyTrKVYzUty7Nt9uorclJS1Rr4Z1W3z0DB6uSoUkhY1UH4p7hn0jHjx50wLxUSXWyUGyfxCbdqbHUy9xtV9kaKNHwo5aRWZY5cEZU5U8AgEDNG+96na29RV0f5P85Z6VY6aSde5FllDiUgZH+1O0DjAJwMEai9Yt1XDedFYoLlUrVVFZNJc5O/IjhgETRIqj5QhLMB7ntLEnOdKl2cNQFRzncHxEK7Z3iz6tdHtwbCkaug7rvYZPVFXwKPSvt3qCe0cj1eCf00tRyMgg6du0947i2HSvTWGsjlsc2TPa7iBLTOpHqC93KZ9WRnBzzqy/ZHRnqvXyC1PU7Ev7oQKWMLJRu4yOFAA59OBGRkZPb5OnT7QwHPkfUe4mzTrG3NEbaLrW2iZZqKqdcn1KpwD9iDxo0x93dA9/WSI1NtpqfclGM5ltbF3Ue2YWAkBPPhSOPJ0avqpVM3EpyNmKp1YO0cilGU4ZWGCD9Dp6bC6r27dG0v8AD/qjUStEpQ2m+rgz0Ug4TuJ8849RI4Ldx8EGjSqUw4zG6hhmWm7bbuPa25Yam8XmnppKiIUcN+o445aarVSD2To4ZVfHa2SMgrxkYI8emoJTVXCe7199vNYRFNWy5ZpXHA+dicY7QABwABnjRo1ynYmkMznGQNk1G26Tdsk+57aLzbKBkkehPqWeVs9gcE9rKoDMVYEEhfodX/4i91UW+mtdxktNHSSmrkhpUWIF/wAksQJEh9/WYyOOMgD3GjRrr0lC0AfKUBOBFdRbi3NtmaOotW4bjTAgL8IzGWPjgAI2QfPAwfOBo0aNaYVGALAGK+J//9k=",
+              "stats": [
+                "99 броня",
+                "+7 выносливость",
+                "+60 броня",
+                "+1% к криту",
+                "+34 к силе атаки",
+                "Требуемый уровень: 58"
+              ],
+              "source": "Репутация",
+              "location": "Осквернители · Нагорье Арати",
+              "steps": [
+                "Играй в Низине Арати до «Уважения» у Осквернителей.",
+                "В Нагорье Арати ищи Резерфорда Твинга около 73.4, 29.7. В карточке указана версия для 58-го уровня."
+              ],
+              "links": [
+                [
+                  "Интендант",
+                  "https://www.wowhead.com/forever/ru/npc=15126"
+                ],
+                [
+                  "Осквернители",
+                  "https://www.wowhead.com/forever/ru/faction=510"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/20190?lang=ru"
+                ]
+              ],
+              "nameEn": "Defiler's Leather Girdle"
+            }
+          ]
+        },
+        {
+          "id": "legs",
+          "label": "Ноги",
+          "items": [
+            {
+              "id": "15065",
+              "itemId": 15065,
+              "name": "Короткие штаны боевого медведя",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "142 броня",
+                "+28 сила",
+                "+18 ловкость",
+                "+12 выносливость",
+                "Требуемый уровень: 52"
+              ],
+              "source": "Крафт",
+              "location": "Традиции предков · Крепость Древобрюхов",
+              "steps": [
+                "Изготовление: Кожевничество. Можно изготовить у мастера с рецептом или приобрести готовый предмет.",
+                "Материалы на одно создание: 24 × Rugged Leather, 14 × Warbear Leather, 1 × Rune Thread.",
+                "Рецепт изучается из: Pattern: Warbear Woolies.",
+                "Условия рецепта: Taught by Pattern: Warbear Woolies (Leatherworking 260, Tribal Leatherworking, Timbermaw Hold, Neutral)"
+              ],
+              "links": [
+                [
+                  "Мейлош",
+                  "https://www.wowhead.com/forever/ru/npc=11557"
+                ],
+                [
+                  "Выкройка: короткие штаны боевого медведя",
+                  "https://wow-pilot.cc/item/20254?lang=ru"
+                ],
+                [
+                  "Кожевничество: традиции предков",
+                  "https://wow-pilot.cc/quest/5148?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/15065?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=15065"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=15065"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/fury-warrior/"
+                ],
+                [
+                  "Рецепт и материалы Forever",
+                  "https://bindonforever.com/professions/leatherworking#r-19080"
+                ],
+                [
+                  "Pattern: Warbear Woolies",
+                  "https://bindonforever.com/item/20254"
+                ]
+              ],
+              "nameEn": "Warbear Woolies",
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-19080",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Rugged Leather",
+                  "quantity": 24,
+                  "url": "https://www.wowhead.com/forever/item=8170"
+                },
+                {
+                  "name": "Warbear Leather",
+                  "quantity": 14,
+                  "url": "https://www.wowhead.com/forever/item=15419"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 1,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                }
+              ]
+            },
+            {
+              "id": "15062",
+              "itemId": 15062,
+              "name": "Поножи девизавра",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAGwAAAwADAQEAAAAAAAAAAAAAAAYHAwQIBQH/xAAzEAABAwMCBAYABQMFAAAAAAABAgMEAAURBiEHEjFRExQiQWGBCDJxsfAVkcEjQmKh0f/EABoBAAMBAQEBAAAAAAAAAAAAAAIEBQMGAAH/xAAgEQACAgEEAwEAAAAAAAAAAAABAgADBBESITEFE3EU/9oADAMBAAIRAxEAPwDlrTLap0uTdLmybmt57L6n3VFaiokqc5tyVZOd+tUtzhup5PmNN3cMwkkLUJkFtRHMBkjlTuAO9IGnvGgWqOpKeYOFTrg6enoP7nFUXhnryRZ2mIdzYMmAyPC5AncoV3/TP1j7rB3IMMLrPrPD67zHnmIt+0dOfZcS0YyoobCycAHJAzuR0z6sDArYY4IahbJXKs2nFLAK9pzjaQB1OO2/1tXo6gbituFxlpL8Zp9wx8K9RSSCSlX30+63LjrJ5FrlyWW1vyHIJRH8U83hLbVk7e+Qf+/eh9pnzZr1M1t4JzGi8bzP0vpxCmyWy3bFShsSSeZazvjHUY7DrnG3wQZdhl53VLUx5lRUlEe1tAqUR6Qc4HKexFb9onSrs6l6VKUUeD5WShayQnCikhB77jbfrXQL2mIxhNPRllOWGmlKB6gY5SR3BryWljBZds4f4zafj6bl2O8WF1xhak4cfj4aDUpop/KEnKFgjO23Qiiqf+JLQEiPCuElt0gBfnVtKHpQvA5ynvnc5HXb5orcaweZHLG21MgrQpSS4G0hOf8AaBv+9MKbUBHBbUSRIQFJIz6SMCp5Y5i2nsp5h4iFIOPbbrVC0leob8p6NIdClrQlTeehWnBx94pZyAeYyFOmom5LlyYlq8i8lSkh4cn/AAPVWD9g1iUy+ZZgklTYCwcbDqjP7is15dC54wpTiXHFKAV0GU7D6PLWrLuCI14ccS4D4a3Nu4ISf8fvWCwjz1HWXdGbd5mMyoKU07J5B35Voxj52p9tPE+8M2d4M5S4tfJvtyFKt8dsg1GrLFkXt+UptKipxTykoxk+rc4/TYfVUvRWnJt5Zez6PLpLj2MKSSNiB8nt3zU/JzwnC9x2jA38tDjbr3+sWaS486hcuQRHHInA5RjPTGNs980VK+Mtvcszy08ziE8hyj8uCTsevuDRVDEyDkVBxF8rE/NZsJi3wdsMG93UNXN5TcUZUoJzlWB026U2620XIjPrvEC3/wBPjJIQwy3lXMnGS5k9c9h7Uq8I3I7MltyUCWQ+CoD3A9vuusr9EQnRAuj7Zakz2z5WKerbeM9OuTtk/I71M8jk2U3krHMRFasAzklu5vH/AFwrPhKyoHfGCP8AwV4kIuvFgJV6i4pShn2NezriCm2vyHW3A0lxeA0nv/N6VbHIdZmhTWCtYxvVKo+ykusWsC12hTOo+CVtadbklpI8fwTyA7jPuaqnCm3ojyL/AGd1WFtLbkEBIHKlY2AwcdQajvAm96duDKEGS5DurSOVSS4AlSQPn+bU+ap1e9Y9ZLGn44lSptuLDoCQMnmyknP9v4K5dqnDlW7lUOD1JV+KuM3HQ6+hxThUtCSScg7jGPiikTjhK1JJdZN+npWXV5aYQkBKEge2Pn3orp/FVqmOPpkzylpsv+ARJ03cHba4+hQLbjRyEqGCFdMEGrDM14mVZIcq435U6SlhLaoQKkBA7EjdXU5xjPaiijy8Wuw6mZ4trLwJK+I85ifc25ERKWo5Ts0n8qDSu0soWFD2OaKKboQLWFEVuctYWMbNN3W0wb8zInIlmJgHMdzDjavjPY5/UVWoPEDTrk2HLmy33SllQdWhB8Q+6QR3+/f9cFFI34lb8mOJc0lvFK+q1NfPMshSmxytMtg82Ouw+T/miiinKQK0CiYON51M/9k=",
+              "stats": [
+                "148 броня",
+                "+12 выносливость",
+                "+1% к криту",
+                "+46 к силе атаки",
+                "Комплект из двух предметов: +2% к меткости",
+                "Требуемый уровень: 55"
+              ],
+              "source": "Крафт",
+              "location": "Традиции предков · Кожевничество 290",
+              "steps": [
+                "Изготовление: Кожевничество. Можно изготовить у мастера с рецептом или приобрести готовый предмет.",
+                "Материалы на одно создание: 30 × Rugged Leather, 14 × Devilsaur Leather, 1 × Cured Rugged Hide, 1 × Rune Thread.",
+                "Рецепт изучается из: Pattern: Devilsaur Leggings.",
+                "Условия рецепта: Taught by Pattern: Devilsaur Leggings (Leatherworking 290, Tribal Leatherworking); Needs a sewing machine"
+              ],
+              "links": [
+                [
+                  "Выкройка: поножи девизавра",
+                  "https://wow-pilot.cc/item/15772?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/15062?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=15062"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=15062"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/assassination-rogue/"
+                ],
+                [
+                  "Рецепт и материалы Forever",
+                  "https://bindonforever.com/professions/leatherworking#r-19097"
+                ],
+                [
+                  "Pattern: Devilsaur Leggings",
+                  "https://bindonforever.com/item/15772"
+                ]
+              ],
+              "nameEn": "Devilsaur Leggings",
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-19097",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Rugged Leather",
+                  "quantity": 30,
+                  "url": "https://www.wowhead.com/forever/item=8170"
+                },
+                {
+                  "name": "Devilsaur Leather",
+                  "quantity": 14,
+                  "url": "https://www.wowhead.com/forever/item=15417"
+                },
+                {
+                  "name": "Cured Rugged Hide",
+                  "quantity": 1,
+                  "url": "https://www.wowhead.com/forever/item=15407"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 1,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                }
+              ]
+            },
+            {
+              "id": "22740",
+              "itemId": 22740,
+              "name": "Кожаные штаны лазутчика",
+              "quality": 4,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "173 броня",
+                "+28 ловкость",
+                "+27 выносливость",
+                "+60 броня",
+                "+1% к криту",
+                "Требуемый уровень: 60"
+              ],
+              "source": "Репутация",
+              "location": "Всадники Песни Войны · Степи",
+              "steps": [
+                "Играй в Ущелье Песни Войны. Захваты флагов и сдача знаков повышают репутацию.",
+                "На уровне «Превознесение» ищи Кельма Харгюнта у входа в Ущелье со стороны Степей, около 46.6, 8.4. Сверь уровень версии у торговца."
+              ],
+              "links": [
+                [
+                  "Кельм Харгюнт",
+                  "https://www.wowhead.com/forever/ru/npc=14754"
+                ],
+                [
+                  "Всадники Песни Войны",
+                  "https://www.wowhead.com/forever/ru/faction=889"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/22740?lang=ru"
+                ]
+              ],
+              "nameEn": "Outrider's Leather Pants"
+            }
+          ]
+        },
+        {
+          "id": "feet",
+          "label": "Ступни",
+          "items": [
+            {
+              "id": "16711",
+              "itemId": 16711,
+              "name": "Сапоги Незаметности",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "115 броня",
+                "+21 ловкость",
+                "+9 выносливость",
+                "+0,3% к меткости",
+                "Требуемый уровень: 54"
+              ],
+              "source": "Добыча",
+              "location": "Некроситет",
+              "steps": [
+                "Подземелье: Некроситет.",
+                "Убить Rattlegore; предмет указан в его добыче. Повторять прохождение при отсутствии нужного предмета."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=11622"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/16711?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=16711"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=16711"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/fury-warrior/"
+                ]
+              ],
+              "nameEn": "Shadowcraft Boots"
+            },
+            {
+              "id": "18506",
+              "itemId": 18506,
+              "name": "Мангустовые сапоги",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "120 броня",
+                "+23 ловкость",
+                "+9 выносливость",
+                "Требуемый уровень: 57"
+              ],
+              "source": "Крафт",
+              "location": "Кожевничество 290 · Забытый Город",
+              "steps": [
+                "Изготовление: Кожевничество. Можно изготовить у мастера с рецептом или приобрести готовый предмет.",
+                "Материалы на одно создание: 12 × Rugged Leather, 6 × Essence of Air, 4 × Black Diamond, 4 × Rune Thread, 2 × Cured Rugged Hide.",
+                "Рецепт изучается из: Pattern: Mongoose Boots.",
+                "Условия рецепта: Taught by Pattern: Mongoose Boots (Leatherworking 290); Needs a sewing machine"
+              ],
+              "links": [
+                [
+                  "Выкройка: мангустовые сапоги",
+                  "https://wow-pilot.cc/item/18515?lang=ru"
+                ],
+                [
+                  "Тайник Уззла",
+                  "https://www.wowhead.com/forever/ru/object=179501"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/18506?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=18506"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=18506"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/assassination-rogue/"
+                ],
+                [
+                  "Рецепт и материалы Forever",
+                  "https://bindonforever.com/professions/leatherworking#r-22922"
+                ],
+                [
+                  "Pattern: Mongoose Boots",
+                  "https://bindonforever.com/item/18515"
+                ]
+              ],
+              "nameEn": "Mongoose Boots",
+              "recipeSourceUrl": "https://bindonforever.com/professions/leatherworking#r-22922",
+              "recipeBuild": "1.60.1.70888",
+              "materialList": [
+                {
+                  "name": "Rugged Leather",
+                  "quantity": 12,
+                  "url": "https://www.wowhead.com/forever/item=8170"
+                },
+                {
+                  "name": "Essence of Air",
+                  "quantity": 6,
+                  "url": "https://www.wowhead.com/forever/item=7082"
+                },
+                {
+                  "name": "Black Diamond",
+                  "quantity": 4,
+                  "url": "https://www.wowhead.com/forever/item=11754"
+                },
+                {
+                  "name": "Rune Thread",
+                  "quantity": 4,
+                  "url": "https://www.wowhead.com/forever/item=14341"
+                },
+                {
+                  "name": "Cured Rugged Hide",
+                  "quantity": 2,
+                  "url": "https://www.wowhead.com/forever/item=15407"
+                }
+              ]
+            },
+            {
+              "id": "252469",
+              "itemId": 252469,
+              "name": "Кожаные сапоги тихоступа",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "104 броня",
+                "+11 сила",
+                "+13 ловкость",
+                "+9 выносливость",
+                "Требуемый уровень: 47"
+              ],
+              "source": "Крафт",
+              "location": "Кожевничество · Торговые поручения",
+              "steps": [
+                "Выкройку ищи у Павани за валюту «Торговое обязательство». Проверь текущую цену и порог навыка у торговца.",
+                "Материалы: 16× плотная кожа, 2× обработанная плотная шкура, 8× Нетронутая шкура, 2× Толстая шелковая нить, 6× Паутина, 4× Нетронутая кожа."
+              ],
+              "links": [
+                [
+                  "Выкройка: кожаные сапоги тихоступа",
+                  "https://wow-pilot.cc/item/252861?lang=ru"
+                ],
+                [
+                  "Павани",
+                  "https://www.wowhead.com/forever/ru/search?q=Pawani"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/252469?lang=ru"
+                ]
+              ],
+              "nameEn": "Skulker's Leather Boots"
+            }
+          ]
+        },
+        {
+          "id": "ring-one",
+          "label": "Кольцо 1",
+          "items": [
+            {
+              "id": "272408",
+              "itemId": 272408,
+              "name": "Печатка бандита",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+14 ловкость",
+                "+8 выносливость",
+                "+1% к меткости",
+                "Требуемый уровень: 60"
+              ],
+              "source": "Валюта",
+              "location": "Пикс Ксиззикс · Пиратская бухта",
+              "steps": [
+                "Копи валюту «Потускневший реал Нижней Шахты».",
+                "В Пиратской бухте найди Пикс Ксиззикс. Ориентир на карте — 28.5, 75.8.",
+                "Цена предмета — 75 реалов."
+              ],
+              "links": [
+                [
+                  "Пикс Ксиззикс на карте",
+                  "https://azeroth.wiki/forever/map/stranglethorn-vale/pix-xizzix"
+                ],
+                [
+                  "Где брать реалы",
+                  "https://www.wowhead.com/forever/guide/currency/tarnished-undermine-real-overview"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/272408?lang=ru"
+                ]
+              ],
+              "nameEn": "Cutthroat's Signet"
+            },
+            {
+              "id": "17713",
+              "itemId": 17713,
+              "name": "Кольцо Черного камня",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+6 выносливость",
+                "+1% к меткости",
+                "+20 к силе атаки",
+                "Требуемый уровень: 49"
+              ],
+              "source": "Добыча",
+              "location": "Мародон · Водопад Песни Земли",
+              "steps": [
+                "Иди в общую финальную часть Мародона через фиолетовое или оранжевое крыло либо через портал со Скипетром Селебраса. Кольцо падает с принцессы Терадрас."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=12201"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/17713?lang=ru"
+                ]
+              ],
+              "nameEn": "Blackstone Ring"
+            },
+            {
+              "id": "13098",
+              "itemId": 13098,
+              "name": "Кольцо Ткача Боли",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+7 выносливость",
+                "+1% к криту",
+                "+16 к силе атаки",
+                "Требуемый уровень: 58",
+                "Характеристики и источник добычи требуют проверки в игре."
+              ],
+              "source": "Добыча",
+              "location": "Верхняя часть Пика Чёрной горы",
+              "steps": [
+                "Кольцо падает с генерала Драккисата в финале Верхнего Пика."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=10363"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/13098?lang=ru"
+                ],
+                [
+                  "Источник характеристик",
+                  "https://questcorehq.com/wowdb/forever/item/13098/painweaver-band"
+                ]
+              ]
+            }
+          ]
+        },
+        {
+          "id": "ring-two",
+          "label": "Кольцо 2",
+          "items": [
+            {
+              "id": "19325",
+              "itemId": 19325,
+              "name": "Кольцо дона Хулио",
+              "quality": 4,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+10 выносливость",
+                "+1% к меткости",
+                "+1% к криту",
+                "+14 к силе атаки",
+                "Требуемый уровень: 55"
+              ],
+              "source": "Репутация",
+              "location": "Клан Северного Волка · Альтерак",
+              "steps": [
+                "Вставай в очередь в Альтеракскую долину. Репутацию дают цели поля боя и доступные сдачи.",
+                "На «Превознесении» купи предмет у интенданта клана. Джеккилл Фландринг стоит у входа Орды в Альтеракских горах, около 62.9, 59.3."
+              ],
+              "links": [
+                [
+                  "Джеккилл Фландринг",
+                  "https://www.wowhead.com/forever/ru/npc=13219"
+                ],
+                [
+                  "Клан Северного Волка",
+                  "https://www.wowhead.com/forever/ru/faction=729"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19325?lang=ru"
+                ]
+              ],
+              "nameEn": "Don Julio's Band"
+            },
+            {
+              "id": "18302",
+              "itemId": 18302,
+              "name": "Кольцо напористости",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+8 сила",
+                "+7 ловкость",
+                "+7 выносливость",
+                "+10 дух",
+                "Требуемый уровень: 53"
+              ],
+              "source": "Добыча",
+              "location": "Забытый Город · Восток",
+              "steps": [
+                "Убей Лефтендрис на верхней площадке восточного крыла, рядом с её бесом Пимгибом."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=14327"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/18302?lang=ru"
+                ],
+                [
+                  "Источник характеристик",
+                  "https://zephras.com/forever/enUS/item/18302/"
+                ]
+              ]
+            },
+            {
+              "id": "19510",
+              "itemId": 19510,
+              "name": "Кольцо Легионера",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+12 сила",
+                "+11 ловкость",
+                "+8 выносливость",
+                "Требуемый уровень: 58"
+              ],
+              "source": "Репутация",
+              "location": "Всадники Песни Войны · Степи",
+              "steps": [
+                "Играй в Ущелье Песни Войны. Захваты флагов и сдача знаков повышают репутацию.",
+                "На уровне «Уважение» ищи Кельма Харгюнта у входа в Ущелье со стороны Степей, около 46.6, 8.4. Сверь уровень версии у торговца."
+              ],
+              "links": [
+                [
+                  "Кельм Харгюнт",
+                  "https://www.wowhead.com/forever/ru/npc=14754"
+                ],
+                [
+                  "Всадники Песни Войны",
+                  "https://www.wowhead.com/forever/ru/faction=889"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19510?lang=ru"
+                ]
+              ],
+              "nameEn": "Legionnaire's Band"
+            }
+          ]
+        },
+        {
+          "id": "trinket-one",
+          "label": "Аксессуар 1",
+          "items": [
+            {
+              "id": "272437",
+              "itemId": 272437,
+              "name": "Адаптивный боевой помощник",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "Снижает шанс, что цель уклонится или парирует, на 2%",
+                "Использование: щит на 450 урона на 15 сек. Если исчезнет раньше, нанесёт 90–110 урона от сил природы ближайшим противникам · КД 90 сек.",
+                "Требуемый уровень: 60"
+              ],
+              "source": "Валюта",
+              "location": "Пикс Ксиззикс · Пиратская бухта",
+              "steps": [
+                "Копи валюту «Потускневший реал Нижней Шахты».",
+                "В Пиратской бухте найди Пикс Ксиззикс. Ориентир на карте — 28.5, 75.8.",
+                "Цена предмета — 125 реалов."
+              ],
+              "links": [
+                [
+                  "Пикс Ксиззикс на карте",
+                  "https://azeroth.wiki/forever/map/stranglethorn-vale/pix-xizzix"
+                ],
+                [
+                  "Где брать реалы",
+                  "https://www.wowhead.com/forever/guide/currency/tarnished-undermine-real-overview"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/272437?lang=ru"
+                ]
+              ],
+              "nameEn": "Adaptive Combat Assistant"
+            },
+            {
+              "id": "11815",
+              "itemId": 11815,
+              "name": "Рука правосудия",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+12 к силе атаки",
+                "1% шанс дополнительной атаки при попадании в ближнем бою. Против дворфов шанс втрое выше.",
+                "Требуемый уровень: 53"
+              ],
+              "source": "Добыча",
+              "location": "Глубины Чёрной горы · Тронный зал",
+              "steps": [
+                "Подземелье: Глубины Чёрной горы.",
+                "Убить Emperor Dagran Thaurissan; предмет указан в его добыче. Повторять прохождение при отсутствии нужного предмета."
+              ],
+              "links": [
+                [
+                  "Босс в базе",
+                  "https://www.wowhead.com/forever/ru/npc=9019"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/11815?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=11815"
+                ],
+                [
+                  "Предмет — Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=11815"
+                ],
+                [
+                  "Список Forever",
+                  "https://wowtbc.gg/warcraftforever/bis-list/fury-warrior/"
+                ]
+              ],
+              "nameEn": "Hand of Justice"
+            },
+            {
+              "id": "274759",
+              "itemId": 274759,
+              "name": "Путепробиватель Круговзора",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQEASABIAAD/2wBDAAUDBAQEAwUEBAQFBQUGBwwIBwcHBw8LCwkMEQ8SEhEPERETFhwXExQaFRERGCEYGh0dHx8fExciJCIeJBweHx7/2wBDAQUFBQcGBw4ICA4eFBEUHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh4eHh7/wAARCAA4ADgDASIAAhEBAxEB/8QAHAAAAgMBAQEBAAAAAAAAAAAAAAcFBggEAwEC/8QAMBAAAQMDAwIDCAIDAQAAAAAAAQIDBAAFEQYSITFBE1FhBxQiMnGBocEjQpHR8PH/xAAZAQADAQEBAAAAAAAAAAAAAAADBAUGAgH/xAArEQABAwIEBAYDAQAAAAAAAAABAgMEABEFEiExQVFxgRQiYZGhsRPB0fH/2gAMAwEAAhEDEQA/AM82RMmXHfukt5x1+WsrWpxRUtZ3HKlE8kkknNXDTse5Qit6I20Vhe1aVKwoEdqr+kSkQYC2h4qG9qznuM5NNy0WPxbgbum4QGIniAOvrkoCMdemeVdsDn9kbTZNahsBKBUfDQm+wXhKhJ+bwpDS+SFfTtwfxSZ1VplVpv8AJgtu/wAaFZb3cnaeR0rSFsje/MXS8Q2VKjTp6Woe1G0rS2jaVbewPH3pS+05nxdVSClWS2Q0oAf2A5x3IoM1Cg1nTvVGBFRKdCFClkqLMjjcD4gHXFe0W6OoAweR51OpYcyU43EV+k2WOXG5LiPGWroCnCPqR3+lKwpkjPlFNSoS4fnbJA9f0a6bHLmFaZSCphbagtp1CylQUDkEY5BB70VM2q2rddCXidpGePTnpRVwy3lbn4H8pJcxxZ81j1AP2DVZ9nVyjIaLNwUtttbnDqeQg+ZHke+P3Tu0ZFt6Qlcluw3BJwN7wT5nHUg4+orO1hUPdNueiiKnIYKlEDPxY+1Rm55ZWUlN+VOYbhwfZQL8BWl9Ya5s0WG2iDKjTJARtSWeG2enygDn/vWkouO7NnLklalOEYGeoye570ytB+z+FN0hIvj9xbivsEbW8nes4BSRg+vH3qfsuj4cCM2u4offfkZMeGg7Dt5O5R6irMZrxJCl7DhVzDEQ4RWpSiVA2247n47Ck1BthQqbhZDuQcba6IrMJvwmZLiUBSvgx0z+u1PB7QIlJwzbY0XcOAHVEj1JqoXbQ9xM5mE+yQ8skJKWeFeuc0deG6hbKtU3053JO99D913JciYiQlLgGW+mnW+/vVcYtcdgCRKlNIQDx8X+qKjJ2nFO6kVb3XChLS1BxAOfl7jmivIzLr4JbQAAbanl2qGmKpROQCwNJq1KS1KW0o4Dny/UdqtdsadTlZQcds8ZqJjQW1yPEKApXYeVWyzxJC1ABKinyAqKY4UsKB2oMHElRPKkA60z/Yy4qVqmFbXnS7FW6ApHYjBOPwPzT8aeadj3O8BKDPEn3NrfyGxnAOPpmsy6cMq1XiJJZV/IlwKSoDy6gj8Vo3SDJmsuSQ0pDMxKS+yo42LH9k9/L/Aq41ZSLq0t/tGxiSJKRIUMthYjvc+4t7WvU3ZLUotZ3KczySvlR+5/VdFzgNtRFvuoSQ0NwJ6g13x1otiEh11ISBzlQzive6JZm28gYUg4Pwmln5LtyUdqwb8t7OVg9KRMTT6rtqWRMa2t7wCr4OEEk8+popvRraxEJdJSlJGcedFOQ5C4zIaRw+TVprG3WUBDZ0HpxrDVpt6lqACc0w9O2bZGU/MPhMoGT2NFFIsoBNzTzKAreuczYdwuZbb2pbZOFHbnOf8AytC2m5WxGm0x2FqafI+J8AjHJ/eaKKqs4ezIAUvc6b9acl4e1ISjNfXTevgW1fri0tYSBGb2pUgY3HzPmT6VdI78SDFAW+2EkdCvFFFcPwWm3PxoFhUWXhzSJXh0aJqmaz1PHjxVJjOBT6+EgDIxiiiitBEitoaGl62uGYPEZYAy3vzr/9k=",
+              "stats": [
+                "Использование: 607 физического урона делится между максимум 4 врагами. Против растений урон удваивается · КД 5 мин.",
+                "Требуемый уровень: 50"
+              ],
+              "source": "Репутация",
+              "location": "Круговзор · Зимние Ключи",
+              "steps": [
+                "Подними репутацию Круговзора (Everlook) до уважения. Для использования требуется50 уровень.",
+                "Найди Zippie Fizzbolt в Круговзоре, Зимние Ключи, и купи Everlook Pathcarver.",
+                "Можно носить только один предмет категории Everlook Prototype одновременно."
+              ],
+              "links": [
+                [
+                  "Круговзор",
+                  "https://www.wowhead.com/forever/ru/faction=577"
+                ],
+                [
+                  "Зиппи Физзболт",
+                  "https://www.wowhead.com/forever/ru/search?q=Zippie+Fizzbolt"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/274759?lang=ru"
+                ],
+                [
+                  "Предмет · Wowhead Forever",
+                  "https://www.wowhead.com/forever/item=274759"
+                ],
+                [
+                  "Предмет и добыча · WOWTBC.GG",
+                  "https://wowtbc.gg/warcraftforever/bis-list/beast-mastery-hunter/#trinket"
+                ],
+                [
+                  "Предмет и требование репутации",
+                  "https://www.wowhead.com/forever/item=274759/everlook-pathcarver"
+                ],
+                [
+                  "Интендант и награды Everlook",
+                  "https://kovarel.com/wow-forever/factions/577-everlook"
+                ]
+              ],
+              "nameEn": "Everlook Pathcarver"
+            }
+          ]
+        },
+        {
+          "id": "trinket-two",
+          "label": "Аксессуар 2",
+          "items": [
+            {
+              "id": "19120",
+              "itemId": 19120,
+              "name": "Руна капитана стражи",
+              "quality": 2,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+0,7% к меткости",
+                "+14 к силе атаки. В лесах и на равнинах эффект утраивается."
+              ],
+              "source": "Квест",
+              "location": "Внутренние земли · Деревня Сломанного Клыка",
+              "steps": [
+                "Возьми задание с доски в деревне (около 79, 79).",
+                "В Джинта’Алоре убей по 20 берсерков, тёмных охотников, кровопийц и пожирателей душ Порочной Ветви.",
+                "Сдай задание в деревне и забери руну."
+              ],
+              "links": [
+                [
+                  "Требуется: капитан стражи в деревню Сломанного Клыка",
+                  "https://wow-pilot.cc/quest/7862?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/19120?lang=ru"
+                ]
+              ],
+              "nameEn": "Rune of the Guard Captain"
+            },
+            {
+              "id": "13965",
+              "itemId": 13965,
+              "name": "Пластита Чернорука",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "+1% к криту ближних и дальних атак",
+                "Использование: +5% к шансу крита по отмеченной цели на 20 сек. Вдвое сильнее против орков и огров · КД 5 мин."
+              ],
+              "source": "Квест",
+              "location": "Пик Чёрной горы · Цепочка Орды",
+              "steps": [
+                "Начало цепочки с уровня 55: Warlord Goretooth, Каргат в Бесплодных землях (5.8, 47.5). Получить Warlord’s Command.",
+                "Warlord’s Command: в нижней части Пика Чёрной горы убить Highlord Omokk, War Master Voone, Overlord Wyrmthalak и собрать Important Blackrock Documents. Сдать Goretooth.",
+                "Eitrigg’s Wisdom: поговорить с Eitrigg в зале Тралла в Оргриммаре, затем с самим Траллом (31.7, 37.8).",
+                "Взять у Тралла For The Horde! В верхней части Пика Чёрной горы убить Warchief Rend Blackhand и забрать его голову.",
+                "Сдать голову Траллу и выбрать Blackhand’s Breadth. Mark of Tyranny и Eye of the Beast — другие награды того же выбора."
+              ],
+              "links": [
+                [
+                  "Приказ полководца",
+                  "https://wow-pilot.cc/quest/4903?lang=ru"
+                ],
+                [
+                  "Мудрость Эйтригга",
+                  "https://wow-pilot.cc/quest/4941?lang=ru"
+                ],
+                [
+                  "За Орду!",
+                  "https://wow-pilot.cc/quest/4974?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/13965?lang=ru"
+                ],
+                [
+                  "Первый этап",
+                  "https://bindonforever.com/quest/4903"
+                ],
+                [
+                  "Разговор в Оргриммаре",
+                  "https://bindonforever.com/quest/4941"
+                ],
+                [
+                  "Финал и награды",
+                  "https://bindonforever.com/quest/4974"
+                ]
+              ],
+              "nameEn": "Blackhand's Breadth",
+              "note": "Маршрут по базе Forever/QuestieDB. Положение NPC и этапы после 30-го уровня не проверены автором базы в live; возможны отличия от Classic."
+            },
+            {
+              "id": "17774",
+              "itemId": 17774,
+              "name": "Знак Избранного",
+              "quality": 2,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "При получении удара 2% шанс получить +21 ко всем характеристикам на 1 мин. · КД 2 мин."
+              ],
+              "source": "Квест",
+              "location": "Пустоши · Мародон",
+              "steps": [
+                "Начало: Centaur Pariah на юге Пустошей (50.4, 86.7), задание The Pariah’s Instructions, доступно с уровня 39.",
+                "Прочитать выданные инструкции. У входа в Мародон убить The Nameless Prophet и забрать Amulet of Spirits.",
+                "Найти духов пяти первых ханов — Kolk, Gelk, Magra, Maraudos и Veng. Использовать Amulet of Spirits, чтобы сделать духа уязвимым, победить его и забрать самоцвет.",
+                "Собрать все 5 разных самоцветов вместе с Amulet of Spirits и объединить их в Amulet of Union.",
+                "Вернуться к Centaur Pariah в Пустоши и сдать Amulet of Union за Mark of the Chosen."
+              ],
+              "links": [
+                [
+                  "Инструкции кентавра-парии",
+                  "https://wow-pilot.cc/quest/7067?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/17774?lang=ru"
+                ],
+                [
+                  "Задание, начало и награда",
+                  "https://www.forever-xp.com/quests/7067/"
+                ],
+                [
+                  "Инструкции и пять ханов",
+                  "https://www.wowhead.com/forever/item=17781/the-pariahs-instructions"
+                ],
+                [
+                  "Состав амулета",
+                  "https://pd.zroot.it/forever/quests/7067"
+                ]
+              ],
+              "nameEn": "Mark of the Chosen",
+              "note": "Маршрут по базе Forever/QuestieDB. Положение NPC и этапы после 30-го уровня не проверены автором базы в live; возможны отличия от Classic."
+            }
+          ]
+        },
+        {
+          "id": "idol",
+          "label": "Идол",
+          "items": [
+            {
+              "id": "272427",
+              "itemId": 272427,
+              "name": "Воющий идол",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "Время восстановления «Переходящая сила» −0,5 сек.",
+                "Требуемый уровень: 60"
+              ],
+              "source": "Валюта",
+              "location": "Пикс Ксиззикс · Пиратская бухта",
+              "steps": [
+                "Копи валюту «Потускневший реал Нижней Шахты».",
+                "В Пиратской бухте найди Пикс Ксиззикс. Ориентир на карте — 28.5, 75.8.",
+                "Цена предмета — 50 реалов."
+              ],
+              "links": [
+                [
+                  "Пикс Ксиззикс на карте",
+                  "https://azeroth.wiki/forever/map/stranglethorn-vale/pix-xizzix"
+                ],
+                [
+                  "Где брать реалы",
+                  "https://www.wowhead.com/forever/guide/currency/tarnished-undermine-real-overview"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/272427?lang=ru"
+                ]
+              ],
+              "nameEn": "Howling Idol"
+            },
+            {
+              "id": "220606",
+              "itemId": 220606,
+              "name": "Идол Сна",
+              "quality": 3,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "«Разорвать» длится на 2 сек. дольше",
+                "Требуемый уровень: 55"
+              ],
+              "source": "Крафт",
+              "location": "Наложение чар 300 · «Дуротарские снабжение и логистика»",
+              "steps": [
+                "Формулу ищи у Бенериса на «Уважении». Идол персональный. Нужна своя профессия и «Чародейский горн».",
+                "Материалы: 2× большой сверкающий осколок, 4× Великая Вечная субстанция, 6× пыль иллюзий, 8× Изумрудная краска, 4× Малиновая краска, 2× Небесно-голубая краска, 4× Звездная древесина."
+              ],
+              "links": [
+                [
+                  "Формула: идол Сна",
+                  "https://wow-pilot.cc/item/249529?lang=ru"
+                ],
+                [
+                  "Идол Сна · рецепт",
+                  "https://www.wowhead.com/forever/ru/spell=1249128"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/220606?lang=ru"
+                ]
+              ],
+              "nameEn": "Idol of the Dream"
+            },
+            {
+              "id": "263411",
+              "itemId": 263411,
+              "name": "Идол переменчивых приливов",
+              "quality": 2,
+              "icon": "data:image/jpeg;base64,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",
+              "stats": [
+                "Затраты маны на смену облика −40"
+              ],
+              "source": "Квест",
+              "location": "Лунная поляна · Классовая цепочка друида",
+              "steps": [
+                "С 16-го уровня возьми «Необходимый урок» у Тюрака Рунического Тотема в Громовом Утесе. Затем найди Дендрита Блеска Звезд в Лунной поляне и пройди «Испытание озера».",
+                "В задании «Испытание Морского Льва» собери половинки подвески в Степях (56.7, 8.3) и у побережья Серебряного бора (около 29.6, 29.2). Соедини их в святилище Ремула.",
+                "Вернись к Дендриту, затем заверши «Водный облик» у Тюрака в Громовом Утесе."
+              ],
+              "links": [
+                [
+                  "Необходимый урок",
+                  "https://wow-pilot.cc/quest/27?lang=ru"
+                ],
+                [
+                  "Испытание озера",
+                  "https://wow-pilot.cc/quest/28?lang=ru"
+                ],
+                [
+                  "Испытание Морского Льва",
+                  "https://wow-pilot.cc/quest/30?lang=ru"
+                ],
+                [
+                  "Водный облик",
+                  "https://wow-pilot.cc/quest/31?lang=ru"
+                ],
+                [
+                  "Предмет в базе",
+                  "https://wow-pilot.cc/item/263411?lang=ru"
+                ]
+              ],
+              "nameEn": "Idol of Shifting Tides"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
