@@ -1,4 +1,5 @@
 'use strict';
+const DATA_VERSION = '20261113-3';
 
 const classes = [
   ['druid', 'Друид', '#ffae67'], ['shaman', 'Шаман', '#77b7ff'],
@@ -220,12 +221,12 @@ document.addEventListener('keydown', event => { if (event.key === 'Escape') hide
 
 async function loadData() {
   try {
-    const response = await fetch('dungeons.json');
+    const response = await fetch('dungeons.json?v=' + DATA_VERSION);
     if (response.ok) dungeons = await response.json();
   } catch { /* Item sources remain available if the route file cannot load. */ }
   const files = ['feral', 'bear', 'healers', 'melee', 'casters', 'hunter'];
   const results = await Promise.allSettled(files.map(async name => {
-    const response = await fetch(name + '.json');
+    const response = await fetch(name + '.json?v=' + DATA_VERSION);
     if (!response.ok) throw new Error(name);
     const data = await response.json();
     if (!Array.isArray(data.specs)) throw new Error(name);
