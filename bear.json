@@ -99,7 +99,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": "279253",
@@ -188,7 +189,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=248824"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": "13404",
@@ -546,7 +548,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": "272105",
@@ -727,7 +730,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=12360"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             },
             {
               "id": "stoneskin-gargoyle-cape",

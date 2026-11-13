@@ -655,7 +655,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": "16721",
@@ -1338,7 +1339,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": "22740",
@@ -1508,7 +1510,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": "252469",

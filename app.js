@@ -107,6 +107,7 @@ function openItem(slot, item) {
   if (item.materialList?.length) {
     const materials = element('section', 'materials');
     materials.append(element('h3', '', 'Материалы'));
+    if (item.recipeEquipment) materials.append(element('p', '', item.recipeEquipment));
     const rows = element('ul', 'materials-list');
     for (const material of item.materialList) {
       const row = element('li');
@@ -167,7 +168,7 @@ function renderSpec() {
   const currentClass = classes.find(([key]) => key === selectedSpec.classId);
   document.documentElement.style.setProperty('--accent', currentClass[2]);
   document.querySelector('#spec-title').textContent = titles[selectedSpec.id] || selectedSpec.label.toLowerCase();
-  const roleName = {heal:'ЛЕЧЕНИЕ',healer:'ЛЕЧЕНИЕ',tank:'ТАНК',dps:'УРОН'}[selectedSpec.role.toLowerCase()] || selectedSpec.role.toUpperCase();
+  const roleName = {heal:'ЛЕЧЕНИЕ',healer:'ЛЕЧЕНИЕ',tank:'ТАНК',dps:'УРОН',ranged:'ДАЛЬНИЙ БОЙ'}[selectedSpec.role.toLowerCase()] || selectedSpec.role.toUpperCase();
   document.querySelector('#role').textContent = 'ОРДА / ' + currentClass[1].toUpperCase() + ' / ' + roleName;
   document.title = selectedSpec.label + ' · Экипировка WoW Forever';
   document.querySelector('#classes').replaceChildren(...classes.map(([classId, name, color]) => {

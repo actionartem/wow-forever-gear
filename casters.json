@@ -478,7 +478,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "14112",
@@ -724,7 +725,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14342"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "18510",
@@ -813,7 +815,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             }
           ]
         },
@@ -925,7 +928,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             },
             {
               "id": "280057",
@@ -1172,7 +1176,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=8343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             },
             {
               "id": null,
@@ -1350,7 +1355,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "18407",
@@ -1456,7 +1462,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             },
             {
               "id": null,
@@ -1676,7 +1683,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "20163",
@@ -2132,7 +2140,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=249427"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             }
           ]
         },
@@ -2815,7 +2824,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=11291"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: чародейская кузня, Runed Arcanite Rod. В каталоге: an arcane forge, Runed Arcanite Rod."
             }
           ]
         }
@@ -3245,7 +3255,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "19059",
@@ -3338,7 +3349,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             }
           ]
         },
@@ -3598,7 +3610,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "280057",
@@ -3845,7 +3858,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=8343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             },
             {
               "id": null,
@@ -4023,7 +4037,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "18408",
@@ -4120,7 +4135,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             },
             {
               "id": null,
@@ -4340,7 +4356,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -4733,7 +4750,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -5212,7 +5230,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=13512"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: мастерская кузня, кузнечный молот. В каталоге: a master forge, Blacksmith Hammer."
             },
             {
               "id": "19102",
@@ -5603,7 +5622,10 @@
               "source": "Инженерное дело",
               "location": "Крафт",
               "steps": [
-                "Изготовление — Инженерное дело. Подробности рецепта уточняются."
+                "Нужен навык инженерного дела 270 и схема Schematic: Spellpower Goggles Xtreme Plus. Для ношения очков тоже требуется инженерное дело 270.",
+                "В каталоге источником схемы указана сирена из клана Зловещего Хвоста (Spitelash Siren), 50–52-го уровня, в Азшаре. Это сведения QuestieDB с дополнениями Forever; выпадение в текущем серверном билде отдельно не подтверждено.",
+                "Подготовь базовые очки Spellpower Goggles Xtreme и остальные материалы из списка. Для изготовления нужны Arclight Spanner и Gyromatic Micro-Adjustor.",
+                "Очки передаваемы до надевания: готовый предмет можно заказать у инженера или купить на аукционе. Требование инженерии для ношения при этом сохраняется."
               ],
               "links": [
                 [
@@ -5617,6 +5639,14 @@
                 [
                   "Schematic: Spellpower Goggles Xtreme Plus",
                   "https://bindonforever.com/item/16045"
+                ],
+                [
+                  "Spitelash Siren",
+                  "https://bindonforever.com/npc/6195"
+                ],
+                [
+                  "Azshara",
+                  "https://bindonforever.com/zones/azshara"
                 ]
               ],
               "sourceUrl": "https://wowtbc.gg/warcraftforever/bis-list/frost-mage/",
@@ -5647,7 +5677,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=10502"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: Арклайтовый гаечный ключ, Гномский универсальный пульт. В каталоге: Arclight Spanner, Gyromatic Micro-Adjustor."
             }
           ]
         },
@@ -5951,7 +5982,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -6168,7 +6200,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             }
           ]
         },
@@ -6300,7 +6333,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "280057",
@@ -6446,7 +6480,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             }
           ]
         },
@@ -6617,7 +6652,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=8343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             },
             {
               "id": null,
@@ -6795,7 +6831,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -7102,7 +7139,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -7495,7 +7533,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -7958,7 +7997,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=13512"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: мастерская кузня, кузнечный молот. В каталоге: a master forge, Blacksmith Hammer."
             },
             {
               "id": "19102",
@@ -8675,7 +8715,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -8856,7 +8897,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": null,
@@ -9040,7 +9082,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "280057",
@@ -9394,7 +9437,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -9665,7 +9709,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "272393",
@@ -10392,7 +10437,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=13512"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: мастерская кузня, кузнечный молот. В каталоге: a master forge, Blacksmith Hammer."
             },
             {
               "id": "873",
@@ -10667,7 +10713,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=11291"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: чародейская кузня, Runed Arcanite Rod. В каталоге: an arcane forge, Runed Arcanite Rod."
             },
             {
               "id": null,
@@ -11183,7 +11230,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "19059",
@@ -11276,7 +11324,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             }
           ]
         },
@@ -11417,7 +11466,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14342"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -11589,7 +11639,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "280057",
@@ -11735,7 +11786,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             }
           ]
         },
@@ -11943,7 +11995,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=8343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             }
           ]
         },
@@ -12084,7 +12137,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "18407",
@@ -12190,7 +12244,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             },
             {
               "id": null,
@@ -12410,7 +12465,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "20163",
@@ -12761,7 +12817,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -13185,7 +13242,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=13512"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: мастерская кузня, кузнечный молот. В каталоге: a master forge, Blacksmith Hammer."
             },
             {
               "id": "19102",
@@ -13555,7 +13613,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=11291"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: чародейская кузня, Runed Arcanite Rod. В каталоге: an arcane forge, Runed Arcanite Rod."
             }
           ]
         }
@@ -13985,7 +14044,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "19059",
@@ -14078,7 +14138,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             }
           ]
         },
@@ -14219,7 +14280,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": null,
@@ -14391,7 +14453,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "280057",
@@ -14578,7 +14641,10 @@
               "source": "Портняжное дело",
               "location": "Крафт",
               "steps": [
-                "Изготовление — Портняжное дело. Подробности рецепта уточняются."
+                "Нужны портняжное дело 250 и выкройка Pattern: Runecloth Cuffs.",
+                "По каталогу выкройку продаёт Pexmit <Someone’s Minion> на горе Хиджал, 59.2, 45.5. Размещение взято из QuestieDB с дополнениями Forever; доступность торговца в текущем серверном билде отдельно не подтверждена.",
+                "Изучи выкройку, собери рулоны рунической ткани, железношёлковую паутину и руническую нить из списка материалов и изготовь наручи.",
+                "Готовые наручи передаваемы до надевания: можно заказать крафт у портного или купить на аукционе."
               ],
               "links": [
                 [
@@ -14592,6 +14658,14 @@
                 [
                   "Pattern: Runecloth Cuffs",
                   "https://bindonforever.com/item/254124"
+                ],
+                [
+                  "Pexmit",
+                  "https://bindonforever.com/npc/266901"
+                ],
+                [
+                  "Mount Hyjal",
+                  "https://bindonforever.com/zones/mount-hyjal"
                 ]
               ],
               "sourceUrl": "https://wowtbc.gg/warcraftforever/bis-list/destruction-warlock/",
@@ -14758,7 +14832,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -14891,7 +14966,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             }
           ]
         },
@@ -15075,7 +15151,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -15419,7 +15496,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -15843,7 +15921,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=13512"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: мастерская кузня, кузнечный молот. В каталоге: a master forge, Blacksmith Hammer."
             },
             {
               "id": "19102",
@@ -16212,7 +16291,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=11291"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: чародейская кузня, Runed Arcanite Rod. В каталоге: an arcane forge, Runed Arcanite Rod."
             }
           ]
         }
@@ -16642,7 +16722,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "19059",
@@ -16735,7 +16816,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             }
           ]
         },
@@ -16997,7 +17079,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "280057",
@@ -17184,7 +17267,10 @@
               "source": "Портняжное дело",
               "location": "Крафт",
               "steps": [
-                "Изготовление — Портняжное дело. Подробности рецепта уточняются."
+                "Нужны портняжное дело 250 и выкройка Pattern: Runecloth Cuffs.",
+                "По каталогу выкройку продаёт Pexmit <Someone’s Minion> на горе Хиджал, 59.2, 45.5. Размещение взято из QuestieDB с дополнениями Forever; доступность торговца в текущем серверном билде отдельно не подтверждена.",
+                "Изучи выкройку, собери рулоны рунической ткани, железношёлковую паутину и руническую нить из списка материалов и изготовь наручи.",
+                "Готовые наручи передаваемы до надевания: можно заказать крафт у портного или купить на аукционе."
               ],
               "links": [
                 [
@@ -17198,6 +17284,14 @@
                 [
                   "Pattern: Runecloth Cuffs",
                   "https://bindonforever.com/item/254124"
+                ],
+                [
+                  "Pexmit",
+                  "https://bindonforever.com/npc/266901"
+                ],
+                [
+                  "Mount Hyjal",
+                  "https://bindonforever.com/zones/mount-hyjal"
                 ]
               ],
               "sourceUrl": "https://wowtbc.gg/warcraftforever/bis-list/demonology-warlock/",
@@ -17326,7 +17420,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: прялка. В каталоге: a spinning wheel."
             },
             {
               "id": null,
@@ -17497,7 +17592,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             }
           ]
         },
@@ -17681,7 +17777,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -18026,7 +18123,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "11822",
@@ -18456,7 +18554,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=13512"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: мастерская кузня, кузнечный молот. В каталоге: a master forge, Blacksmith Hammer."
             },
             {
               "id": "19102",
@@ -19223,7 +19322,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "19059",
@@ -19316,7 +19416,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             }
           ]
         },
@@ -19497,7 +19598,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             }
           ]
         },
@@ -19727,7 +19829,10 @@
               "source": "Портняжное дело",
               "location": "Крафт",
               "steps": [
-                "Изготовление — Портняжное дело. Подробности рецепта уточняются."
+                "Нужны портняжное дело 250 и выкройка Pattern: Runecloth Cuffs.",
+                "По каталогу выкройку продаёт Pexmit <Someone’s Minion> на горе Хиджал, 59.2, 45.5. Размещение взято из QuestieDB с дополнениями Forever; доступность торговца в текущем серверном билде отдельно не подтверждена.",
+                "Изучи выкройку, собери рулоны рунической ткани, железношёлковую паутину и руническую нить из списка материалов и изготовь наручи.",
+                "Готовые наручи передаваемы до надевания: можно заказать крафт у портного или купить на аукционе."
               ],
               "links": [
                 [
@@ -19741,6 +19846,14 @@
                 [
                   "Pattern: Runecloth Cuffs",
                   "https://bindonforever.com/item/254124"
+                ],
+                [
+                  "Pexmit",
+                  "https://bindonforever.com/npc/266901"
+                ],
+                [
+                  "Mount Hyjal",
+                  "https://bindonforever.com/zones/mount-hyjal"
                 ]
               ],
               "sourceUrl": "https://wowtbc.gg/warcraftforever/bis-list/balance-druid/",
@@ -19792,7 +19905,10 @@
               "source": "Кожевничество",
               "location": "Крафт",
               "steps": [
-                "Изготовление — Кожевничество. Подробности рецепта уточняются."
+                "Нужны кожевничество 165 и выкройка Pattern: Gloves of the Greatfather.",
+                "Каталог называет два источника выкройки: пирата Южных морей (Southsea Freebooter) 44–45-го уровня в Танарисе и Smokywood Pastures Special Gift. Это данные QuestieDB; текущий дроп и условия праздничного подарка в Forever отдельно не подтверждены.",
+                "После получения выкройки изучи её и собери толстую кожу, первородную землю и шёлковую нить из списка. Изготовь перчатки через кожевничество.",
+                "Перчатки передаваемы до надевания. Если выкройка недоступна, готовый предмет можно искать у мастеров или на аукционе."
               ],
               "links": [
                 [
@@ -19806,6 +19922,14 @@
                 [
                   "Pattern: Gloves of the Greatfather",
                   "https://bindonforever.com/item/17722"
+                ],
+                [
+                  "Southsea Freebooter",
+                  "https://bindonforever.com/npc/7856"
+                ],
+                [
+                  "Tanaris",
+                  "https://bindonforever.com/zones/tanaris"
                 ]
               ],
               "sourceUrl": "https://wowtbc.gg/warcraftforever/bis-list/balance-druid/",
@@ -20095,7 +20219,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -20228,7 +20353,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": null,
@@ -20491,7 +20617,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=7082"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": "275606",
@@ -20589,7 +20716,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14343"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             }
           ]
         },
@@ -21310,7 +21438,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=11291"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: Runed Silver Rod. В каталоге: Runed Silver Rod."
             }
           ]
         }
@@ -21486,7 +21615,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": "18727",
@@ -21828,7 +21958,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14227"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": "272958",
@@ -22016,7 +22147,8 @@
                   "quantity": 3,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": null,
@@ -22383,7 +22515,10 @@
               "source": "Кожевничество",
               "location": "Крафт",
               "steps": [
-                "Изготовление — Кожевничество. Подробности рецепта уточняются."
+                "Нужны кожевничество 165 и выкройка Pattern: Gloves of the Greatfather.",
+                "Каталог называет два источника выкройки: пирата Южных морей (Southsea Freebooter) 44–45-го уровня в Танарисе и Smokywood Pastures Special Gift. Это данные QuestieDB; текущий дроп и условия праздничного подарка в Forever отдельно не подтверждены.",
+                "После получения выкройки изучи её и собери толстую кожу, первородную землю и шёлковую нить из списка. Изготовь перчатки через кожевничество.",
+                "Перчатки передаваемы до надевания. Если выкройка недоступна, готовый предмет можно искать у мастеров или на аукционе."
               ],
               "links": [
                 [
@@ -22397,6 +22532,14 @@
                 [
                   "Pattern: Gloves of the Greatfather",
                   "https://bindonforever.com/item/17722"
+                ],
+                [
+                  "Southsea Freebooter",
+                  "https://bindonforever.com/npc/7856"
+                ],
+                [
+                  "Tanaris",
+                  "https://bindonforever.com/zones/tanaris"
                 ]
               ],
               "sourceUrl": "https://wowtbc.gg/warcraftforever/bis-list/elemental-shaman/",
@@ -22713,7 +22856,8 @@
                   "quantity": 4,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: ткацкий станок. В каталоге: a loom."
             },
             {
               "id": null,
@@ -22846,7 +22990,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=15407"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": "252606",
@@ -22971,7 +23116,8 @@
                   "quantity": 2,
                   "url": "https://www.wowhead.com/forever/item=14341"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: швейная машина. В каталоге: a sewing machine."
             },
             {
               "id": null,
@@ -23816,7 +23962,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=14344"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: чародейская кузня, Runed Arcanite Rod. В каталоге: an arcane forge, Runed Arcanite Rod."
             },
             {
               "id": "272433",
@@ -23931,7 +24078,8 @@
                   "quantity": 1,
                   "url": "https://www.wowhead.com/forever/item=4470"
                 }
-              ]
+              ],
+              "recipeEquipment": "Для изготовления: Runed Silver Rod. В каталоге: Runed Silver Rod."
             }
           ]
         }
