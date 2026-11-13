@@ -1,5 +1,5 @@
 'use strict';
-const DATA_VERSION = '20261113-3';
+const DATA_VERSION = '20261113-art1';
 
 const classes = [
   ['druid', 'Друид', '#ffae67'], ['shaman', 'Шаман', '#77b7ff'],
@@ -31,6 +31,38 @@ let tooltipAnchor = null;
 let specs = [];
 let selectedSpec;
 let dungeons = [];
+let artwork = {};
+let artworkRequest = 0;
+
+function renderArtwork(spec) {
+  const entry = artwork[spec.id];
+  const media = document.querySelector('#hero-media');
+  const credit = document.querySelector('#art-credit');
+  const request = ++artworkRequest;
+  media.classList.remove('is-ready');
+  credit.hidden = true;
+  if (!entry) { media.replaceChildren(); return; }
+  const img = new Image();
+  img.id = 'hero-image';
+  img.alt = classes.find(([id]) => id === spec.classId)[1] + ' — ' + spec.label;
+  img.width = 960;
+  img.height = 480;
+  img.decoding = 'async';
+  img.fetchPriority = 'high';
+  img.style.objectPosition = entry.position || '50% 50%';
+  img.onload = () => {
+    if (request !== artworkRequest) return;
+    media.replaceChildren(img);
+    media.dataset.spec = spec.id;
+    requestAnimationFrame(() => media.classList.add('is-ready'));
+    credit.href = entry.source;
+    credit.hidden = false;
+  };
+  img.onerror = () => {
+    if (request === artworkRequest) media.replaceChildren();
+  };
+  img.src = entry.src;
+}
 
 function element(tag, className, text) {
   const node = document.createElement(tag);
@@ -168,6 +200,7 @@ function renderSpec() {
   selectedSpec = specs.find(spec => spec.id === id) || specs[0];
   const currentClass = classes.find(([key]) => key === selectedSpec.classId);
   document.documentElement.style.setProperty('--accent', currentClass[2]);
+  renderArtwork(selectedSpec);
   document.querySelector('#spec-title').textContent = titles[selectedSpec.id] || selectedSpec.label.toLowerCase();
   const roleName = {heal:'ЛЕЧЕНИЕ',healer:'ЛЕЧЕНИЕ',tank:'ТАНК',dps:'УРОН',ranged:'ДАЛЬНИЙ БОЙ'}[selectedSpec.role.toLowerCase()] || selectedSpec.role.toUpperCase();
   document.querySelector('#role').textContent = 'ОРДА / ' + currentClass[1].toUpperCase() + ' / ' + roleName;
@@ -220,6 +253,10 @@ window.addEventListener('hashchange', () => { if (specs.length) renderSpec(); })
 document.addEventListener('keydown', event => { if (event.key === 'Escape') hideTooltip(); });
 
 async function loadData() {
+  try {
+    const response = await fetch('art.json?v=' + DATA_VERSION);
+    if (response.ok) artwork = await response.json();
+  } catch { /* Equipment stays usable when artwork is unavailable. */ }
   try {
     const response = await fetch('dungeons.json?v=' + DATA_VERSION);
     if (response.ok) dungeons = await response.json();

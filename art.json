@@ -1,0 +1,198 @@
+{
+  "balance-druid": {
+    "src": "art/balance-druid.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19956929",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/PJHOWU2DE0AO1447154358067.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "feral-druid": {
+    "src": "art/feral-druid.jpg",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19956929",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/D5XTDHVPYCAH1447154358463.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "feral-tank-druid": {
+    "src": "art/feral-tank-druid.jpg",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19956929",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/CPZGT5EUQ7XV1447154358786.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "restoration-druid": {
+    "src": "art/restoration-druid.webp",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19956929",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/NV2KX8LQVFOA1447154360080.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "restoration-shaman": {
+    "src": "art/restoration-shaman.jpg",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955664",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/01I3PBJO8YDA1446614219856.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "enhancement-shaman": {
+    "src": "art/enhancement-shaman.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955664",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/ELQ5OYR3LMVQ1446614219831.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "elemental-shaman": {
+    "src": "art/elemental-shaman.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955664",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/QZ2ICC3FK89C1446614219831.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "holy-priest": {
+    "src": "art/holy-priest.webp",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19941176",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/VVRX2HZ6UMDA1446614219476.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "shadow-priest": {
+    "src": "art/shadow-priest.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19941176",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/W7ZTBA2HUETU1446614219483.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "discipline-priest": {
+    "src": "art/discipline-priest.webp",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19941176",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/PD8W468L2XL11446614219448.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "arms-warrior": {
+    "src": "art/arms-warrior.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19956928",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/KN4OFZQH2IM31447152976149.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "fury-warrior": {
+    "src": "art/fury-warrior.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19956928",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/J0VEJM63WE3K1447152976099.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "protection-warrior": {
+    "src": "art/protection-warrior.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19956928",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/KSIWLBSSG3761447152976587.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "holy-paladin": {
+    "src": "art/holy-paladin.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955661",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/0ETABVOD6M741446614219274.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "protection-paladin": {
+    "src": "art/protection-paladin.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955661",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/BG3W6CXODO031446614219281.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "retribution-paladin": {
+    "src": "art/retribution-paladin.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955661",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/CWJ0IFI6QJWV1446614219285.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "assassination-rogue": {
+    "src": "art/assassination-rogue.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955666",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/3V30FQYCS0SJ1446614219614.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "subtlety-rogue": {
+    "src": "art/subtlety-rogue.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955666",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/RJ3RRYY92U751446614219619.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "combat-rogue": {
+    "src": "art/combat-rogue.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955666",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/FBQW2WMT4RUA1446614219618.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "arcane-mage": {
+    "src": "art/arcane-mage.webp",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19941177",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/S46KEIUDZE1U1446614218885.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "fire-mage": {
+    "src": "art/fire-mage.jpg",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19941177",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/RRSXG0O5IS4C1446614218883.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "frost-mage": {
+    "src": "art/frost-mage.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19941177",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/6P8W6SA1G93Q1446614218887.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "affliction-warlock": {
+    "src": "art/affliction-warlock.jpg",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955662",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/BQGV7CR0LGQ91446614220024.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "demonology-warlock": {
+    "src": "art/demonology-warlock.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955662",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/KZ4BDCJFBAO51446614220029.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "destruction-warlock": {
+    "src": "art/destruction-warlock.webp",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19955662",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/UKE94KU6G5H91446614220035.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "survival-hunter": {
+    "src": "art/survival-hunter.jpg",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19911277",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/ECJKAIMMHWT61446614218698.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "beast-mastery-hunter": {
+    "src": "art/beast-mastery-hunter.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19911277",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/ND8SY2657FO71446614218638.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  },
+  "marksmanship-hunter": {
+    "src": "art/marksmanship-hunter.avif",
+    "source": "https://worldofwarcraft.blizzard.com/en-us/news/19911277",
+    "original": "https://bnetcmsus-a.akamaihd.net/cms/gallery/N9LBOPVQNRN91446614218693.jpg",
+    "credit": "Blizzard Entertainment",
+    "position": "50% 50%"
+  }
+}
