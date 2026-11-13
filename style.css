@@ -20,12 +20,7 @@ button { font: inherit; color: inherit; cursor: pointer; }
 a { color: var(--green); text-underline-offset: 4px; }
 button:focus-visible, a:focus-visible, summary:focus-visible { outline: 2px solid var(--green); outline-offset: 3px; }
 .shell { width: min(1120px, calc(100% - 64px)); margin-inline: auto; }
-.site-header { background: #0e1410; border-bottom: 1px solid #25342a; }
-.nav { display: flex; align-items: center; justify-content: space-between; min-height: 62px; gap: 12px; }
-.brand { color: var(--ink); text-decoration: none; font: 700 25px var(--display); }
-.brand span { color: var(--green); font-size: 17px; margin-right: 5px; }
-.edition, .eyebrow, .rank-tag, .count { font-size: 11px; font-weight: 700; letter-spacing: .12em; }
-.edition { color: var(--muted); }
+.eyebrow, .rank-tag { font-size: 11px; font-weight: 700; letter-spacing: .12em; }
 .hero {
   position: relative;
   isolation: isolate;
@@ -47,8 +42,6 @@ h1 { font: 700 clamp(52px, 8vw, 104px)/.83 var(--display); margin-bottom: 23px; 
 .equipment { padding-block: 42px 55px; scroll-margin-top: 15px; }
 .section-title { display: flex; justify-content: space-between; align-items: center; gap: 12px; margin-bottom: 18px; }
 .section-title h2 { font: 700 clamp(31px, 5vw, 50px)/1 var(--display); margin-bottom: 5px; }
-.scope p { color: var(--muted); margin-bottom: 0; }
-.count { flex-shrink: 0; color: var(--green); background: #1a271e; border: 1px solid #344b3a; border-radius: 5px; padding: 6px 10px; letter-spacing: .04em; }
 .slots { display: grid; gap: 8px; }
 .slot { background: var(--panel); border: 1px solid var(--line); border-radius: 8px; overflow: hidden; }
 .slot[open] { border-color: #516647; background: #141d18; }
@@ -84,10 +77,6 @@ h1 { font: 700 clamp(52px, 8vw, 104px)/.83 var(--display); margin-bottom: 23px; 
 .more { color: var(--green); font-weight: 600; font-size: 12px; border: 1px solid #536952; border-radius: 4px; background: #17231a; padding: 5px 9px; margin-bottom: 12px; }
 .more:hover { background: #2e422d; }
 .pedestal { display: grid; place-items: center; width: 100%; height: var(--step); min-height: 23px; background: var(--pedestal); border-top: 1px solid color-mix(in srgb, var(--rank), transparent 69%); color: var(--rank); font: 700 21px/.9 var(--display); }
-.scope { margin-top: 21px; padding: 18px 20px; border: 1px solid var(--line); border-radius: 8px; background: #141d18; font-size: 13px; }
-.scope h3 { margin-bottom: 5px; font: 700 25px/1 var(--display); }
-.scope p + p { margin-top: 8px; }
-.scope .snapshot { font-size: 12px; }
 #item-tooltip { position: fixed; z-index: 2; pointer-events: none; width: max-content; max-width: min(350px, calc(100vw - 16px)); padding: 11px 14px; background: #0c1210; border: 1px solid #60775b; border-radius: 6px; box-shadow: 0 8px 28px #000a; font-size: 12px; }
 .facts { list-style: none; margin: 5px 0 0; padding: 0; color: #d1dccf; }
 .facts li + li { margin-top: 2px; }
@@ -106,7 +95,6 @@ dialog .place { color: var(--green); margin-bottom: 8px; }
   .shell { width: calc(100% - 28px); }
   .hero { background-position: center, center, 62% 50%, center; }
   .hero-content { min-height: 380px; padding-block: 61px 40px; }
-  .edition { font-size: 9px; text-align: right; }
   .section-title { align-items: flex-start; flex-direction: column; }
   .slot-summary { padding-inline: 10px; gap: 9px; }
   .slot-name { font-size: 14px; gap: 8px; }
@@ -141,7 +129,6 @@ h1 { font-size: clamp(48px, 6vw, 88px); line-height: .95; }
 .gear-card .origin { flex: 1; padding-top: 10px; margin-bottom: 8px; overflow-wrap: anywhere; }
 .item-gem { color: var(--accent); font-size: 29px; line-height: 42px; width: 42px; border-radius: 6px; background: #26372b; }
 .original-name, .item-note { color: var(--muted); font-size: 12px; margin-top: 10px; }
-.footer { padding-block: 20px 30px; display: flex; justify-content: space-between; gap: 12px; color: #7b907e; border-top: 1px solid var(--line); font-size: 12px; }
 #status { margin-bottom: 16px; color: var(--gold); }
 #item-tooltip { max-height: min(75vh,600px); overflow: hidden; }
 dialog { width: min(880px,calc(100% - 32px)); padding: 0; overflow: hidden; }
@@ -175,7 +162,6 @@ dialog .facts { margin-top: 0; font-size: 13px; line-height: 1.7; }
   .gear-card .origin { grid-column: 1; font-size: 12px; margin: 0; padding: 0 0 0 36px; }
   .gear-card .more { grid-column: 2; grid-row: 1 / span 2; font-size: 11px; padding: 6px; }
   .item-gem { font-size: 20px; min-width: 29px; width: 29px; line-height: 29px; text-align: center; }
-  .footer { font-size: 11px; }
   dialog { padding: 0; width: calc(100% - 16px); }
   #dialog-content { padding: 22px 17px; max-height: calc(100dvh - 16px); }
   .dialog-layout { grid-template-columns: 1fr; gap: 10px; }
@@ -186,9 +172,6 @@ dialog .facts { margin-top: 0; font-size: 13px; line-height: 1.7; }
 .hero-media img { width: 100%; height: 100%; object-fit: cover; display: block; }
 .hero::after { content: ''; position: absolute; inset: 0; z-index: -1; pointer-events: none; background: linear-gradient(90deg,#0d1713 20%,#0d1713ef 31%,#0d1713a6 43%,#0d171326 62%,transparent 78%),linear-gradient(0deg,#0d1713a6,transparent 24%); }
 .hero-content { position: relative; }
-.art-credit { position: absolute; bottom: 12px; right: max(18px,calc((100% - 1120px)/2)); font-size: 10px; color: #e2e7df; text-shadow: 0 1px 6px #000; text-decoration: none; background: #07100bb0; border: 1px solid #ffffff26; border-radius: 4px; padding: 3px 7px; }
-.art-credit:hover { color: white; background: #07100bea; }
-.art-credit[hidden] { display: none; }
 @media(max-width:640px) {
   .hero-media { position: relative; inset: auto; width: 100%; height: auto; aspect-ratio: 2; z-index: 0; }
   .hero-media img { object-fit: cover; }
@@ -197,6 +180,5 @@ dialog .facts { margin-top: 0; font-size: 13px; line-height: 1.7; }
   .hero-content h1 { font-size: clamp(42px,10.5vw,64px); margin-bottom: 16px; }
   .hero-content .eyebrow { margin-bottom: 12px; }
   .hero-description { margin-bottom: 0; font-size: 13px; }
-  .art-credit { top: 12px; bottom: auto; right: 14px; z-index: 2; font-size: 9px; }
 }
 @media(prefers-reduced-motion:reduce) { .hero-media { transition: none; } }

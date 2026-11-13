@@ -1,5 +1,5 @@
 'use strict';
-const DATA_VERSION = '20261113-art1';
+const DATA_VERSION = '20261113-realistic1';
 
 const classes = [
   ['druid', 'Друид', '#ffae67'], ['shaman', 'Шаман', '#77b7ff'],
@@ -37,16 +37,14 @@ let artworkRequest = 0;
 function renderArtwork(spec) {
   const entry = artwork[spec.id];
   const media = document.querySelector('#hero-media');
-  const credit = document.querySelector('#art-credit');
   const request = ++artworkRequest;
   media.classList.remove('is-ready');
-  credit.hidden = true;
   if (!entry) { media.replaceChildren(); return; }
   const img = new Image();
   img.id = 'hero-image';
   img.alt = classes.find(([id]) => id === spec.classId)[1] + ' — ' + spec.label;
-  img.width = 960;
-  img.height = 480;
+  img.width = 1600;
+  img.height = 800;
   img.decoding = 'async';
   img.fetchPriority = 'high';
   img.style.objectPosition = entry.position || '50% 50%';
@@ -55,8 +53,6 @@ function renderArtwork(spec) {
     media.replaceChildren(img);
     media.dataset.spec = spec.id;
     requestAnimationFrame(() => media.classList.add('is-ready'));
-    credit.href = entry.source;
-    credit.hidden = false;
   };
   img.onerror = () => {
     if (request === artworkRequest) media.replaceChildren();
@@ -235,14 +231,6 @@ function renderSpec() {
     details.append(summary, cards);
     return details;
   }));
-  document.querySelector('#count').textContent = selectedSpec.slots.length + ' слотов · ' + selectedSpec.slots.reduce((sum, slot) => sum + slot.items.length, 0) + ' вариантов';
-  const scope = document.querySelector('#scope');
-  scope.replaceChildren(element('h3', '', 'О подборке'));
-  scope.append(element('p', '', selectedSpec.note || 'Варианты экипировки 60-го уровня перед первыми рейдами. Список источника не ранжирован. Характеристики и добыча — по сторонней базе Forever, номер билда не указан.'));
-  if (selectedSpec.id === 'holy-priest') scope.append(element('p', '', 'Holy выбран для рейдового лечения группы. Discipline доступен отдельной подборкой.'));
-  const source = element('p', 'snapshot', (selectedSpec.checkedAt === '2026-11-12' ? '12' : '13') + ' ноября 2026 · ');
-  if (selectedSpec.sourceUrl) source.append(externalLink('Источник подборки', selectedSpec.sourceUrl));
-  scope.append(source);
 }
 
 document.querySelector('#close-dialog').addEventListener('click', () => dialog.close());
